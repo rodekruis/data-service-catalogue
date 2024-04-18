@@ -38,6 +38,8 @@ nav:
     - 'Home': 'index.md'
     - 'General':
       - 'Log In': 'general/logging-in.md'
+      - 'Change current password': 'general/change-current-password.md'
+      - 'Reset password': 'general/reset-password.md'
       - 'Add Team Members': 'general/add-team-members.md'
       - 'Add Users': 'general/add-users.md'
       - 'Change Language': 'general/change-language.md'
