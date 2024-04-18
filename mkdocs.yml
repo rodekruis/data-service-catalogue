@@ -1,0 +1,62 @@
+site_name: 121 Platform User Manual
+
+# repo_url: https://github.com/espocrm/documentation/
+# edit_uri: edit/master/docs/
+
+# extra_javascript: [js/extra.js]
+
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/notice.css
+  #- stylesheets/styles.css
+
+markdown_extensions:
+  - attr_list
+  - toc:
+        toc_depth : "1-1"
+  - admonition
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  # - pymdownx.details
+  # - pymdownx.superfences
+  # - mdx_truly_sane_lists
+  # - codehilite:
+  #     guess_lang: false
+  #     use_pygments: true
+
+plugins:
+  - search
+
+theme:
+    name: material
+    language: en
+    palette:
+      primary: custom
+    logo: assets/img/121Logo.svg
+
+extra:
+  generator: false
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: Dutch
+      link: /nl/
+      lang: nl
+
+nav:
+    - 'Home': 'index.md'
+    - 'General':
+      - 'Log In': 'general/logging-in.md'
+      - 'Add Team Members': 'general/add-team-members.md'
+      - 'Add Users': 'general/add-users.md'
+      - 'Change Language': 'general/change-language.md'
+      - 'Registration': 'general/registration.md'
+    - 'Running Your Program':
+      - 'Program Design': 'ProgramOverview/design.md'
+      - 'Registration': 'ProgramOverview/registration.md'
+      - 'Inclusion': 'ProgramOverview/inclusion.md'
+      - 'Payment': 'ProgramOverview/payment.md'
+      - 'Evaluation': 'ProgramOverview/evaluation.md'

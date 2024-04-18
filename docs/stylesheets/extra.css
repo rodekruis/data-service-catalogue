@@ -1,0 +1,13 @@
+.md-sidebar--secondary {
+    display: none;
+  }
+
+:root {
+  --md-primary-fg-color:        #4F22D7;
+  --md-primary-fg-color--light: #CFBFFF;
+  --md-primary-fg-color--dark:  #361A8C;
+}
+
+/* body {
+  background: #eceff4;
+} */
