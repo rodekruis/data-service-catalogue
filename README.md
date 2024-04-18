@@ -1,5 +1,8 @@
 # 121 Manual
 
+> [!TIP]
+> Read the manual: <https://manual.121.global>
+
 ## Development
 
 ### Getting Started
