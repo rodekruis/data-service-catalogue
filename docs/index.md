@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# 121 User manual
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Welcome to the 121 user manual!
 
-## Commands
+On the left you can find a navigation overview, or find the information you need by using the search bar on the top right.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+You can also change the language on the top right.
