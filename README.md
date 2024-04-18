@@ -7,7 +7,7 @@
 
 ### Getting Started
 
-- Install Python environment (On Linux/macOS):
+- Install a [Python virtual environment](https://realpython.com/python-virtual-environments-a-primer/) (On Linux/macOS):
 
   ```sh
   python3 -m venv venv
