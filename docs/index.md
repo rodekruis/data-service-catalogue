@@ -1,7 +1,8 @@
 # 121 User manual
 
 
-!!! 
+!!! danger "Page under construction"
+    Our team is working on the content for the helpdesk page. Thank you for your patience.
 
 ## Welcome to the 121 user manual!
 
