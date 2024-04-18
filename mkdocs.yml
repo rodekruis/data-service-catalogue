@@ -3,8 +3,6 @@ site_name: 121 Platform User Manual
 
 extra_css:
   - stylesheets/extra.css
-  - stylesheets/notice.css
-  #- stylesheets/styles.css
 
 markdown_extensions:
   - attr_list
@@ -14,12 +12,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  # - pymdownx.details
-  # - pymdownx.superfences
-  # - mdx_truly_sane_lists
-  # - codehilite:
-  #     guess_lang: false
-  #     use_pygments: true
 
 plugins:
   - search
@@ -30,6 +22,7 @@ theme:
     palette:
       primary: custom
     logo: assets/img/121Logo.svg
+    # favicon: assets/img/121-logo.190.webp
 
 extra:
   generator: false
