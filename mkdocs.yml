@@ -22,17 +22,16 @@ theme:
     palette:
       primary: custom
     logo: assets/img/121Logo.svg
-    # favicon: assets/img/121-logo.190.webp
 
-extra:
-  generator: false
-  alternate:
-    - name: English
-      link: /
-      lang: en
-    - name: Nederlands
-      link: /nl/
-      lang: nl
+# extra:
+#   generator: false
+#   alternate:
+#     - name: English
+#       link: /
+#       lang: en
+#     - name: Nederlands
+#       link: /nl/
+#       lang: nl
 
 nav:
     - 'Home': 'index.md'
