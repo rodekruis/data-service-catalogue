@@ -23,8 +23,8 @@ theme:
       primary: custom
     logo: assets/img/121Logo.svg
 
-# extra:
-#   generator: false
+extra:
+  generator: false
 #   alternate:
 #     - name: English
 #       link: /
