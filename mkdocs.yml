@@ -12,6 +12,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.details
+  - pymdownx.superfences
 
 plugins:
   - search
@@ -39,7 +41,6 @@ nav:
       - 'Log In': 'general/logging-in.md'
       - 'Change current password': 'general/change-current-password.md'
       - 'Reset password': 'general/reset-password.md'
-      - 'Add Team Members': 'general/add-team-members.md'
       - 'Add Users': 'general/add-users.md'
       - 'Change Language': 'general/change-language.md'
       - 'Registration': 'general/registration.md'
@@ -49,3 +50,8 @@ nav:
       - 'Inclusion': 'ProgramOverview/inclusion.md'
       - 'Payment': 'ProgramOverview/payment.md'
       - 'Evaluation': 'ProgramOverview/evaluation.md'
+    - 'Program Team': 
+      - 'Team page': 'general/team-page.md'
+      - 'Add team members': 'general/add-team-members.md'
+      - 'Edit team members roles': 'general/edit-team-roles-program.md'
+      - 'Remove team members': 'general/remove-team-members-program.md'

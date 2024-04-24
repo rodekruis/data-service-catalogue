@@ -9,4 +9,4 @@ title: Registration Form (kobo)
 -   Share this koboform with account `nlrc121platform`
 -   Inform the 121 team that you have shared the form
 
-Then the 121 team will link the kobo form with the right program in the 121 platform and inform you when it is ready.
+Our 121 support team will link the kobo form with the right program in the 121 platform and inform you when it is ready.
