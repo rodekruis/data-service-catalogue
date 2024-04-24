@@ -30,4 +30,4 @@ Save your changes. The user will be automatically added into the program team.
     If you can't find the user that you want to add to the program, they need to be <a href="../add-users">added to the 121 platform first</a>
 
 !!! warning "This user is already a team member"
-    If you get an error message "This user is already a team member", they have already been added to the team. Do you want to change their roles? Follow the <a href="../general/remove-team-members-program.md">instructions in this page.</a>
+    If you get an error message "This user is already a team member", they have already been added to the team. Do you want to change their roles? Follow the <a href="../remove-team-members-program">instructions in this page.</a>
