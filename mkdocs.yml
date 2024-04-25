@@ -37,6 +37,7 @@ extra:
 
 nav:
     - 'Home': 'index.md'
+    - 'Support': 'general/support-contact.md'
     - 'General':
       - 'Log In': 'general/logging-in.md'
       - 'Change current password': 'general/change-current-password.md'
@@ -50,8 +51,25 @@ nav:
       - 'Inclusion': 'ProgramOverview/inclusion.md'
       - 'Payment': 'ProgramOverview/payment.md'
       - 'Evaluation': 'ProgramOverview/evaluation.md'
+    - 'Users and Roles' :
+      - 'Users page': 'general/users-permissions.md'
+      - 'Roles-based permissions': 'general/table-description-role-permissions.md'
     - 'Program Team': 
       - 'Team page': 'general/team-page.md'
       - 'Add team members': 'general/add-team-members.md'
       - 'Edit team members roles': 'general/edit-team-roles-program.md'
       - 'Remove team members': 'general/remove-team-members-program.md'
+    - 'Program Design':
+      - 'Program Design': 'ProgramOverview/design.md'
+      - 'Read & Change Program Design': 'ProgramOverview/read-change-design-details.md'
+    - 'Registration':
+      - 'Registration page': 'ProgramOverview/registration.md'
+      - 'Import registration list with excel': 'ProgramOverview/registration-import-list.md'
+      - 'Automatic import with KOBO': 'ProgramOverview/registration-automatic-import-kobo.md'
+      - 'Deduplication': 'ProgramOverview/registration-deduplication.md'
+      - 'Validate registration': 'ProgramOverview/registration-validate-pa.md'
+      - 'Reject registration': 'ProgramOverview/registration-validate-pa.md'
+      - 'Empty Registration List': 'ProgramOverview/registration-list-empty.md'
+      
+
+      

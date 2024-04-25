@@ -28,3 +28,6 @@ You can always add, remove and edit members from the program team while running 
 
 !!! warning "Permission required"
     Per default, Admin and CVA manager roles have the permission to add and delete team members, and assign them a role into a program team. If you would like to enable more users to manage the program team members and roles distribution, you can request to add the Team management role into your instance. Contact your dedicated account manager or support team via <a href="mailto:support@121.global">this email</a>
+
+
+Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.

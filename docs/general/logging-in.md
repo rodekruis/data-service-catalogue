@@ -14,3 +14,6 @@ title: Logging in
 -   Click the log in button
 
 ![Login screen](../assets/img/loginScreen.png)
+
+
+Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.

@@ -28,3 +28,6 @@ In the team page of your program, you can see the list of team members currently
 
 !!! warning "A team member was removed by mistake"
     Did you remove a team member by mistake? Do not worry, the history and logs remain unchanged. If you have the permission, you can add the team member back to the team. If not, contact your 121 admin or our support team.
+
+
+Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
