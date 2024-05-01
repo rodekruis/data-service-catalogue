@@ -25,7 +25,7 @@ Rejected People Affected remain listed in the Registration & Validation page wit
 
 Your validation process may include :
 
-- Deduplication of People Affected in your registration list. Follow the instructions [on the deduplication page](../programoverview/registration-deduplication.md)
+- Deduplication of People Affected in your registration list. Follow the instructions [on the deduplication page](../ProgramOverview/registration-deduplication.md)
 - Verifying and editing People Affected details. Follow the instructions on the People Affected details page.
 
 

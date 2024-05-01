@@ -19,7 +19,7 @@ To overview your program details :
 
 The Program Details metrics translates your program requirements. The details provide the main information about the duration and location of your program, budget, targeted beneficiaries, cash aid delivery and distribution frequencies. Each of your active programs may have different metrics shown in the table below.
 
-Futher explanation about the program details metrics on the [Program Details page.](../ProgramOverview/design-details.md)
+Futher explanation about the program details metrics on the [Program Details page.](../design/read-change-design-details.md.md)
 
 ![Program Details](../assets/img/ProgramDetailsTable.png)
 
@@ -32,7 +32,7 @@ When setting up your instance, our team will request you to share these details.
     Currently it is not possible to perform any actions or change these metrics yourself in the design page. Please <a href="mailto:support@121.global">contact the 121 support team</a> to help you with this.
 
 To go to the next phase of your program process, click on the right button to open registration phase or in the menu barre.
-Follow the instructions on [Registration](../ProgramOverview/registration.md)
+Follow the instructions on [Registration](../registration/registration.md)
 
 
 Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.

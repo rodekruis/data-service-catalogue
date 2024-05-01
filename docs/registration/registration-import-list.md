@@ -15,12 +15,12 @@ Enter the Program which you want to import your registration file. Then, go to R
 
 ### **Import a registration list**
 
-[Import Registration button](../assets/img/RegistrationImportFile.png)
+![Import Registration button](../assets/img/RegistrationImportFile.png)
 
 Click on Import Registrations button, using a CSV file.​
 Import registration pop-up.
 
-[Import Registration pop-up](../assets/img/RegistrationImportFileCSVBox.png)
+![Import Registration pop-up](../assets/img/RegistrationImportFileCSVBox.png)
 
 - Click to chose a CSV file from your computer.
 - Click to cancel the action.
@@ -36,7 +36,7 @@ Import registration pop-up.
 The template is automatically generated in 121 platform, based on the program registration form.
 For instance, the program registration form may include selection criteria such as name, phone number, amount of household members, province and IBAN number. The template will automtically include a column per criteria, matching the registration form questions. Below, you can find an example of a template based on a KOBO registration form.
 
-INCLUDE 2 PICTURES MATCHING 5 CRITERIA + COLUMNS
+<!-- INCLUDE 2 PICTURES MATCHING 5 CRITERIA + COLUMNS -->
 
 
 !!! info "Deduplication"
