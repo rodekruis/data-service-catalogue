@@ -19,3 +19,6 @@ Once logged in, click on the current language in the top right corner of the scr
 At login, click on the current language in the top right corner of the screen. Select your preferred language.
 
 ![Login screen](../assets/img/loginScreen.png)
+
+
+Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.

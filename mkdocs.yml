@@ -37,21 +37,46 @@ extra:
 
 nav:
     - 'Home': 'index.md'
+    - 'Support': 'general/support-contact.md'
     - 'General':
       - 'Log In': 'general/logging-in.md'
       - 'Change current password': 'general/change-current-password.md'
       - 'Reset password': 'general/reset-password.md'
-      - 'Add Users': 'general/add-users.md'
       - 'Change Language': 'general/change-language.md'
-      - 'Registration': 'general/registration.md'
+      - 'Registration': 'registration/registration.md'
     - 'Running Your Program':
-      - 'Program Design': 'ProgramOverview/design.md'
-      - 'Registration': 'ProgramOverview/registration.md'
-      - 'Inclusion': 'ProgramOverview/inclusion.md'
-      - 'Payment': 'ProgramOverview/payment.md'
-      - 'Evaluation': 'ProgramOverview/evaluation.md'
+      - 'Program Design': 'design/design.md'
+      - 'Registration': 'registration/registration.md'
+      - 'Inclusion': 'inclusion/inclusion.md'
+      - 'Payment': 'payment/payment.md'
+      - 'Evaluation': 'evaluation/evaluation.md'
+    - 'Users and Roles' :
+      - 'Users Overview': 'users/users-roles-page.md'
+      - 'Add Users': 'users/add-users.md'
+      - 'Roles and permissions': 'users/description-roles.md'
     - 'Program Team': 
-      - 'Team page': 'general/team-page.md'
-      - 'Add team members': 'general/add-team-members.md'
-      - 'Edit team members roles': 'general/edit-team-roles-program.md'
-      - 'Remove team members': 'general/remove-team-members-program.md'
+      - 'Team page': 'team/team-page.md'
+      - 'Add team members': 'team/add-team-members.md'
+      - 'Change team members roles': 'team/change-team-roles-program.md'
+      - 'Remove team members': 'team/remove-team-members-program.md'
+    - 'Program Design':
+      - 'Program Design': 'design/design.md'
+      - 'Read & Change Program Design': 'design/read-change-design-details.md'
+    - 'Registration':
+      - 'Registration Overview': 'registration/registration.md'
+      - 'Import excel file': 'registration/registration-import-list.md'
+      - 'Automatic import with KOBO': 'registration/registration-automatic-import-kobo.md'
+      - 'Deduplication': 'registration/registration-deduplication.md'
+      - 'Validate registration': 'registration/registration-validate-pa.md'
+      - 'Reject registration': 'registration/registration-validate-pa.md'
+      - 'Empty Registration List': 'registration/registration-list-empty.md'
+    - 'Inclusion':
+      - 'Inclusion Overview': 'inclusion/inclusion.md'
+    - 'Payment':
+      - 'Payment Overview': 'payment/payment.md'
+    - 'Evaluation':
+      - 'Evaluation Overview': 'evluation/evaluatio.md'
+
+      
+
+      
