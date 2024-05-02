@@ -74,6 +74,11 @@ nav:
       - 'Inclusion Overview': 'inclusion/inclusion.md'
     - 'Payment':
       - 'Payment Overview': 'payment/payment.md'
+      - 'Issue a payment (integrated FSP)': 'payment/issue-payment-integrated-fsp.md'
+      - 'Send and reconciliate payment instructions (FSP portal)': 'payment/issue-payment-fsp-portal.md'
+      - 'Change PA status in payment phase': 'payment/change-pa-status-program.md'
+      - 'List of integrated FSP': 'payment/integration-fsp.md'
+      - 'Notification messages to 121 payment users': 'payment/list-message-payments.md'
     - 'Evaluation':
       - 'Evaluation Overview': 'evluation/evaluatio.md'
 
