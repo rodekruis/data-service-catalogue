@@ -6,6 +6,7 @@ extra_css:
 
 markdown_extensions:
   - attr_list
+  - md_in_html
   - toc:
         toc_depth : "1-1"
   - admonition
@@ -54,7 +55,7 @@ nav:
       - 'Users Overview': 'users/users-roles-page.md'
       - 'Add Users': 'users/add-users.md'
       - 'Roles and permissions': 'users/description-roles.md'
-    - 'Program Team': 
+    - 'Program Team':
       - 'Team page': 'team/team-page.md'
       - 'Add team members': 'team/add-team-members.md'
       - 'Change team members roles': 'team/change-team-roles-program.md'
@@ -82,6 +83,6 @@ nav:
     - 'Evaluation':
       - 'Evaluation Overview': 'evluation/evaluatio.md'
 
-      
 
-      
+
+
