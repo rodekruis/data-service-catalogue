@@ -20,28 +20,29 @@ Once your validation process is completed, the Registration page will show an [e
 
 Registration of PAs in 121 platform can be done either:
 
-- **Manually**, by importing a registration list from an excel file (.CSV format). Learn more on the [registration import list page](../ProgramOverview/registration-import-list.mdprogramoverview)
-- **Automatically**, by integrating your KOBO form or equivalent registration form App to directly upload your registration into 121 platform. Learn more on the [automatic import of registration page](../ProgramOverview/registration-automatic-import-kobo.md)
+- **Manually**, by importing a registration list from an excel file (.CSV format). Learn more on the [registration import list page](../registration/registration-import-list.md)
+- **Automatically**, by integrating your KOBO form or equivalent registration form App to directly upload your registration into 121 platform. Learn more on the [automatic import of registration page](../registration/registration-automatic-import-kobo.md)
 
 ### **Review and Process registered PA's details**
 
 Your validation process may include to review the beneficiaries'details before you validate and include the beneficiary into the program to start receiving cash assistance.
 Follow the instructions on how to :
 
-- Review and edit data in PA profile, [here](../programoverview/registration-deduplication.md)
-- Include a PA in a program, [here](../programoverview/registration-validate-pa.md)
-- Reject a PA from a program, [here](../ProgramOverview/registration-reject-pa.md)
+- Review and edit data in PA profile, [here](../registration/registration-deduplication.md)
+- Include a PA in a program, [here](../registration/registration-validate-pa.md)
+- Reject a PA from a program, [here](../registration/registration-reject-pa.md)
 
 
 ### **Deduplicate registration**
 
 Check for duplicates in the registration list before moving the People Affected towards the inclusion phase of your program. This validation process will prevent double payments, but also significantly reduce fraud risks. In case you use both automatic and manual upload of registration list, we strongly recommend including the deduplication phase in your validation process. 
 
-Follow the instructions on the [Deduplication page](../programoverview/registration-deduplication.md)
+Follow the instructions on the [Deduplication page](../pregistration/registration-deduplication.md)
 
 !!! Important "Who can perform actions in this page ?"
     Program Manager, Cva Officer and Cva Manager can perform actions and view this page. 
-    Additional users may be granted only View permission on this page. Learn more about Users & Roles [here](../general/users-permissions.md)
+    Additional users may be granted only View permission on this page. Learn more about Users & Roles [here](../users/users-permissions.md)
 
-
+___
 Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+___

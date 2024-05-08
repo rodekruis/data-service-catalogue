@@ -14,7 +14,7 @@ Unless you manually import registrations with an excel .CSV file, registrations 
 - Go to your program.
 - Enter the registration page.
 - You will see the list of 
-[Import Registration button](../assets/img/RegistrationImportFile.png)
+[Import Registration button](../assets/img/RegistrationImportFile.PNG)
 
 
 ### **Empty list**
@@ -25,7 +25,7 @@ The registration table can be empty for 2 reasons :
 - No automatic upload has been executed from KOBO form or alternative registration App yet. Often, this is due to lack of internet connexion. Connect to an internet network to start importing new registrations from the registration form.
 - Filters are applied to the list. Make sure the filter search barre is empty. Then, check the selected criteria on the filter "by Status" - "Registered", on the right corner of the table .
 
-[Filter Status Registered](../assets/img/FilterFunctionStatusSearch.png)
+[Filter Status Registered](../assets/img/FilterFunctionFieldsSearch.PNG)
 
 
 !!! warning "Blank page"
@@ -39,5 +39,6 @@ The registration table can be empty for 2 reasons :
     Double entries can occur while registering beneficiaries on the field. Deduplication can be made in 121 instance. You can follow the steps on this page. 
     If you need additional explanations, contact your dedicated Account Manager or our support team via email.
 
-
+___
 Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+___
