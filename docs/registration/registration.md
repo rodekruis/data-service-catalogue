@@ -37,11 +37,11 @@ Follow the instructions on how to :
 
 Check for duplicates in the registration list before moving the People Affected towards the inclusion phase of your program. This validation process will prevent double payments, but also significantly reduce fraud risks. In case you use both automatic and manual upload of registration list, we strongly recommend including the deduplication phase in your validation process. 
 
-Follow the instructions on the [Deduplication page](../pregistration/registration-deduplication.md)
+Follow the instructions on the [Deduplication page](../registration/registration-deduplication.md)
 
 !!! Important "Who can perform actions in this page ?"
     Program Manager, Cva Officer and Cva Manager can perform actions and view this page. 
-    Additional users may be granted only View permission on this page. Learn more about Users & Roles [here](../users/users-permissions.md)
+    Additional users may be granted only View permission on this page. Learn more about Users & Roles [here](../users/users-roles-page.md)
 
 ___
 Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.

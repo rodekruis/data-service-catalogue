@@ -3,8 +3,13 @@ title: Registration - Automatic registration import from KOBO form
 ---
 
 !!! info "This section explains"
-    Oversee the registration automatically imported with KOBO registration tool.
-    
+    Steps to link your kobo form with the 121 platform
+
+-   Create your kobo form on the [IFRC server](https://kobo.ifrc.org/)
+-   Share this koboform with account `nlrc121platform`
+-   Inform the 121 team that you have shared the form
+
+Our 121 support team will link the kobo form with the right program in the 121 platform and inform you when it is ready.
 
 Unless you manually import registrations with an excel .CSV file, registrations done with KOBO will automatically be imported within the program registration page.
 
