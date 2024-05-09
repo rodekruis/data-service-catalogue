@@ -69,7 +69,7 @@ nav:
       - 'Automatic import with KOBO': 'registration/registration-automatic-import-kobo.md'
       - 'Deduplication': 'registration/registration-deduplication.md'
       - 'Validate registration': 'registration/registration-validate-pa.md'
-      - 'Reject registration': 'registration/registration-validate-pa.md'
+      - 'Reject registration': 'registration/registration-reject-pa.md'
       - 'Empty Registration List': 'registration/registration-list-empty.md'
     - 'Inclusion':
       - 'Inclusion Overview': 'inclusion/inclusion.md'
@@ -79,9 +79,13 @@ nav:
       - 'Send and reconciliate payment instructions (FSP portal)': 'payment/issue-payment-fsp-portal.md'
       - 'Change PA status in payment phase': 'payment/change-pa-status-program.md'
       - 'List of integrated FSP': 'payment/integration-fsp.md'
-      - 'Notification messages to 121 payment users': 'payment/list-message-payments.md'
+      - 'Notification messages to 121 payment users': 'payment/list-messages-payments.md'
     - 'Evaluation':
-      - 'Evaluation Overview': 'evluation/evaluatio.md'
+      - 'Evaluation Overview': 'evaluation/evaluation.md'
+    - 'Frequently Asked Questions':
+      - 'Data Protection': 'faq/data-protection.md'
+      - 'FSPs': 'faq/financial-service-provider.md'
+      - 'Implementation time': 'faq/timeline-121-integration.md'
 
 
 

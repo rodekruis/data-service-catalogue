@@ -34,7 +34,7 @@ title: 121 platform timeline and integration
 
      121 platform has already integrated with a certain number of most used tools in the humanitarian sector. 
      
-     - **KOBO Toolbox** for registering beneficiaries, allowing the automatic upload of beneficiaries into your 121 registration list ([see the description page](../registration/registration-kobo-form.md)). Alternative registration form tool can be integrated (API).
+     - **KOBO Toolbox** for registering beneficiaries, allowing the automatic upload of beneficiaries into your 121 registration list ([see the description page](../registration/registration-automatic-import-kobo.md)). Alternative registration form tool can be integrated (API).
      - An integration with **Espo CRM** is available. Our Cash IM and technical team have experiences with Espo CRM in combination with 121 platform, particularly for complex case management. Additional requirements on hosting servers and maintenance may be discussed.
      - **A number of Financial Serivce Provider (FSP) in different countries** has been integrated. Further information are available [on this page](../faq/financial-service-provider.md)
      - **Redline**, the Community Engagement Hub developed by 510 unit, that allows multichannel communication and scalable engagement and
