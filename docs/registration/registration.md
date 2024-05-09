@@ -14,7 +14,7 @@ Note that Beneficiaries are named as People Affected (PA) in 121 platform.
 
 Oversee all registred People Affected (beneficiaries). This is the initial phase of the program validation process. People Affected status is shown as "Registered" and will remain as it until the CVA manager or officer include (validated) into, or reject (rejected) the PA from the program.
 
-Once your validation process is completed, the Registration page will show an [empty table.](../ProgramOverview/registration-list-empty.md)
+Once your validation process is completed, the Registration page will show an [empty table.](../registration/registration-list-empty.md)
 
 ### **Import a registration list**
 

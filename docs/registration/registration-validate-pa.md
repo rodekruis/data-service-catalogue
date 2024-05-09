@@ -18,13 +18,13 @@ The People Affected table show you all of the registered households that were im
     - Or a bulk selection :material-checkbox-multiple-marked-outline:, by clickling on the upper line **Select**
 - A pop-up appears to confirm your action **You are about to Mark as Validated for X People Affected.**
 - Click on OK. A message indicates the completion of the action.
-- PAs are now moved to [Inclusion phase](../inclusion/inclusion.md.md)
+- PAs are now moved to [Inclusion phase](../inclusion/inclusion.md)
 
 ### **Validation and deduplication process**
 
 Your validation process may include :
 
-- Deduplication of People Affected in your registration list. Follow the instructions [on the deduplication page](../registration/registration-deduplication.mdregistration-deduplication.md)
+- Deduplication of People Affected in your registration list. Follow the instructions [on the deduplication page](../registration/registration-deduplication.md)
 - Verifying and editing People Affected details. Follow the instructions on the People Affected details page.
 
 
