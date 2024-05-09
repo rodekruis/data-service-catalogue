@@ -25,12 +25,12 @@ Rejected People Affected remain listed in the Registration & Validation page wit
 
 Your validation process may include :
 
-- Deduplication of People Affected in your registration list. Follow the instructions [on the deduplication page](../ProgramOverview/registration-deduplication.md)
+- Deduplication of People Affected in your registration list. Follow the instructions [on the deduplication page](../registration/registration-deduplication.md)
 - Verifying and editing People Affected details. Follow the instructions on the People Affected details page.
 
 
 !!!info "Validatation of PA into program"
-    Follow the instructions [**here** to validate and move People Affected into the Inclusion phase.](../ProgramOverview/registration-validate-pa.md)
+    Follow the instructions [**here** to validate and move People Affected into the Inclusion phase.](../registration/registration-validate-pa.md)
 
 
 
