@@ -10,9 +10,9 @@ title: Payment - List of integrated local FSP with 121 platform
 
 | Country  | FSP name | Enabled Delivery methods |
 | :------ | :------ | :------ | 
-| Kenya | MPESA Safaricom | Mobile money, Bank wire |
-| Ethiopia | Commercial Bank of Ethiopia | Bank wire |
-| The Netherlands | Intersolve | Mobile money, VISA, Digital vouchers |
+| Kenya | MPESA Safaricom | Mobile money |
+| Ethiopia | Commercial Bank of Ethiopia | Bank transfer |
+| The Netherlands | Intersolve | VISA debit cards, eVouchers |
 | South Africa | MTN | FSP Portal |
 | Zambia | MTN | FSP Portal |
 | Democratic Republic of Congo | VodaCash | FSP Portal |
