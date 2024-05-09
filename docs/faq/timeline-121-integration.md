@@ -49,4 +49,3 @@ title: 121 platform timeline and integration
 
 ____
 Need further assistance? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
-___

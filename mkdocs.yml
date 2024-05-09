@@ -75,6 +75,17 @@ nav:
       - 'Inclusion Overview': 'inclusion/inclusion.md'
     - 'Payment':
       - 'Payment Overview': 'payment/payment.md'
+      - 'Update PA payment status': 'payment/change-pa-status-program.md'
+      - 'Import payment instructions in FSP portal': 'payment/issue-payment-fsp-portal.md'
+      - 'List of integrated FSP': 'payment/integration-fsp.md'
+      - 'Messages in 121 platform': 'payment/list-messages-payments.md'
+      - 'Issue payments': 'payment/issue-payment-integrated-fsp.md'
+    - 'Evaluation':
+      - 'Evaluation Overview': 'evaluation/evaluation.md'
+    - 'F.A.Q':
+      - 'Data Protection': 'faq/data-protection.md'
+      - 'Timeline and Integration': 'faq/timeline-121-integration.md'
+      - 'Financial Service Providers (FSP)': 'faq/financial-service-provider.md'
       - 'Issue a payment (integrated FSP)': 'payment/issue-payment-integrated-fsp.md'
       - 'Send and reconciliate payment instructions (FSP portal)': 'payment/issue-payment-fsp-portal.md'
       - 'Change PA status in payment phase': 'payment/change-pa-status-program.md'
@@ -86,7 +97,3 @@ nav:
       - 'Data Protection': 'faq/data-protection.md'
       - 'FSPs': 'faq/financial-service-provider.md'
       - 'Implementation time': 'faq/timeline-121-integration.md'
-
-
-
-

@@ -10,14 +10,31 @@ title: Payment - List of integrated local FSP with 121 platform
 
 | Country  | FSP name | Enabled Delivery methods |
 | :------ | :------ | :------ | 
-|Kenya     |          |          |
-|Ethiopia    |          |          |
-|Ukraine     |          |          |
-|The Netherlands  |          |          |
+| Kenya | MPESA Safaricom | Mobile money |
+| Ethiopia | Commercial Bank of Ethiopia | Bank transfer |
+| The Netherlands | Intersolve | VISA debit cards, eVouchers |
+| South Africa | MTN | FSP Portal |
+| Zambia | MTN | FSP Portal |
+| Democratic Republic of Congo | VodaCash | FSP Portal |
 
 
 !!! info "Agregator"
     In progress with integrated an african agregator to cover up to X countries, enabling to activate instantly payments with local FSP in-country. Quicker process.
+
+
+### **Delivery methods**
+
+| Category | Description |
+| :------ | :------ | :------ | 
+| FSP Portal | Manual export of payment instructions from 121 to upload into FSP Portal. Manual reconcilation of payment confirmation into 121 platform to update payment status. |
+| Bank Wire | Direct bank transfers issued with 121 platform to beneficiaries (integrated FSP) |
+| VISA debit card | |
+| Mobile money | |
+| Digital cash | |
+| Digital vouchers | |
+| 
+
+
 
 ### **Request for new integration**
 
