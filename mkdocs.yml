@@ -6,6 +6,7 @@ extra_css:
 
 markdown_extensions:
   - attr_list
+  - md_in_html
   - toc:
         toc_depth : "1-1"
   - admonition
@@ -54,7 +55,7 @@ nav:
       - 'Users Overview': 'users/users-roles-page.md'
       - 'Add Users': 'users/add-users.md'
       - 'Roles and permissions': 'users/description-roles.md'
-    - 'Program Team': 
+    - 'Program Team':
       - 'Team page': 'team/team-page.md'
       - 'Add team members': 'team/add-team-members.md'
       - 'Change team members roles': 'team/change-team-roles-program.md'
@@ -85,4 +86,10 @@ nav:
       - 'Data Protection': 'faq/data-protection.md'
       - 'Timeline and Integration': 'faq/timeline-121-integration.md'
       - 'Financial Service Providers (FSP)': 'faq/financial-service-provider.md'
-      
+      - 'Issue a payment (integrated FSP)': 'payment/issue-payment-integrated-fsp.md'
+      - 'Send and reconciliate payment instructions (FSP portal)': 'payment/issue-payment-fsp-portal.md'
+      - 'Change PA status in payment phase': 'payment/change-pa-status-program.md'
+      - 'List of integrated FSP': 'payment/integration-fsp.md'
+      - 'Notification messages to 121 payment users': 'payment/list-message-payments.md'
+    - 'Evaluation':
+      - 'Evaluation Overview': 'evluation/evaluatio.md'
