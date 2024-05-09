@@ -1,5 +1,7 @@
 ---
 title: Contact our support Team
+hide:
+  - toc
 ---
 
 ### Support Contact
@@ -18,6 +20,7 @@ Most of our team has been deployed to support global humanitarian aid operations
 ### Escalation Process
 
 Our escalation process includes 3 levels : 
+
 - Level 1 First line support : basic troubleshooting, Configuration issues, Login issues.
 - Level 2 Second line support : Escalation from level 1, IM support, e.g. mass update on database and powerBI issues.
 - Level 3 Critial Development Team : Escalation from level 2, Bug fixes.

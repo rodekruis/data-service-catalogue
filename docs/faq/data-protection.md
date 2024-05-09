@@ -1,5 +1,7 @@
 ---
 title: Data Protection
+hide:
+  - toc
 ---
 
 

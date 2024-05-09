@@ -1,5 +1,7 @@
 ---
 title: Users and Roles Overview
+hide:
+  - toc
 ---
 
 

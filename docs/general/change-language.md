@@ -1,5 +1,7 @@
 ---
 title: Change Language
+hide:
+  - toc
 ---
 
 

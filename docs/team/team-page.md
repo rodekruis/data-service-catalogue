@@ -1,5 +1,7 @@
 ---
 title: Team page
+hide:
+  - toc
 ---
 
 !!! info "This section explains"

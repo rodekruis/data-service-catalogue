@@ -1,5 +1,7 @@
 ---
 title: Remove members from program team
+hide:
+  - toc
 ---
 
 !!! info "This section explains"

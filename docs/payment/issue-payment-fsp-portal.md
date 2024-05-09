@@ -1,5 +1,7 @@
 ---
 title: Payment - Issue a payment via the FSP portal
+hide:
+  - toc
 ---
 
 !!! info "This section explains"

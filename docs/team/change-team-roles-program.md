@@ -1,5 +1,7 @@
 ---
 title: Change and Assign roles to Team members
+hide:
+  - toc
 ---
 
 !!! info "This section explains"

@@ -1,5 +1,7 @@
 ---
 title: Registration - Automatic registration import from KOBO form
+hide:
+  - toc
 ---
 
 !!! info "This section explains"

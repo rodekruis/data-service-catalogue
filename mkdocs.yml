@@ -1,5 +1,6 @@
 
 site_name: 121 Platform User Manual
+site_url: https://manual.121.global
 
 extra_css:
   - stylesheets/extra.css
@@ -25,6 +26,10 @@ theme:
     palette:
       primary: custom
     logo: assets/img/121Logo.svg
+    features:
+      - navigation.top
+      - navigation.instant
+      - navigation.instant.progress
 
 extra:
   generator: false
@@ -44,13 +49,6 @@ nav:
       - 'Change current password': 'general/change-current-password.md'
       - 'Reset password': 'general/reset-password.md'
       - 'Change Language': 'general/change-language.md'
-      - 'Registration': 'registration/registration.md'
-    - 'Running Your Program':
-      - 'Program Design': 'design/design.md'
-      - 'Registration': 'registration/registration.md'
-      - 'Inclusion': 'inclusion/inclusion.md'
-      - 'Payment': 'payment/payment.md'
-      - 'Evaluation': 'evaluation/evaluation.md'
     - 'Users and Roles' :
       - 'Users Overview': 'users/users-roles-page.md'
       - 'Add Users': 'users/add-users.md'
@@ -70,7 +68,7 @@ nav:
       - 'Deduplication': 'registration/registration-deduplication.md'
       - 'Validate registration': 'registration/registration-validate-pa.md'
       - 'Reject registration': 'registration/registration-reject-pa.md'
-      - 'Empty Registration List': 'registration/registration-list-empty.md'
+      - 'What if I see empty registration table': 'registration/registration-list-empty.md'
     - 'Inclusion':
       - 'Inclusion Overview': 'inclusion/inclusion.md'
     - 'Payment':
@@ -93,7 +91,3 @@ nav:
       - 'Notification messages to 121 payment users': 'payment/list-messages-payments.md'
     - 'Evaluation':
       - 'Evaluation Overview': 'evaluation/evaluation.md'
-    - 'Frequently Asked Questions':
-      - 'Data Protection': 'faq/data-protection.md'
-      - 'FSPs': 'faq/financial-service-provider.md'
-      - 'Implementation time': 'faq/timeline-121-integration.md'

@@ -1,5 +1,7 @@
 ---
 title: Registration - Import registration list from excel
+hide:
+  - toc
 ---
 
 !!! info "This section explains"

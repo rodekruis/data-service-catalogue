@@ -1,5 +1,7 @@
 ---
 title: Registration - Validation of PA
+hide:
+  - toc
 ---
 
 !!! info "This section explains"
