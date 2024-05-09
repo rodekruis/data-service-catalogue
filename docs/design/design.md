@@ -19,7 +19,7 @@ To overview your program details :
 
 The Program Details metrics translates your program requirements. The details provide the main information about the duration and location of your program, budget, targeted beneficiaries, cash aid delivery and distribution frequencies. Each of your active programs may have different metrics shown in the table below.
 
-Futher explanation about the program details metrics on the [Program Details page.](../design/read-change-design-details.md.md)
+Futher explanation about the program details metrics on the [Program Details page.](../design/read-change-design-details.md)
 
 ![Program Details](../assets/img/ProgramDetailsTable.png)
 
