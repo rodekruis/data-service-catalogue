@@ -1,5 +1,7 @@
 ---
 title: Logging in
+hide:
+  - toc
 ---
 
 !!! info "This section explains"

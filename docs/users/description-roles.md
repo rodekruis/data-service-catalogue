@@ -1,5 +1,7 @@
 ---
 title: Description of role-based permissions
+hide:
+  - toc
 ---
 
 

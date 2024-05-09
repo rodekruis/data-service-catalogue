@@ -1,5 +1,7 @@
 ---
 title: Add Users
+hide:
+  - toc
 ---
 ### Adding new users in 121
 

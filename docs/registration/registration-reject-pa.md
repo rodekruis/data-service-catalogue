@@ -1,9 +1,11 @@
 ---
 title: Registration - Reject of PA
+hide:
+  - toc
 ---
 
 !!! info "This section explains"
-    Steps validate and move People Affected into the inclusion phase of your program
+    Steps to reject PAs
 
 You use this page and dropdown menu to choose the appropriate next actions : validating, rejecting or editing registration of PA, move the PA into inclusion phase.
 
@@ -20,22 +22,6 @@ The People Affected table show you all of the registered households that were im
 - Click on **OK**. A message indicates the completion of the action.
 
 Rejected People Affected remain listed in the Registration & Validation page with the status **Rejected**. Filter the list by status to have an overview of all rejected PA in this program.
-
-### **Validation and deduplication process**
-
-Your validation process may include :
-
-- Deduplication of People Affected in your registration list. Follow the instructions [on the deduplication page](../registration/registration-deduplication.md)
-- Verifying and editing People Affected details. Follow the instructions on the People Affected details page.
-
-
-!!!info "Validatation of PA into program"
-    Follow the instructions [**here** to validate and move People Affected into the Inclusion phase.](../registration/registration-validate-pa.md)
-
-
-
-
-
 
 
 Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.

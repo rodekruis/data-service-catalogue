@@ -1,5 +1,7 @@
 ---
 title: Program overview - payment
+hide:
+  - toc
 ---
 
 !!! info "This section explains"

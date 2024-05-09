@@ -1,5 +1,7 @@
 ---
 title: Reset password
+hide:
+  - toc
 ---
 
 !!! info "This section explains"

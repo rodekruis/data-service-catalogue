@@ -1,5 +1,7 @@
 ---
 title: Payment - Change PA status inclusion in the program
+hide:
+  - toc
 ---
 
 !!! info "This section explains"

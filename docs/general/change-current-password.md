@@ -1,5 +1,7 @@
 ---
 title: Change existing password
+hide:
+  - toc
 ---
 
 !!! info "This section explains"

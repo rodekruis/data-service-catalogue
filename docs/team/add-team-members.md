@@ -1,5 +1,7 @@
 ---
 title: Add Team Members
+hide:
+  - toc
 ---
 
 !!! info "This section explains"

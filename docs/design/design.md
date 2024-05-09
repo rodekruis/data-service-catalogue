@@ -1,5 +1,7 @@
 ---
 title: Program overview - design
+hide:
+  - toc
 ---
 
 !!! info "This section explains"

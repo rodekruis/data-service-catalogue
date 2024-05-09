@@ -1,5 +1,7 @@
 ---
 title: Program - Design Metrics
+hide:
+  - toc
 ---
 
 !!! info "This section explains"

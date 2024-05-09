@@ -1,5 +1,7 @@
 ---
 title: Program overview - Registration
+hide:
+  - toc
 ---
 
 !!! info "This section explains"

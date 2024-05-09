@@ -1,5 +1,7 @@
 ---
 title: Program overview - Inclusion
+hide:
+  - toc
 ---
 
 

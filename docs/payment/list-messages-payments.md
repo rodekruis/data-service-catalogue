@@ -1,5 +1,7 @@
 ---
 title: Payment - List of payment indication messages in 121 platform
+hide:
+  - toc
 ---
 
 !!! info "This section explains"

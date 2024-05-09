@@ -1,5 +1,7 @@
 ---
 title: Financial Service Provider (FSP)
+hide:
+  - toc
 ---
 
 

@@ -1,5 +1,7 @@
 ---
 title: Registration - Empty List
+hide:
+  - toc
 ---
 
 !!! info "This section explains"
