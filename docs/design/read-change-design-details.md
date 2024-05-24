@@ -11,7 +11,7 @@ hide:
 
 The **Program Details metrics** translates your program requirements. The details provide the main information about the duration and location of your program, budget, targeted People Affected, cash aid delivery and distribution frequencies. Each of your active programs may show different metrics in the table below.
 
-![Program Details](../assets/img/ProgramDetailsTable.png)
+![Program Details](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ProgramDetails.png)
 
 
 | Type                                         | Description                                                     |

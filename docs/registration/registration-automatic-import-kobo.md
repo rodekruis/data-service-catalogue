@@ -21,7 +21,7 @@ Unless you manually import registrations with an excel .CSV file, registrations 
 - Go to your program.
 - Enter the registration page.
 - You will see the list of 
-![Import Registration button](../assets/img/RegistrationImportFile.png)
+![Import Registration button](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/RegistrationPageOverview.png)
 
 
 ### **Empty list**
@@ -33,7 +33,7 @@ The registration table can be empty for 2 reasons :
 - Filters are applied to the list. Make sure the filter search barre is empty. Then, check the selected criteria on the filter "by Status" - "Registered", on the right corner of the table .
 
 
-![Filter Status Registered](../assets/img/FilterFunctionStatusSearch.PNG)
+![Filter Status Registered](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/FilterFunctionStatusSearch.png)
 
 
 !!! warning "Blank page"

@@ -12,15 +12,15 @@ In the **Team** page of your program, you can see the list of team members curre
 - Enter the program, **go to Team** page.
 - Click on the 3 dots **:material-dots-horizontal:**  on the right end of the team member row.
 
-![Program Team](../assets/img/ProgramTeamDeleteRemoveUserDots.png)
+![Program Team](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ProgramTeam.png)
 
 
 - Click **Remove team member**. A pop-window will warn your action before confirming. 
 - Click **Remove user** to confirm. The user is removed from the team.
 
-![Action box](../assets/img/ProgramTeamDeleteRemoveUserActionBox.png)
+![Action box](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ProgramTeamDeleteRemoveUserActionBox.png)
 
-![Remove team member](../assets/img/ProgramTeamDeleteRemoveUserValidation.png)
+![Remove team member](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ProgramTeamDeleteRemoveUserValidation.png)
 
 ___
 

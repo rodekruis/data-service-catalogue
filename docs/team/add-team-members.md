@@ -17,13 +17,13 @@ In the **Team** page of your program, you can see the list of team members curre
 
 - Click on the **Add team member** button on the top right
 
-![Program Team](../assets/img/ProgramTeam.png)
+![Program Team](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ProgramTeam.png)
 
 - In the pop-up window, search for the username of the person you want to add to your programme
 - **Assign one or more role(s)**
 - Click on the **Add user** button
 
-![Add Team Member](../assets/img/AddTeamMember.png)
+![Add Team Member](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/AddTeamMember.png)
 
 - **Save** your changes. The user will be automatically added into the program team.
 

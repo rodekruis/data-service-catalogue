@@ -34,7 +34,7 @@ Filters may be applied to the list.
 - Check the filter and search barre are empty. Delete any entry, click on Apply filter.
 - Then, Check the selected criteria (right corner) on filter "by Status" and select "Registered".
 
-![Filter Status Registered](../assets/img/FilterFunctionStatusSearch.PNG)
+![Filter Status Registered](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/FilterFunctionStatusSearch.png)
 
 
 !!! warning "Blank page"
