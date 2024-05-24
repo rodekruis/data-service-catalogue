@@ -19,6 +19,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - glightbox
 
 theme:
     name: material
