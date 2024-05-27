@@ -1,20 +1,27 @@
-.md-sidebar--secondary {
-    display: none;
-  }
-
+/* Customized Colors */
 :root {
   --md-primary-fg-color:        #4F22D7; /* consider 510 navy #00214D */
   --md-primary-fg-color--light: #CFBFFF;
   --md-primary-fg-color--dark:  #361A8C;
 }
 
+/* Disable unused/unwanted features */
+.md-sidebar--secondary {
+  display: none;
+}
 
-img {
-  border-radius: 6px;
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+/**
+ * Reset/Tweak Theme-styles
+ */
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: inherit; /* Prevent jump in text-size */
+}
+
+/* Make screenshots (only inside pages) stand-out more */
+article img {
+  border-radius: 0.375rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.3);
 }
 
 
-/* body {
-  background: #eceff4;
-} */
