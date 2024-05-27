@@ -1,2 +1,2 @@
 FROM squidfunk/mkdocs-material
-RUN pip install mkdocs-glightbox
+RUN pip install -r requirements.txt
