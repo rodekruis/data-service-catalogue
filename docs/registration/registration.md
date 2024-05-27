@@ -42,7 +42,7 @@ Check for duplicates in the registration list before moving the People Affected 
 Follow the instructions on the [Deduplication page](../registration/registration-deduplication.md)
 
 !!! Important "Who can perform actions in this page ?"
-    Program Manager, Cva Officer and Cva Manager can perform actions and view this page. 
+    Program Manager, CVA Officer and CVA Manager can perform actions and view this page.  
     Additional users may be granted only View permission on this page. Learn more about Users & Roles [here](../users/users-roles-page.md)
 
 ___
