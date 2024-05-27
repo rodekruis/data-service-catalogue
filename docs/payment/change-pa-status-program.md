@@ -17,7 +17,7 @@ In the course of a program, PA status may change due to a variety of reasons in 
 
 ### **Change the PA status**
 
-Bulk or individual (resarch function), perform action :
+Bulk or individual (research function), perform action:
 End inclusion
 Pause inclusion
 

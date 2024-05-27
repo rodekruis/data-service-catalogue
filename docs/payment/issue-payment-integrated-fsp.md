@@ -20,10 +20,10 @@ various integrated payment methods.
 ### **Payment made with integrated local FSP**
 
 Integration with local FSP = instant payment instructions sent.
-Delivery methods : digital payemnt. Mobile payment, Visa debit card, bank wire, etc. Read more on delivery methods page.
+Delivery methods : digital payment. Mobile payment, Visa debit card, bank wire, etc. Read more on delivery methods page.
 
-!!! info "Integration with FSP and agregator to 121"
-    121 platform has integrated with a certain number of local FSP and agregators. Find the list of existing integration here.
+!!! info "Integration with FSP and aggregator to 121"
+    121 platform has integrated with a certain number of local FSP and aggregators. Find the list of existing integration here.
     Additional local FSP can be integrated upon evaluation. Please, share your request with our team.
 
 ### **Payment status**
