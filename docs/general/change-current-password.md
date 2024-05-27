@@ -9,8 +9,6 @@ hide:
 
 Once you are logged in to 121 platform, in the Home page, click on your log in information on the top right. Your log in is your e-mail address.
 
-
-
 - Enter your current password.​
 - Enter your new password
 - Confirm your new password.
