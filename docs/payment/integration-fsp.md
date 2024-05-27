@@ -20,15 +20,15 @@ hide:
 | Democratic Republic of Congo | VodaCash | FSP Portal |
 
 
-!!! info "Agregator"
-    In progress with integrated an african agregator to cover up to X countries, enabling to activate instantly payments with local FSP in-country. Quicker process.
+!!! info "Aggregator"
+    In progress with integrated an African aggregator to cover up to X countries, enabling to activate instantly payments with local FSP in-country. Quicker process.
 
 
 ### **Delivery methods**
 
 | Category | Description |
 | :------ | :------ | :------ | 
-| FSP Portal | Manual export of payment instructions from 121 to upload into FSP Portal. Manual reconcilation of payment confirmation into 121 platform to update payment status. |
+| FSP Portal | Manual export of payment instructions from 121 to upload into FSP Portal. Manual reconciliation of payment confirmation into 121 platform to update payment status. |
 | Bank Wire | Direct bank transfers issued with 121 platform to beneficiaries (integrated FSP) |
 | VISA debit card | |
 | Mobile money | |
@@ -52,8 +52,8 @@ Timeline
     Export files to share to donors or finance team once payment is complete.
 
 !!! Important "Who can perform actions in this page ?"
-    Finance Manager and Finance Officer roles can perform actions and view this page. 
-    Additional users may be granted only **View** permission on this page. Learn more about Users & Roles [here](../users/users-roles-page.md)
+    Finance Manager and Finance Officer roles can perform actions and view this page.  
+    Additional users may be granted only **View** permission on this page. [Learn more about Users & Roles](../users/users-roles-page.md)
 
 ___
 Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.

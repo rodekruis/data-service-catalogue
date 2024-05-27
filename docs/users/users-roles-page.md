@@ -32,8 +32,8 @@ No single user can take all actions in the 121 platform. The 121 platform follow
 | **Program Admin**                            | Program Administrator, responsible for overall program management |
 | **Finance Officer**                          | Officer for Finance operations  |
 | **Finance Manager**                          | Manager for Finance operations, payment instructions   |
-| **Cva Officer**                              | Officer for Cash and Voucher Assistance    |
-| **Cva Manager**                              | Manager for Cash and Voucher Assistance   |
+| **CVA Officer**                              | Officer for Cash and Voucher Assistance    |
+| **CVA Manager**                              | Manager for Cash and Voucher Assistance   |
 | **View**                                     | Portal Users who are allowed to view only and cannot perform actions   |
 
 

@@ -14,7 +14,7 @@ Note that Beneficiaries are named as People Affected (PA) in 121 platform.
 
 ### **Overview of registered PA**
 
-Oversee all registred People Affected (beneficiaries). This is the initial phase of the program validation process. People Affected status is shown as "Registered" and will remain as it until the CVA manager or officer include (validated) into, or reject (rejected) the PA from the program.
+Oversee all registered People Affected (beneficiaries). This is the initial phase of the program validation process. People Affected status is shown as "Registered" and will remain as it until the CVA manager or officer include (validated) into, or reject (rejected) the PA from the program.
 
 Once your validation process is completed, the Registration page will show an [empty table.](../registration/registration-list-empty.md)
 
@@ -27,12 +27,12 @@ Registration of PAs in 121 platform can be done either:
 
 ### **Review and Process registered PA's details**
 
-Your validation process may include to review the beneficiaries'details before you validate and include the beneficiary into the program to start receiving cash assistance.
+Your validation process may include to review the beneficiaries' details before you validate and include the beneficiary into the program to start receiving cash assistance.
 Follow the instructions on how to :
 
-- Review and edit data in PA profile, [here](../registration/registration-deduplication.md)
-- Include a PA in a program, [here](../registration/registration-validate-pa.md)
-- Reject a PA from a program, [here](../registration/registration-reject-pa.md)
+- [Review and edit data in PA profile](../registration/registration-deduplication.md)
+- [Include a PA in a program](../registration/registration-validate-pa.md)
+- [Reject a PA from a program](../registration/registration-reject-pa.md)
 
 
 ### **Deduplicate registration**
@@ -42,8 +42,8 @@ Check for duplicates in the registration list before moving the People Affected 
 Follow the instructions on the [Deduplication page](../registration/registration-deduplication.md)
 
 !!! Important "Who can perform actions in this page ?"
-    Program Manager, Cva Officer and Cva Manager can perform actions and view this page. 
-    Additional users may be granted only View permission on this page. Learn more about Users & Roles [here](../users/users-roles-page.md)
+    Program Manager, CVA Officer and CVA Manager can perform actions and view this page.  
+    Additional users may be granted only View permission on this page. [Learn more about Users & Roles](../users/users-roles-page.md)
 
 ___
 Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.

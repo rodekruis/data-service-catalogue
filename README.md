@@ -7,7 +7,7 @@
 
 ### Getting Started
 
-#### with Python
+#### With Python
 
 - Install a [Python virtual environment](https://realpython.com/python-virtual-environments-a-primer/) (On Linux/macOS):
 
@@ -15,7 +15,6 @@
   python3 -m venv venv
   source venv/bin/activate
   ```
-
 
 - Install dependencies
 
@@ -33,8 +32,19 @@
 
 #### With Docker
 
-See [this section](https://squidfunk.github.io/mkdocs-material/getting-started/#with-docker) of the mkdocs-material documentation on how to set it up and run in docker.
-The `DOCKERFILE` and `requirements.txt` can be used as is.
+- Install Docker: <https://docs.docker.com/get-docker/>
+
+- Open a terminal at this folder to build a Docker-container:
+
+  ```sh
+  docker build --tag manual-121 .
+  ```
+
+- Run the Docker-container:
+
+  ```sh
+  docker run --rm -it -p 8000:8000 -v ${PWD}:/docs manual-121
+  ```
 
 ### Tools in use
 

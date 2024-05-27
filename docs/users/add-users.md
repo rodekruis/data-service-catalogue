@@ -15,7 +15,7 @@ Upon receipt, our team will share the credentials to the new user(s) at the indi
 
 
 !!! info "add users to a program"
-    To add team members to a program, you can follow the instructions [here](../team/add-team-members.md)
+    You can follow the instructions to [add team members to a program](../team/add-team-members.md)
 
 
 Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.

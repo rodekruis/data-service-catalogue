@@ -29,7 +29,7 @@ ___
 Do not worry! The action history and logs remain unchanged. If you have the permission, you can add the team member back to the team. If not, contact your 121 Program Admin or our support team to help you.
 
 !!! info "add users to a program"
-    To add team members to a program, you can follow the instructions [here](../add-team-members)
+    You can Follow these instructions to [add team members to a program](./add-team-members.md).
 
 
 

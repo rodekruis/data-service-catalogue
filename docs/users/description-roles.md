@@ -4,8 +4,6 @@ hide:
   - toc
 ---
 
-
-
 !!! info "This section explains"
     Overview of standard users permissions and tasks that can be performed
 
@@ -18,13 +16,13 @@ No single user can take all actions in the 121 platform. The 121 platform follow
 | **Program Admin**                            | Program Administrator, responsible for overall program management |
 | **Finance Officer**                          | Officer for Finance operations  |
 | **Finance Manager**                          | Manager for Finance operations, payment instructions   |
-| **Cva Officer**                              | Officer for Cash and Voucher Assistance    |
-| **Cva Manager**                              | Manager for Cash and Voucher Assistance   |
+| **CVA Officer**                              | Officer for Cash and Voucher Assistance    |
+| **CVA Manager**                              | Manager for Cash and Voucher Assistance   |
 | **View**                                     | Portal Users who are allowed to view only and cannot perform actions   |
 
 ### **Permissions per role**
 
-| Permissions                                         | **Program Admin** | **Finance Officer** |**Finance Manager** | **Cva Officer** | **Cva Manager** |
+| Permissions                                         | **Program Admin** | **Finance Officer** |**Finance Manager** | **CVA Officer** | **CVA Manager** |
 | :----------                                         | :----------: |:----------: |:----------: |:----------: |:----------: |
 | Overview Users and Roles                            | :octicons-check-circle-fill-24:| |||||
 | Add and create new user accounts                    |:material-progress-question:|||||
@@ -54,7 +52,7 @@ Existing roles can be adjusted with additional permissions to fit your requireme
 ___
 
 !!! note "add users to a program"
-    To add team members to a program and assign a role, you can follow the instructions [here](../add-team-members)
+    You can follow these instructions to [add team members to a program and assign a role](../team/add-team-members.md).
 
 
 Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.

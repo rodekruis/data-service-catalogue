@@ -13,7 +13,8 @@ Contact directly your dedicated Account Manager or our support team via <a href=
 Once you have logged in with you new password, we kindly recommend you to change your new password for additional security.
 
 !!! question "Change your current password"
-    You can change your current password within you 121 user profile. Follow the instructions on Change current password page.
+    You can change your current password within your 121 user profile.  
+    Follow the instructions: [Change current password](./change-current-password.md).
 
 
 Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
