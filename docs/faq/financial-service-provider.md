@@ -4,9 +4,6 @@ hide:
   - toc
 ---
 
-
-
-
 ??? "1. Do you have FSPs directly integrated to the 121 platform ?"
 
      The 121 platform has **integrated with a number of Financial Serivce Provider (FSP) in different countries, allowing to instantly integrate the platform with your local FSP**. We aim at integrating with local Financial Service Providers (FSP), either contracted with our 121 system, your organization or having new providers. We currently have successful integrations  with local FSPs across Kenya, Ethiopia, the Netherlands and other countries. We are working on integrating with a payment aggregator that will enable us to expand coverage across 36 more African countries in the short term. 
@@ -20,7 +17,7 @@ hide:
      Delivery methods enabled in 121 platform are: mobile money, bank transfers, digital vouchers, VISA debit cards and FSP Portal (manual reconciliation). In cases physical cash payment may be a better approach, we can discuss supporting these programs on a case-by-case basis, but the National Society or NGO implementing the program would need to have a way of distributing the cash directly. 
 
 ??? "3. What is the list of available integrated FSPs and countries?"
-     
+
      The list of integrated Financial Service Providers (FSP) per country and related delivery methods is available [on this page](../payment/integration-fsp.md). 
      Kindly note this list is non-exhaustive, and is contineously updated as 121 platform keeps integrated with new local FSP following both our partners requirements and the IFRC recommendations.
 
@@ -36,8 +33,7 @@ hide:
      
      Contact our team to discuss the alternatives offered in your situation and country of operations at <info@121.global>.
 
-
-??? "5. What banks or FSP do qualify to be intergrated in the platform?"
+??? "5. What banks or FSP do qualify to be integrated in the platform?"
 
      The (local) National Society or NGO needs to have a framework agreement with the FSP, unless the FSP is already integrated with 121 platform. The 121 Team will handle the technical aspects of the integration. 
 

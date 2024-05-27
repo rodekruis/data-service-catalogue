@@ -19,7 +19,7 @@ In the **Team** page of your program, you can see the list of team members curre
 
 ![Program Team](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ProgramTeam.png)
 
-- In the pop-up window, search for the username of the person you want to add to your programme
+- In the pop-up window, search for the username of the person you want to add to your program
 - **Assign one or more role(s)**
 - Click on the **Add user** button
 

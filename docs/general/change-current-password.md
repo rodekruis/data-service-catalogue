@@ -13,7 +13,7 @@ Once you are logged in to 121 platform, in the Home page, click on your log in i
 
 - Enter your current password.​
 - Enter your new password
-- Confirm your new passord.
+- Confirm your new password.
 - Click on save and update the new password.
 
 !!! danger "Reset your password"

@@ -29,14 +29,14 @@ Import registration pop-up.
 - After uploading the file, click ‘OK’ to apply the action. 
 - Another pop up will appear with confirmation that the import was successful.
 
-!!! warning "Unsucessful import"
+!!! warning "Unsuccessful import"
     In case the import is unsuccessful or show an error message, kindly check your excel file is correctly formatted and saved as .CSV file.
     Should you need further guidance or support, Please do not hesitate to contact our [support team](mailto:support@121.global).
 
 ### **Download template registration file**
 
 The template is automatically generated in 121 platform, based on the program registration form.
-For instance, the program registration form may include selection criteria such as name, phone number, amount of household members, province and IBAN number. The template will automtically include a column per criteria, matching the registration form questions. Below, you can find an example of a template based on a KOBO registration form.
+For instance, the program registration form may include selection criteria such as name, phone number, amount of household members, province and IBAN number. The template will automatically include a column per criteria, matching the registration form questions. Below, you can find an example of a template based on a KOBO registration form.
 
 <!-- INCLUDE 2 PICTURES MATCHING 5 CRITERIA + COLUMNS -->
 

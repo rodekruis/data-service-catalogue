@@ -16,8 +16,7 @@ In the **Team** page of your program, you can see the list of team members curre
 
 ![Program Team](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ProgramTeam.png)
 
-
-- Click **Edit**. A pop-window will appear. 
+- Click **Edit**. A pop-window will appear.
 - In **Role** field, **Select or deselect** the roles you want to assign to the team member.
 - Click **Save** to confirm the changes.
 

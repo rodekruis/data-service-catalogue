@@ -7,7 +7,7 @@ hide:
 !!! info "This section explains"
     How to reset your password
 
-If you lost or do not remember your password, our support team will reset your password and share your temporary new password per email. 
+If you lost or do not remember your password, our support team will reset your password and share your temporary new password per email.
 
 Contact directly your dedicated Account Manager or our support team via <support@121.global>
 Once you have logged in with you new password, we kindly recommend you to change your new password for additional security.
