@@ -16,7 +16,7 @@ The Program **Team** page is found in each of your active programs, in which you
 
 ![Team Page](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ProgramTeam.png)
 
-Each team member can have designated roles and permissions to allow them to execute specific tasks within the program. You can read more about roles and permissions on [this page](../users/description-roles.md)
+Each team member can have designated roles and permissions to allow them to execute specific tasks within the program. You can read more about [roles and permissions](../users/description-roles.md)
 
 ___
 

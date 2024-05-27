@@ -30,8 +30,8 @@ Your validation process may include:
 - Verifying and editing People Affected details. Follow the instructions on the People Affected details page.
 
 
-!!!info "Reject PA from program"
-    Follow the instructions to reject PA from the program on this 
+!!! info "Reject PA from program"
+    Follow the instructions to [reject PA from the program](./registration-reject-pa.md).
 
 ___
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
