@@ -13,7 +13,7 @@ The users page provides the list of registered user accounts and available roles
 
 ### **Roles and Users page**
 
-**Admin users** only can access the Users page; have an overview of both roles and users registered in the 121 platform. 
+**Admin users** only can access the Users page; have an overview of both roles and users registered in the 121 platform.
 
 - In **Home page**, Click on the menu icon :material-menu: on the top left.
 - Select **Users**.

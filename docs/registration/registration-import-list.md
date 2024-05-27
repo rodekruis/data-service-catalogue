@@ -8,7 +8,7 @@ hide:
     Steps to import registration list from an excel file.
     
 
-Unless you automatically import registrations with KOBO form or equivalent, a registration list can be manually imported with an excel file (.csv format) in the program. 
+Unless you automatically import registrations with KOBO form or equivalent, a registration list can be manually imported with an excel file (.csv format) in the program.
 Enter the Program which you want to import your registration file. Then, go to Registration page. You can now start importing your file.
 
 !!! info "Automatic Import of registration"
@@ -26,7 +26,7 @@ Import registration pop-up.
 
 - Click to chose a CSV file from your computer.
 - Click to cancel the action.
-- After uploading the file, click ‘OK’ to apply the action. 
+- After uploading the file, click ‘OK’ to apply the action.
 - Another pop up will appear with confirmation that the import was successful.
 
 !!! warning "Unsuccessful import"
@@ -42,7 +42,7 @@ For instance, the program registration form may include selection criteria such 
 
 
 !!! info "Deduplication"
-    Double entries can occur while registering beneficiaries on the field. Deduplication can be made in 121 instance. You can follow the steps on this page. 
+    Double entries can occur while registering beneficiaries on the field. Deduplication can be made in 121 instance. You can follow the steps on this page.  
     If you need additional explanations, contact your dedicated Account Manager or our support team via email.
 
 ___
