@@ -26,16 +26,14 @@ The users page provides the list of registered user accounts and available roles
 
 No single user can take all actions in the 121 platform. The 121 platform follows **role-based segregation of duties**, which improves task **accountability**. For example, users with a CVA profile will not be able to make payments but are able to make updates to beneficiary data. Users with a finance profile can make payments, but are not able to update beneficiaries’ personal information. The following standard roles are configured in the 121 platform.
 
-
-| Type                                         | Description                                                     |
-| :----------                                  | :----------------------|
-| **Program Admin**                            | Program Administrator, responsible for overall program management |
-| **Finance Officer**                          | Officer for Finance operations  |
-| **Finance Manager**                          | Manager for Finance operations, payment instructions   |
-| **CVA Officer**                              | Officer for Cash and Voucher Assistance    |
-| **CVA Manager**                              | Manager for Cash and Voucher Assistance   |
-| **View**                                     | Portal Users who are allowed to view only and cannot perform actions   |
-
+| Type                | Description                                                          |
+| :------------------ | :------------------------------------------------------------------- |
+| **Program Admin**   | Program Administrator, responsible for overall program management    |
+| **Finance Officer** | Officer for Finance operations                                       |
+| **Finance Manager** | Manager for Finance operations, payment instructions                 |
+| **CVA Officer**     | Officer for Cash and Voucher Assistance                              |
+| **CVA Manager**     | Manager for Cash and Voucher Assistance                              |
+| **View**            | Portal Users who are allowed to view only and cannot perform actions |
 
 !!! info "Additional roles"
     Additional roles can be configured based on request. Contact your dedicated Account Manager reach out to our [support team via email](mailto:support@121.global).

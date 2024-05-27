@@ -24,4 +24,10 @@ article img {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.3);
 }
 
-
+/* Add more specifc details to icons */
+.twemoji.yes {
+  color: green;
+}
+.twemoji.req {
+  color: darkgrey;
+}

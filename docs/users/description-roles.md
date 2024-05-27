@@ -11,40 +11,39 @@ No single user can take all actions in the 121 platform. The 121 platform follow
 
 ### **Standard 121 user Roles**
 
-| Type                                         | Description                                                     |
-| :----------------------                                 | :---------------------------|
-| **Program Admin**                            | Program Administrator, responsible for overall program management |
-| **Finance Officer**                          | Officer for Finance operations  |
-| **Finance Manager**                          | Manager for Finance operations, payment instructions   |
-| **CVA Officer**                              | Officer for Cash and Voucher Assistance    |
-| **CVA Manager**                              | Manager for Cash and Voucher Assistance   |
-| **View**                                     | Portal Users who are allowed to view only and cannot perform actions   |
+| Type                | Description                                                          |
+| :------------------ | :------------------------------------------------------------------- |
+| **Program Admin**   | Program Administrator, responsible for overall program management    |
+| **Finance Officer** | Officer for Finance operations                                       |
+| **Finance Manager** | Manager for Finance operations, payment instructions                 |
+| **CVA Officer**     | Officer for Cash and Voucher Assistance                              |
+| **CVA Manager**     | Manager for Cash and Voucher Assistance                              |
+| **View**            | Portal Users who are allowed to view only and cannot perform actions |
 
 ### **Permissions per role**
 
-| Permissions                                         | **Program Admin** | **Finance Officer** |**Finance Manager** | **CVA Officer** | **CVA Manager** |
-| :----------                                         | :----------: |:----------: |:----------: |:----------: |:----------: |
-| Overview Users and Roles                            | :octicons-check-circle-fill-24:| |||||
-| Add and create new user accounts                    |:material-progress-question:|||||
-| Overview all active programs                        | :octicons-check-circle-fill-24:  | ||||
-| Create new programs in 121                          |:material-progress-question:|||||
-| View Program design                                 | :octicons-check-circle-fill-24:  |:octicons-check-circle-fill-24:|:octicons-check-circle-fill-24:|:octicons-check-circle-fill-24:|:octicons-check-circle-fill-24:|
-| Manage Team members and assign roles in program     | :octicons-check-circle-fill-24:| ||||:octicons-check-circle-fill-24:| 
-| Overview registration list                          | :octicons-check-circle-fill-24: | :octicons-check-circle-fill-24: | :octicons-check-circle-fill-24: |:octicons-check-circle-fill-24:|:octicons-check-circle-fill-24:|
-| Register, manage and edit PA profile                | :octicons-check-circle-fill-24:    |||:octicons-check-circle-fill-24:|||
-| Confirm or Select preferred PA communication and payment method | :octicons-check-circle-fill-24: ||| :octicons-check-circle-fill-24: |||
-| Validate, Reject PA profiles                        | :octicons-check-circle-fill-24: |||:octicons-check-circle-fill-24:|:octicons-check-circle-fill-24:||
-| Include PA in program                               | :octicons-check-circle-fill-24: ||||:octicons-check-circle-fill-24:||
-| Access and manage reporting on PA registration      |:octicons-check-circle-fill-24: |||:octicons-check-circle-fill-24:|:octicons-check-circle-fill-24:||
-| Include and validate PA in payment rounds           | :octicons-check-circle-fill-24: | :octicons-check-circle-fill-24:| | |||
-| Issue Payment                                       |  :octicons-check-circle-fill-24:   ||:octicons-check-circle-fill-24:||||
-| Send notification to PA (1-way SMS)                 | :octicons-check-circle-fill-24: ||:octicons-check-circle-fill-24:|:octicons-check-circle-fill-24:|:octicons-check-circle-fill-24:||
-| Export Payment instructions and reports             |  :octicons-check-circle-fill-24:   ||:octicons-check-circle-fill-24:||||
-| Overview Evaluation page (PDM)                      |:octicons-check-circle-fill-24:     |||||
+| Permissions                                                     |           **Program Admin**           |          **Finance Officer**          |          **Finance Manager**          |            **CVA Officer**            |            **CVA Manager**            |
+| :-------------------------------------------------------------- | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: |
+| Overview Users and Roles                                        | :octicons-check-circle-fill-24:{.yes} |                                       |                                       |                                       |                                       |
+| Add and create new user accounts                                |  :material-progress-question:{.req}   |                                       |                                       |                                       |                                       |
+| Overview all active programs                                    | :octicons-check-circle-fill-24:{.yes} |                                       |                                       |                                       |                                       |
+| Create new programs in 121                                      |  :material-progress-question:{.req}   |                                       |                                       |                                       |                                       |
+| View Program design                                             | :octicons-check-circle-fill-24:{.yes} | :octicons-check-circle-fill-24:{.yes} | :octicons-check-circle-fill-24:{.yes} | :octicons-check-circle-fill-24:{.yes} | :octicons-check-circle-fill-24:{.yes} |
+| Manage Team members and assign roles in program                 | :octicons-check-circle-fill-24:{.yes} |                                       |                                       |                                       | :octicons-check-circle-fill-24:{.yes} |
+| Overview registration list                                      | :octicons-check-circle-fill-24:{.yes} | :octicons-check-circle-fill-24:{.yes} | :octicons-check-circle-fill-24:{.yes} | :octicons-check-circle-fill-24:{.yes} | :octicons-check-circle-fill-24:{.yes} |
+| Register, manage and edit PA profile                            | :octicons-check-circle-fill-24:{.yes} |                                       |                                       | :octicons-check-circle-fill-24:{.yes} |                                       |
+| Confirm or Select preferred PA communication and payment method | :octicons-check-circle-fill-24:{.yes} |                                       |                                       | :octicons-check-circle-fill-24:{.yes} |                                       |
+| Validate, Reject PA profiles                                    | :octicons-check-circle-fill-24:{.yes} |                                       |                                       | :octicons-check-circle-fill-24:{.yes} | :octicons-check-circle-fill-24:{.yes} |
+| Include PA in program                                           | :octicons-check-circle-fill-24:{.yes} |                                       |                                       |                                       | :octicons-check-circle-fill-24:{.yes} |
+| Access and manage reporting on PA registration                  | :octicons-check-circle-fill-24:{.yes} |                                       |                                       | :octicons-check-circle-fill-24:{.yes} | :octicons-check-circle-fill-24:{.yes} |
+| Include and validate PA in payment rounds                       | :octicons-check-circle-fill-24:{.yes} | :octicons-check-circle-fill-24:{.yes} |                                       |                                       |                                       |
+| Issue Payment                                                   | :octicons-check-circle-fill-24:{.yes} |                                       | :octicons-check-circle-fill-24:{.yes} |                                       |                                       |
+| Send notification to PA (1-way SMS)                             | :octicons-check-circle-fill-24:{.yes} |                                       | :octicons-check-circle-fill-24:{.yes} | :octicons-check-circle-fill-24:{.yes} | :octicons-check-circle-fill-24:{.yes} |
+| Export Payment instructions and reports                         | :octicons-check-circle-fill-24:{.yes} |                                       | :octicons-check-circle-fill-24:{.yes} |                                       |                                       |
+| Overview Evaluation page (PDM)                                  | :octicons-check-circle-fill-24:{.yes} |                                       |                                       |                                       |                                       |
 
-:octicons-check-circle-fill-24: Feature available.
-:material-progress-question:  Feature not available, upon request to 121 support team.
-
+:octicons-check-circle-fill-24:{.yes} Feature available.  
+:material-progress-question:{.req}  Feature not available, upon request to 121 support team.
 
 ### **Additional roles**
 ___
