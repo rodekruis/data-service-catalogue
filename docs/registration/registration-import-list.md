@@ -8,7 +8,7 @@ hide:
     Steps to import registration list from an excel file.
     
 
-Unless you automatically import registrations with KOBO form or equivalent, a registration list can be manually imported with an excel file (.csv format) in the program. 
+Unless you automatically import registrations with KOBO form or equivalent, a registration list can be manually imported with an excel file (.csv format) in the program.
 Enter the Program which you want to import your registration file. Then, go to Registration page. You can now start importing your file.
 
 !!! info "Automatic Import of registration"
@@ -26,24 +26,25 @@ Import registration pop-up.
 
 - Click to chose a CSV file from your computer.
 - Click to cancel the action.
-- After uploading the file, click ‘OK’ to apply the action. 
+- After uploading the file, click ‘OK’ to apply the action.
 - Another pop up will appear with confirmation that the import was successful.
 
-!!! warning "Unsucessful import"
+!!! warning "Unsuccessful import"
     In case the import is unsuccessful or show an error message, kindly check your excel file is correctly formatted and saved as .CSV file.
-    Should you need further guidance or support, Please do not hesitate to contact our <a href="mailto:support@121.global">support team</a>.
+    Should you need further guidance or support, Please do not hesitate to contact our [support team](mailto:support@121.global).
 
 ### **Download template registration file**
 
 The template is automatically generated in 121 platform, based on the program registration form.
-For instance, the program registration form may include selection criteria such as name, phone number, amount of household members, province and IBAN number. The template will automtically include a column per criteria, matching the registration form questions. Below, you can find an example of a template based on a KOBO registration form.
+For instance, the program registration form may include selection criteria such as name, phone number, amount of household members, province and IBAN number. The template will automatically include a column per criteria, matching the registration form questions. Below, you can find an example of a template based on a KOBO registration form.
 
 <!-- INCLUDE 2 PICTURES MATCHING 5 CRITERIA + COLUMNS -->
 
 
 !!! info "Deduplication"
-    Double entries can occur while registering beneficiaries on the field. Deduplication can be made in 121 instance. You can follow the steps on this page. 
+    Double entries can occur while registering beneficiaries on the field. Deduplication can be made in 121 instance. You can follow the steps on this page.  
     If you need additional explanations, contact your dedicated Account Manager or our support team via email.
 
-
-Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+___
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
+___

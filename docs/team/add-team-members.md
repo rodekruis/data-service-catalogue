@@ -12,14 +12,14 @@ hide:
 In the **Team** page of your program, you can see the list of team members currently added into your program. If you have the permission, you can add a team member to a program.
 
 !!! warning "Permission required"
-    Per default, Program Admin and CVA manager can add and delete team members, and assign them a role into a program team. If you would like to add this role to your instance, contact your dedicated account manager or support team via <a href="mailto:support@121.global">this email</a>
+    Per default, Program Admin and CVA manager can add and delete team members, and assign them a role into a program team. If you would like to add this role to your instance, contact your dedicated account manager or support team via <support@121.global>
 
 
 - Click on the **Add team member** button on the top right
 
 ![Program Team](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ProgramTeam.png)
 
-- In the pop-up window, search for the username of the person you want to add to your programme
+- In the pop-up window, search for the username of the person you want to add to your program
 - **Assign one or more role(s)**
 - Click on the **Add user** button
 
@@ -34,5 +34,5 @@ In the **Team** page of your program, you can see the list of team members curre
     If you get an error message **"This user is already a team member"**, they have already been added to the team. Do you want to change their roles? Follow the <a href="../team/edit-team-roles-program.md">instructions in this page.</a>
 
 ___
-Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 ___

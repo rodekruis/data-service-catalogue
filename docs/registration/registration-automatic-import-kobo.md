@@ -7,8 +7,8 @@ hide:
 !!! info "This section explains"
     Steps to link your kobo form with the 121 platform
 
--   Create your kobo form on the [IFRC server](https://kobo.ifrc.org/)
--   Share this koboform with account `nlrc121platform`
+-   Create your Kobo-form on the [IFRC server](https://kobo.ifrc.org/)
+-   Share this Kobo-form with account `nlrc121platform`
 -   Inform the 121 team that you have shared the form
 
 Our 121 support team will link the kobo form with the right program in the 121 platform and inform you when it is ready.
@@ -38,7 +38,7 @@ The registration table can be empty for 2 reasons :
 
 !!! warning "Blank page"
     In case the page is fully blank and do not show the registration column, there may be a technical issue with the link connecting with your KOBO form.
-    Please contact your dedicated Account Manager or our <a href="mailto:support@121.global">support team</a> to help fixing the issue.
+    Please contact your dedicated Account Manager or our [support team](mailto:support@121.global) to help fixing the issue.
 
 
 
@@ -48,5 +48,5 @@ The registration table can be empty for 2 reasons :
     If you need additional explanations, contact your dedicated Account Manager or our support team via email.
 
 ___
-Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 ___

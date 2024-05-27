@@ -21,7 +21,7 @@ To overview your program details :
 
 The Program Details metrics translates your program requirements. The details provide the main information about the duration and location of your program, budget, targeted beneficiaries, cash aid delivery and distribution frequencies. Each of your active programs may have different metrics shown in the table below.
 
-Futher explanation about the program details metrics on the [Program Details page.](../design/read-change-design-details.md)
+Further explanation about the program details metrics on the [Program Details page.](../design/read-change-design-details.md)
 
 ![Program Details](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ProgramDetails.png)
 
@@ -31,10 +31,11 @@ Futher explanation about the program details metrics on the [Program Details pag
 When setting up your instance, our team will request you to share these details. These metrics can be adjusted depending on your program requirements, and can be edited over the duration of the program. For instance, the dates, frequency and duration can sometimes change while a program is running. These metrics can be adjusted upon request.
 
 !!! Warning "Updating your metrics"
-    Currently it is not possible to perform any actions or change these metrics yourself in the design page. Please <a href="mailto:support@121.global">contact the 121 support team</a> to help you with this.
+    Currently it is not possible to perform any actions or change these metrics yourself in the design page. Please [contact the 121 support team](mailto:support@121.global) to help you with this.
 
 To go to the next phase of your program process, click on the right button to open registration phase or in the menu barre.
 Follow the instructions on [Registration](../registration/registration.md)
 
-
-Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+___
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
+___

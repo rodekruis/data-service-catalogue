@@ -13,11 +13,11 @@ When performing a payment, 121 platform will notify the Finance Officer and Fina
 ### **List of payment notifications to 121 users**
 
 | Type | Description | Actions |
+| ---- | ----------- | ------- |
 | SUCCESSFUL | | |
 | WAITING | | |
 | FAILED | | |
-| 
 
 ___
-Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 ___

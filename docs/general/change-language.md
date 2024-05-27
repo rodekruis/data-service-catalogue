@@ -11,7 +11,7 @@ hide:
 
 ### Change the language
 
-You can change the language of your 121 user portal by clicking on the language switcher. The language will be changed at the individual user account level. English, French, Spanish, Dutch and Arabic languages are available. If you use arabic per default, the language switcher is on the left.
+You can change the language of your 121 user portal by clicking on the language switcher. The language will be changed at the individual user account level. English, French, Spanish, Dutch and Arabic languages are available. If you use Arabic per default, the language switcher is on the left.
 
 
 Once logged in, click on the current language in the top right corner of the screen. Select your preferred language.
@@ -22,5 +22,6 @@ At login, click on the current language in the top right corner of the screen. S
 
 ![Login screen](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/loginScreen.png)
 
-
-Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+___
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
+___
