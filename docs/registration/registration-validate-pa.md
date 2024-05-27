@@ -33,11 +33,6 @@ Your validation process may include :
 !!!info "Reject PA from program"
     Follow the instructions to reject PA from the program on this 
 
-
-
-
-
-
 ___
-Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 ___

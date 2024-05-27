@@ -38,7 +38,7 @@ The registration table can be empty for 2 reasons :
 
 !!! warning "Blank page"
     In case the page is fully blank and do not show the registration column, there may be a technical issue with the link connecting with your KOBO form.
-    Please contact your dedicated Account Manager or our <a href="mailto:support@121.global">support team</a> to help fixing the issue.
+    Please contact your dedicated Account Manager or our [support team](mailto:support@121.global) to help fixing the issue.
 
 
 
@@ -48,5 +48,5 @@ The registration table can be empty for 2 reasons :
     If you need additional explanations, contact your dedicated Account Manager or our support team via email.
 
 ___
-Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 ___

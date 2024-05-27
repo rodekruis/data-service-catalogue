@@ -37,5 +37,5 @@ Indicative messages (successful, waiting, refused)
     Additional users may be granted only **View** permission on this page. [Learn more about Users & Roles](../users/users-roles-page.md)
 
 ___
-Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 ___

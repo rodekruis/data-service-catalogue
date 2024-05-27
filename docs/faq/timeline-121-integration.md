@@ -25,7 +25,7 @@ hide:
 
      **Without an FSP integration, we offer a soft integration so you can start using 121 platform immediately**, while the integration is being processed. This works through exporting excel files including the payment information from 121 and uploading these file in the FSP portal. You will later reconcile the payments into the 121 platform. 
      
-     Read more about our **Financial Service Providers (FSP)** [on this page](../faq/financial-service-provider.md). Or, contact our team to discuss the alternatives offered in your situation and country of operations at <a href="mailto:info@121.global">info@121.global</a>.
+     Read more about our **Financial Service Providers (FSP)** [on this page](../faq/financial-service-provider.md). Or, contact our team to discuss the alternatives offered in your situation and country of operations at <info@121.global>.
 
 ??? "4. Can 121 platform be integrated with other third-party tool?"
 
@@ -42,12 +42,8 @@ hide:
      - **Redline**, the Community Engagement Hub developed by 510 unit, that allows multichannel communication and scalable engagement and
      accountability.
 
-     You can discuss further details about third-party tool integration with our technical team by contacting us on our <a href="mailto:support@121.global">support team email</a>.
+     You can discuss further details about third-party tool integration with our technical team by contacting us on our [support team email](mailto:support@121.global).
 
-    
-
-    
-
-
-____
-Need further assistance? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+___
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
+___

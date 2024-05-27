@@ -13,7 +13,7 @@ hide:
 
       The partner remains the data controller and is therefore responsible for any data entered into the platform. The partner should therefore be informed and in compliance with their data protection legislation.
 
-      Please, contact our Account Manager Team to **discuss any requirements and questions** in regard to our GDPR at <a href="mailto:info@121.global">info@121.global</a>.
+      Please, contact our Account Manager Team to **discuss any requirements and questions** in regard to our GDPR at <info@121.global>.
 
 ??? "2. Where and how do you store and process data?"
     
@@ -24,7 +24,7 @@ hide:
 
 ??? "3. What is your cloud server and host provider ?"
     
-    The 121 Platform runs in Microsoft Azure Cloud. By default, the location for all resources is Western Europe. Optionally, and upon request to our team, it may be possible to host and store the data in a different region. Please, contact our team for further information <a href="mailto:info@121.global">info@121.global</a>.
+    The 121 Platform runs in Microsoft Azure Cloud. By default, the location for all resources is Western Europe. Optionally, and upon request to our team, it may be possible to host and store the data in a different region. Please, contact our team for further information <info@121.global>.
 
     It may be possible to host the 121 platform in the country which data storage and processing is happening but this depends on location availability of Azure datacenters. 
 
@@ -35,7 +35,7 @@ hide:
    
     Note that hosting data on-premise servers, or on third-party servers for which we have no agreement contract, may affect the 121 platform maintenance. It may require your team to support the maintenance of your 121 instance.
     
-    Please contact us to discuss best alternatives and solutions on <a href="mailto:info@121.global">info@121.global</a>.
+    Please contact us to discuss best alternatives and solutions on <info@121.global>.
 
 
 ??? "5. In which geographical locations do you store or process data?"
@@ -61,7 +61,6 @@ hide:
 
     **Integrity** is protected by extensive testing of the software using various types of automated and also manual tests, and using DBMS-provided integrity functionality with an ERD in 3rd normal form (primary key-foreign key relationships, unique contraints, not null columns, and the like). Malicious attempts at accessing the data are mitigated by daily monitoring of logs and resources and by regular pentests performend by an external company. The whole The Netherlands Red Cross (NLRC) has undersigned the IFRC Code of Conduct and also external contractors do so.
 
-
-____
-Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+___
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 ___

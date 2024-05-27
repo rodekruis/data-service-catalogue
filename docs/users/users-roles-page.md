@@ -38,14 +38,12 @@ No single user can take all actions in the 121 platform. The 121 platform follow
 
 
 !!! info "Additional roles"
-    Additional roles can be configured based on request. Contact your dedicated Account Manager reach out to our <a href="mailto:support@121.global">support team via email</a>.
+    Additional roles can be configured based on request. Contact your dedicated Account Manager reach out to our [support team via email](mailto:support@121.global).
 
 !!! note "Permissions"
     Find a description of role-based permissions [on this page](../users/description-roles.md).
 
-
-
 ___
 Need further assistance?
-Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 ___

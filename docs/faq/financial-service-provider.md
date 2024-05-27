@@ -34,7 +34,7 @@ hide:
 
      **Without an FSP integration, we offer a soft integration so you can start using 121 platform immediately**, while the integration is being processed. This works through exporting excel files including the payment information from 121 and uploading these file in the FSP portal. You will later reconcile the payments into the 121 platform. 
      
-     Contact our team to discuss the alternatives offered in your situation and country of operations at <a href="mailto:info@121.global">info@121.global</a>.
+     Contact our team to discuss the alternatives offered in your situation and country of operations at <info@121.global>.
 
 
 ??? "5. What banks or FSP do qualify to be intergrated in the platform?"
@@ -43,10 +43,6 @@ hide:
 
      To enable the integration with 121 platform, the FSPs must have an API (Application programming interfaces) as sets of protocols and tools that allow software programs to communicate with each other.
 
-
-
-
-
-____
-Need further assistance? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+___
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 ___

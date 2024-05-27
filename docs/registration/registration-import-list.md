@@ -31,7 +31,7 @@ Import registration pop-up.
 
 !!! warning "Unsucessful import"
     In case the import is unsuccessful or show an error message, kindly check your excel file is correctly formatted and saved as .CSV file.
-    Should you need further guidance or support, Please do not hesitate to contact our <a href="mailto:support@121.global">support team</a>.
+    Should you need further guidance or support, Please do not hesitate to contact our [support team](mailto:support@121.global).
 
 ### **Download template registration file**
 
@@ -45,5 +45,6 @@ For instance, the program registration form may include selection criteria such 
     Double entries can occur while registering beneficiaries on the field. Deduplication can be made in 121 instance. You can follow the steps on this page. 
     If you need additional explanations, contact your dedicated Account Manager or our support team via email.
 
-
-Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+___
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
+___

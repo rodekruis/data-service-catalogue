@@ -35,13 +35,12 @@ The **Program Details metrics** translates your program requirements. The detail
 When setting up your instance, our team will request you to share your **program details**. These metrics can be adjusted depending on your program requirements, and along the duration of the program. For instance, the dates, frequency and duration can sometimes change while your program is running.
 
 !!! Warning "Updating your metrics"
-    Currently it is not possible to perform any actions in the Program Design or change these metrics yourself. Please <a href="mailto:support@121.global">contact the 121 support team</a> to help you with this.
+    Currently it is not possible to perform any actions in the Program Design or change these metrics yourself. Please [contact the 121 support team](mailto:support@121.global) to help you with this.
 
 
 To go to the next phase of your program process, click on the right button to open registration phase or in the menu barre.
 Follow the instructions on [Registration](../registration/registration.md)
 
-
-
-
-Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+___
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
+___

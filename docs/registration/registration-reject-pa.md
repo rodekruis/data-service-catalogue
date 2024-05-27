@@ -23,5 +23,6 @@ The People Affected table show you all of the registered households that were im
 
 Rejected People Affected remain listed in the Registration & Validation page with the status **Rejected**. Filter the list by status to have an overview of all rejected PA in this program.
 
-
-Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+___
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
+___

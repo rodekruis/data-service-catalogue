@@ -48,11 +48,12 @@ No single user can take all actions in the 121 platform. The 121 platform follow
 
 ### **Additional roles**
 ___
-Existing roles can be adjusted with additional permissions to fit your requirements. Additional roles and permissions can be configured upon request. Contact your dedicated Account Manager reach out to our <a href="mailto:support@121.global">support team via email</a>.
+Existing roles can be adjusted with additional permissions to fit your requirements. Additional roles and permissions can be configured upon request. Contact your dedicated Account Manager reach out to our [support team via email](mailto:support@121.global).
 ___
 
 !!! note "add users to a program"
     You can follow these instructions to [add team members to a program and assign a role](../team/add-team-members.md).
 
-
-Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+___
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
+___

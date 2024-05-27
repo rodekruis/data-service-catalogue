@@ -7,7 +7,7 @@ hide:
 ### Support Contact
 
 Our team is available for online support from Monday to Friday between 8.00 and 18.00 CET.
-In case of technical issues, you can reach out to our support team via email on <a href="mailto:support@121.global">support@121.global</a>. Please, always inform or add your dedicated Account Manager in copy of your requests, so they can follow up with you. Our response time is 1-2 hour on average.
+In case of technical issues, you can reach out to our support team via email on <support@121.global>. Please, always inform or add your dedicated Account Manager in copy of your requests, so they can follow up with you. Our response time is 1-2 hour on average.
 
 !!! Warning "Urgent technical issues"
     For urgent technical issues, you can contact us directly via your dedicated Whatsapp Group or Teams, or other agreed means of instant communication.
@@ -29,4 +29,6 @@ Our escalation process includes 3 levels :
 !!! Warning "Emergency Responses Support hours"
     During emergency responses, it may be required to broaden our support hours to evenings and weekends. This can be discussed with our teams, on a case by case basis.
 
-Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
+___
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
+___
