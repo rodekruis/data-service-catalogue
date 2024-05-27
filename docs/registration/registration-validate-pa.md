@@ -17,7 +17,7 @@ The People Affected table show you all of the registered households that were im
 - Move the People Affected to the inclusion phase by clicking on **Choose Action : Mark as Validated**
 - When clicking, a tick box :material-checkbox-blank-outline:a appear on the left of PA name column.
     - Make an individual :material-checkbox-outline:, by clicking on the PA line; 
-    - Or a bulk selection :material-checkbox-multiple-marked-outline:, by clickling on the upper line **Select**
+    - Or a bulk selection :material-checkbox-multiple-marked-outline:, by clicking on the upper line **Select**
 - A pop-up appears to confirm your action **You are about to Mark as Validated for X People Affected.**
 - Click on OK. A message indicates the completion of the action.
 - PAs are now moved to [Inclusion phase](../inclusion/inclusion.md)
