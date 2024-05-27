@@ -54,7 +54,7 @@ Existing roles can be adjusted with additional permissions to fit your requireme
 ___
 
 !!! note "add users to a program"
-    To add team members to a program and assign a role, you can follow the instructions [here](../add-team-members)
+    You can follow these instructions to [add team members to a program and assign a role](../team/add-team-members.md).
 
 
 Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
