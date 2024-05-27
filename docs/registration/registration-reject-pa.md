@@ -10,7 +10,7 @@ hide:
 You use this page and dropdown menu to choose the appropriate next actions : validating, rejecting or editing registration of PA, move the PA into inclusion phase.
 
 
-### **Reject People Affected from the program**
+### Reject People Affected from the program
 
 The People Affected table show you all of the registered households that were imported. Their status should be **Registered**. 
 

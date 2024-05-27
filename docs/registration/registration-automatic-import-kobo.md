@@ -16,7 +16,7 @@ Our 121 support team will link the kobo form with the right program in the 121 p
 Unless you manually import registrations with an excel .CSV file, registrations done with KOBO will automatically be imported within the program registration page.
 
 
-### **View a KOBO registration list**
+### View a KOBO registration list
 
 - Go to your program.
 - Enter the registration page.
@@ -24,7 +24,7 @@ Unless you manually import registrations with an excel .CSV file, registrations 
 ![Import Registration button](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/RegistrationPageOverview.png)
 
 
-### **Empty list**
+### Empty list
 
 The registration table can be empty for 2 reasons :
 

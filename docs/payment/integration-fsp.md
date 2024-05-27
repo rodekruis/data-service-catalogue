@@ -8,7 +8,7 @@ hide:
     The existing integration with local FSP and request for new integration.
 
 
-### **List of local FSP integrated with 121 platform**
+### List of local FSP integrated with 121 platform
 
 | Country                      | FSP name                    | Enabled Delivery methods    |
 | :--------------------------- | :-------------------------- | :-------------------------- |
@@ -24,7 +24,7 @@ hide:
     In progress with integrated an African aggregator to cover up to X countries, enabling to activate instantly payments with local FSP in-country. Quicker process.
 
 
-### **Delivery methods**
+### Delivery methods
 
 | Category         | Description |
 | ---------------- | ----------- |
@@ -35,7 +35,7 @@ hide:
 | Digital cash     | |
 | Digital vouchers | |
 
-### **Request for new integration**
+### Request for new integration
 
 Requirements :
 - API

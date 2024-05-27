@@ -11,7 +11,7 @@ hide:
 
 The users page provides the list of registered user accounts and available roles in your 121 platform.
 
-### **Roles and Users page**
+### Roles and Users page
 
 **Admin users** only can access the Users page; have an overview of both roles and users registered in the 121 platform.
 
@@ -22,7 +22,7 @@ The users page provides the list of registered user accounts and available roles
 
 ![User Role Tab](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/UsersRoleTab.png)
 
-### **Standard 121 user roles**
+### Standard 121 user roles
 
 No single user can take all actions in the 121 platform. The 121 platform follows **role-based segregation of duties**, which improves task **accountability**. For example, users with a CVA profile will not be able to make payments but are able to make updates to beneficiary data. Users with a finance profile can make payments, but are not able to update beneficiaries’ personal information. The following standard roles are configured in the 121 platform.
 

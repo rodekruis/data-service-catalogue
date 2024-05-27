@@ -11,12 +11,12 @@ hide:
 Registration can be empty for the following reasons :
 
 
-### **No new registration imported**
+### No new registration imported
 
 There is no new registration since last validation round.
 The table will show "No data"
 
-### **No Internet Connexion**
+### No Internet Connexion
 
 In case you are using KOBO Toolbox form or alternative registration form App, the list may still need to be updated.
 Although the registration tool can be used offline, an internet connexion is required to start importing the registration list to 121 platform.
@@ -27,7 +27,7 @@ To start importing the registration list:
 - Start the upload with KOBO form.
 - Once done, refresh the registration page in your program.
 
-### **Filters apply to the list**
+### Filters apply to the list
 
 Filters may be applied to the list.
 

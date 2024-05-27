@@ -7,7 +7,7 @@ hide:
 !!! info "This section explains"
     How to add team members to your program
 
-### **Adding team members**
+### Adding team members
 
 In the **Team** page of your program, you can see the list of team members currently added into your program. If you have the permission, you can add a team member to a program.
 

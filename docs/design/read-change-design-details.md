@@ -7,7 +7,7 @@ hide:
 !!! info "This section explains"
     How to read and change the metrics in the Program Design.
 
-### **Read the Program Details metrics**
+### Read the Program Details metrics
 
 The **Program Details metrics** translates your program requirements. The details provide the main information about the duration and location of your program, budget, targeted People Affected, cash aid delivery and distribution frequencies. Each of your active programs may show different metrics in the table below.
 
@@ -30,7 +30,7 @@ The **Program Details metrics** translates your program requirements. The detail
 
 
 
-### **Change the Program Details metrics**
+### Change the Program Details metrics
 
 When setting up your instance, our team will request you to share your **program details**. These metrics can be adjusted depending on your program requirements, and along the duration of the program. For instance, the dates, frequency and duration can sometimes change while your program is running.
 

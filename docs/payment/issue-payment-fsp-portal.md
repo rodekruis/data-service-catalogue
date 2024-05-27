@@ -8,15 +8,15 @@ hide:
     How to process a manual payment via a FSP portal, export payment instructions and reconcialiate payments.
 
 
-### **Overview of pending payment**
+### Overview of pending payment
 
 Explain the payment rounds.
 
-### **Issue and Review payments to beneficiaries**
+### Issue and Review payments to beneficiaries
 
 Select beneficiaries. Bulk or individual.
 
-### **Export payment instructions**
+### Export payment instructions
 
 Payment instructions for FSP Portal.
 
@@ -24,10 +24,11 @@ Payment instructions for FSP Portal.
     121 platform has integrated with a certain number of local FSP and aggregators. Find the list of existing integration here.
     Additional local FSP can be integrated upon evaluation. Please, share your request with our team.
 
-### **Reconciliate payments in 121 platform**
+### Reconciliate payments in 121 platform
 
 
-### **Payment status**
+### Payment status
+
 Indicative messages (successful, waiting, refused)
 
 !!! info "Export payment reports"

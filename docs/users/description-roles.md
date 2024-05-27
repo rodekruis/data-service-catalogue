@@ -9,7 +9,7 @@ hide:
 
 No single user can take all actions in the 121 platform. The 121 platform follows **role-based segregation of duties**, which improves task **accountability**. For example, users with a CVA profile will not be able to make payments but are able to make updates to beneficiary data. Users with a finance profile can make payments, but are not able to update beneficiaries’ personal information. The following standard roles are configured in the 121 platform.
 
-### **Standard 121 user Roles**
+### Standard 121 user Roles
 
 | Type                | Description                                                          |
 | :------------------ | :------------------------------------------------------------------- |
@@ -20,7 +20,7 @@ No single user can take all actions in the 121 platform. The 121 platform follow
 | **CVA Manager**     | Manager for Cash and Voucher Assistance                              |
 | **View**            | Portal Users who are allowed to view only and cannot perform actions |
 
-### **Permissions per role**
+### Permissions per role
 
 | Permissions                                                     |           **Program Admin**           |          **Finance Officer**          |          **Finance Manager**          |            **CVA Officer**            |            **CVA Manager**            |
 | :-------------------------------------------------------------- | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: |
@@ -45,10 +45,10 @@ No single user can take all actions in the 121 platform. The 121 platform follow
 :octicons-check-circle-fill-24:{.yes} Feature available.  
 :material-progress-question:{.req}  Feature not available, upon request to 121 support team.
 
-### **Additional roles**
-___
+### Additional roles
+
 Existing roles can be adjusted with additional permissions to fit your requirements. Additional roles and permissions can be configured upon request. Contact your dedicated Account Manager reach out to our [support team via email](mailto:support@121.global).
-___
+
 
 !!! note "add users to a program"
     You can follow these instructions to [add team members to a program and assign a role](../team/add-team-members.md).

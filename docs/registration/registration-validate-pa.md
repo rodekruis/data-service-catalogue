@@ -10,7 +10,7 @@ hide:
 You use this page and dropdown menu to choose the appropriate next actions : validating, rejecting or editing registration of PA, move the PA into inclusion phase.
 
 
-### **Validation of People Affected into the program**
+### Validation of People Affected into the program
 
 The People Affected table show you all of the registered households that were imported. Their status should be **Registered**. 
 
@@ -22,7 +22,7 @@ The People Affected table show you all of the registered households that were im
 - Click on OK. A message indicates the completion of the action.
 - PAs are now moved to [Inclusion phase](../inclusion/inclusion.md)
 
-### **Validation and deduplication process**
+### Validation and deduplication process
 
 Your validation process may include :
 

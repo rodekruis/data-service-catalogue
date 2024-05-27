@@ -18,6 +18,11 @@
   font-size: inherit; /* Prevent jump in text-size */
 }
 
+/* Make sub-headings stand-out from the body-text more (No need for inline-styles/bold/strong) */
+.md-typeset h3 {
+  font-weight: bold;
+}
+
 /* Make screenshots (only inside pages) stand-out more */
 article img {
   border-radius: 0.375rem;
