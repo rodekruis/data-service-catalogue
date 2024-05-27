@@ -21,10 +21,10 @@ ___
 ### **Managing your Program Team**
 In the **Team** page of your program, you can create or view the list of team members working into your program. If you have the correct permission assigned, you can:
 
-- **Add** team members to the program, [here](../team/add-team-members.md)
-- **Assign one or multiple role(s)** to a team member, [here](../team/change-team-roles-program.md)
-- **Change the role** assigned to a team member, [here](../team/change-team-roles-program.md)
-- **Remove team member** from the program team, [here](../team/remove-team-members-program.md)
+- [**Add** team members to the program](../team/add-team-members.md)
+- [**Assign one or multiple role(s)** to a team member](../team/change-team-roles-program.md)
+- [**Change the role** assigned to a team member](../team/change-team-roles-program.md)
+- [**Remove team member** from the program team](../team/remove-team-members-program.md)
 
 You can always add, remove and edit members from the team while running your program. Programs status and action history will remain unchanged.
 

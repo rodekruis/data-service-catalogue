@@ -24,7 +24,8 @@ In the **Team** page of your program, you can see the list of team members curre
 ![Program Team](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ChangeRoleTeam.png)
 
 !!! question "add or remove users"
-    To add team members to a program, you can follow the instructions [here](../team/add-team-members.md). To remove team members from a program, follow the instructions [here](../team/remove-team-members-program.md)
+    You can follow the instructions to [add team members to a program](../team/add-team-members.md).  
+    or to [remove team members from a program](../team/remove-team-members-program.md)
 
 ___
 Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.
