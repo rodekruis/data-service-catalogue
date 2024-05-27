@@ -17,12 +17,12 @@ Enter the Program which you want to import your registration file. Then, go to R
 
 ### **Import a registration list**
 
-![Import Registration button](../assets/img/RegistrationImportFile.png)
+![Import Registration button](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/RegistrationPageOverview.png)
 
 Click on Import Registrations button, using a CSV file.​
 Import registration pop-up.
 
-![Import Registration pop-up](../assets/img/RegistrationImportFileCSVBox.png)
+![Import Registration pop-up](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/RegistrationImportFile.png)
 
 - Click to chose a CSV file from your computer.
 - Click to cancel the action.

@@ -15,7 +15,7 @@ hide:
 -   Optional: if you want to check if you've written you password correctly, you can click the :material-eye:
 -   Click the log in button
 
-![Login screen](../assets/img/loginScreen.png)
+![Login screen](.https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/loginScreen.png)
 
 
 Need further assistance ? Contact your dedicated Account Manager or reach our <a href="mailto:support@121.global">support team via email</a>.

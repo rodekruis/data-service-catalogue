@@ -20,7 +20,7 @@ The users page provides the list of registered user accounts and available roles
 - The left tab **Users** shows the list of registered users in your instance.
 - The right tab **Roles** shows the list of available roles in your instance.
 
-![User Role Tab](../assets/img/UsersRoleTab.png)
+![User Role Tab](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/UsersRoleTab.png)
 
 ### **Standard 121 user roles**
 

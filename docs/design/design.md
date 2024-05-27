@@ -15,7 +15,7 @@ To overview your program details :
     - Enter your program
     - Click on "Design" at the top left of your screen. You will then be presented with an overview of the program setup.
 
-![Program Details Overview](../assets/img/ProgramOverview.png)
+![Program Details Overview](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ProgramOverview.png)
 
 ### Program Details setup metrics
 
@@ -23,7 +23,7 @@ The Program Details metrics translates your program requirements. The details pr
 
 Futher explanation about the program details metrics on the [Program Details page.](../design/read-change-design-details.md)
 
-![Program Details](../assets/img/ProgramDetailsTable.png)
+![Program Details](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ProgramDetails.png)
 
 
 ### Change of metrics in Program Details

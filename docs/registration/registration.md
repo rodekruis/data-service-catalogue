@@ -10,7 +10,7 @@ hide:
 The registration page enables to review the registered beneficiaries details before you include them into the program to start receiving cash assistance.
 Note that Beneficiaries are named as People Affected (PA) in 121 platform.
 
-![Registration and Validation page](../assets/img/RegistrationPageOverview.png)
+![Registration and Validation page](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/RegistrationPageOverview.png)
 
 ### **Overview of registered PA**
 

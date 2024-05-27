@@ -19,6 +19,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - glightbox
 
 theme:
     name: material
@@ -89,5 +90,3 @@ nav:
       - 'Change PA status in payment phase': 'payment/change-pa-status-program.md'
       - 'List of integrated FSP': 'payment/integration-fsp.md'
       - 'Notification messages to 121 payment users': 'payment/list-messages-payments.md'
-    - 'Evaluation':
-      - 'Evaluation Overview': 'evaluation/evaluation.md'

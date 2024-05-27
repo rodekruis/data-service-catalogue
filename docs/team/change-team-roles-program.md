@@ -14,14 +14,14 @@ In the **Team** page of your program, you can see the list of team members curre
 - Enter the program, **go to Team** page.
 - Click on the 3 dots **:material-dots-horizontal:**  on the right end of the team member row.
 
-![Program Team](../assets/img/ProgramTeamDeleteRemoveUserDots.png)
+![Program Team](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ProgramTeam.png)
 
 
 - Click **Edit**. A pop-window will appear. 
 - In **Role** field, **Select or deselect** the roles you want to assign to the team member.
 - Click **Save** to confirm the changes.
 
-![Program Team](../assets/img/ChangeRoleTeam.PNG)
+![Program Team](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ChangeRoleTeam.png)
 
 !!! question "add or remove users"
     To add team members to a program, you can follow the instructions [here](../team/add-team-members.md). To remove team members from a program, follow the instructions [here](../team/remove-team-members-program.md)
