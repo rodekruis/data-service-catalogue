@@ -10,6 +10,8 @@ markdown_extensions:
   - md_in_html
   - toc:
         toc_depth : "1-1"
+        permalink : true
+        permalink_title: Specific link to this section
   - admonition
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
