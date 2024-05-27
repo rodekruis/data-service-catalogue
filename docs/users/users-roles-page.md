@@ -15,7 +15,7 @@ The users page provides the list of registered user accounts and available roles
 
 **Admin users** only can access the Users page; have an overview of both roles and users registered in the 121 platform.
 
-- In **Home page**, Click on the menu icon :material-menu: on the top left.
+- In **Home page**, Click on the menu icon (:material-menu:) on the top left.
 - Select **Users**.
 - The left tab **Users** shows the list of registered users in your instance.
 - The right tab **Roles** shows the list of available roles in your instance.
