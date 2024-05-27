@@ -33,22 +33,8 @@
 
 #### With Docker
 
-- Open up a terminal and pull the image
-  ```sh
-  docker pull squidfunk/mkdocs-material
-  ```
-
-- Run the container
-  ```sh
-  docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
-  ```
-
-- If you are using plugins, create a DOCKERFILE to extend the official images
-    ``` Dockerfile title="Dockerfile"
-  FROM squidfunk/mkdocs-material
-  RUN pip install -r requirements.txt
-  ```
-  Make sure to have a requirements.txt file in the root folder.
+See [this section](https://squidfunk.github.io/mkdocs-material/getting-started/#with-docker) of the mkdocs-material documentation on how to set it up and run in docker.
+The `DOCKERFILE` and `requirements.txt` can be used as is.
 
 ### Tools in use
 
