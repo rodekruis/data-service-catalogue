@@ -26,7 +26,7 @@ Delivery methods: digital payment. Mobile payment, Visa debit card, bank wire, e
     121 platform has integrated with a certain number of local FSP and aggregators. Find the list of existing integration here.
     Additional local FSP can be integrated upon evaluation. Please, share your request with our team.
 
-### Export and reconciliate payment instructions
+### Export and reconcile payment instructions
 
 FSP PORTAL
 

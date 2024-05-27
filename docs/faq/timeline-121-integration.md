@@ -6,7 +6,7 @@ hide:
 
 
 
-??? "1. What ICT is required to run the 121 platform ? Do I need specific installations or additional hardware?"
+??? "1. What ICT is required to run the 121 platform? Do I need specific installations or additional hardware?"
 
      The 121 platform addresses the diverse needs of National Societies, INGOs, and NGOs, taking into account their varying digital literacy levels. Our platform streamlines operations with its straightforward requirements and swift implementation process to be deployed as rapidly as possible to comply with emergency settings.
 
