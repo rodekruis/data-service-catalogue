@@ -26,7 +26,8 @@ theme:
     language: en
     palette:
       primary: custom
-    logo: assets/img/121Logo.svg
+    logo: /assets/img/121Logo.svg
+    favicon: /assets/img/favicon.ico
     features:
       - navigation.top
       - navigation.instant
