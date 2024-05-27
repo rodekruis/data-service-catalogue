@@ -8,8 +8,7 @@ hide:
     How to check the registration list status
 
 
-Registration can be empty for the following reasons :
-
+Registration can be empty for the following reasons:
 
 ### No new registration imported
 

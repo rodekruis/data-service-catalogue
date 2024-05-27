@@ -20,7 +20,7 @@ Adjust payment methods and bank details whenever an error is made.
 ### Integration with local FSP
 
 Integration with local FSP.
-Delivery methods : digital payment. Mobile payment, Visa debit card, bank wire, etc. Read more on delivery methods page.
+Delivery methods: digital payment. Mobile payment, Visa debit card, bank wire, etc. Read more on delivery methods page.
 
 !!! info "Integration with FSP and aggregator to 121"
     121 platform has integrated with a certain number of local FSP and aggregators. Find the list of existing integration here.
@@ -33,8 +33,8 @@ FSP PORTAL
 ### Export payment reports
 
 
-!!! Important "Who can perform actions in this page ?"
-    Finance Manager and Finance Officer roles can perform actions and view this page. 
+!!! Important "Who can perform actions in this page?"
+    Finance Manager and Finance Officer roles can perform actions and view this page.  
     Additional users may be granted only **View** permission on this page. [Learn more about Users & Roles](../users/users-roles-page.md)
 
 ___

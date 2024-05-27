@@ -9,11 +9,12 @@ hide:
 
 ### See program page
 
-The Design page is an overview of your program details. This include the main metrics of your cash and voucher assistance that will be run within 121 platform. These metrics are provided by your team when creating the program in the instance. The table below give a description on the metrics used. 
+The Design page is an overview of your program details. This include the main metrics of your cash and voucher assistance that will be run within 121 platform. These metrics are provided by your team when creating the program in the instance. The table below give a description on the metrics used.
 
-To overview your program details :
-    - Enter your program
-    - Click on "Design" at the top left of your screen. You will then be presented with an overview of the program setup.
+To overview your program details:
+
+- Enter your program
+- Click on "Design" at the top left of your screen. You will then be presented with an overview of the program setup.
 
 ![Program Details Overview](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ProgramOverview.png)
 

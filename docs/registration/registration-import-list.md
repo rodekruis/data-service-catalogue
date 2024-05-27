@@ -6,14 +6,13 @@ hide:
 
 !!! info "This section explains"
     Steps to import registration list from an excel file.
-    
 
 Unless you automatically import registrations with KOBO form or equivalent, a registration list can be manually imported with an excel file (.csv format) in the program.
 Enter the Program which you want to import your registration file. Then, go to Registration page. You can now start importing your file.
 
 !!! info "Automatic Import of registration"
     KOBO Toolbox App is integrated with 121 platform, enabling automatic import of new registrations of beneficiaries. Follow the instructions on this page.
-    Want to integrate your KOBO form or alternative registration App with 121 platform ? Please, contact our team.
+    Want to integrate your KOBO form or alternative registration App with 121 platform? Please, contact our team.
 
 ### Import a registration list
 
