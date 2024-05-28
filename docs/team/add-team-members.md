@@ -7,7 +7,7 @@ hide:
 !!! info "This section explains"
     How to add team members to your program
 
-### **Adding team members**
+### Adding team members
 
 In the **Team** page of your program, you can see the list of team members currently added into your program. If you have the permission, you can add a team member to a program.
 
@@ -28,10 +28,10 @@ In the **Team** page of your program, you can see the list of team members curre
 - **Save** your changes. The user will be automatically added into the program team.
 
 !!! question "Can't find the user?"
-    If you can't find the user that you want to add to the program, they need to be <a href="../users/add-users.md">added to the 121 platform first</a>
+    If you can't find the user that you want to add to the program, they need to be [added to the 121 platform first](../users/add-users.md)
 
 !!! warning "This user is already a team member"
-    If you get an error message **"This user is already a team member"**, they have already been added to the team. Do you want to change their roles? Follow the <a href="../team/edit-team-roles-program.md">instructions in this page.</a>
+    If you get an error message **"This user is already a team member"**, they have already been added to the team. Do you want to [change their roles](../team/edit-team-roles-program.md)?
 
 ___
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).

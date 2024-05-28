@@ -5,12 +5,12 @@ hide:
 ---
 
 !!! info "This section explains"
-    How to perform changes of PA status in the payment phase of a program : end inclusion or pause payments.
+    How to perform changes of PA status in the payment phase of a program: end inclusion or pause payments.
 
 When performing a payment, 121 platform will notify the Finance Officer and Finance Manager on their actions through a certain number of messages. Here the list of messages and related explanations.
 
 
-### **List of payment notifications to 121 users**
+### List of payment notifications to 121 users
 
 | Type | Description | Actions |
 | ---- | ----------- | ------- |

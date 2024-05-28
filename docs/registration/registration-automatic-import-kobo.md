@@ -7,26 +7,28 @@ hide:
 !!! info "This section explains"
     Steps to link your kobo form with the 121 platform
 
--   Create your Kobo-form on the [IFRC server](https://kobo.ifrc.org/)
--   Share this Kobo-form with account `nlrc121platform`
--   Inform the 121 team that you have shared the form
+- Create your Kobo-form on the [IFRC server](https://kobo.ifrc.org/)
+- Share this Kobo-form with account `nlrc121platform`
+- Inform the 121 team that you have shared the form
 
 Our 121 support team will link the kobo form with the right program in the 121 platform and inform you when it is ready.
 
 Unless you manually import registrations with an excel .CSV file, registrations done with KOBO will automatically be imported within the program registration page.
 
 
-### **View a KOBO registration list**
+### View a KOBO registration list
 
 - Go to your program.
 - Enter the registration page.
-- You will see the list of 
+- You will see the list of registrations
+
+
 ![Import Registration button](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/RegistrationPageOverview.png)
 
 
-### **Empty list**
+### Empty list
 
-The registration table can be empty for 2 reasons :
+The registration table can be empty for 2 reasons:
 
 - No new registration since last validation round. The table will show "No data"
 - No automatic upload has been executed from KOBO form or alternative registration App yet. Often, this is due to lack of internet connexion. Connect to an internet network to start importing new registrations from the registration form.
@@ -44,7 +46,7 @@ The registration table can be empty for 2 reasons :
 
 
 !!! info "Deduplication"
-    Double entries can occur while registering beneficiaries on the field. Deduplication can be made in 121 instance. You can follow the steps on this page. 
+    Double entries can occur while registering beneficiaries on the field. Deduplication can be made in 121 instance. You can follow the steps on this page.  
     If you need additional explanations, contact your dedicated Account Manager or our support team via email.
 
 ___

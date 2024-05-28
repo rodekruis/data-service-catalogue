@@ -19,11 +19,11 @@ Most of our team has been deployed to support global humanitarian aid operations
 
 ### Escalation Process
 
-Our escalation process includes 3 levels : 
+Our escalation process includes 3 levels:
 
-- Level 1 First line support : basic troubleshooting, Configuration issues, Login issues.
-- Level 2 Second line support : Escalation from level 1, IM support, e.g. mass update on database and powerBI issues.
-- Level 3 Critical Development Team : Escalation from level 2, Bug fixes.
+- Level 1 First line support: basic troubleshooting, Configuration issues, Login issues.
+- Level 2 Second line support: Escalation from level 1, IM support, e.g. mass update on database and powerBI issues.
+- Level 3 Critical Development Team: Escalation from level 2, Bug fixes.
 
 
 !!! Warning "Emergency Responses Support hours"

@@ -6,18 +6,18 @@ hide:
 
 
 
-??? "1. What ICT is required to run the 121 platform ? Do I need specific installations or additional hardware?"
+??? "1. What ICT is required to run the 121 platform? Do I need specific installations or additional hardware?"
 
      The 121 platform addresses the diverse needs of National Societies, INGOs, and NGOs, taking into account their varying digital literacy levels. Our platform streamlines operations with its straightforward requirements and swift implementation process to be deployed as rapidly as possible to comply with emergency settings.
 
      The 121 platform requires only a laptop/computer and an internet connection, accessible via common browsers like Chrome, Firefox, Safari, and Edge. Unlike other solutions, there's no need for additional hardware, reducing setup time and costs, avoiding delays in program setup  and enabling a swift response. Notably, there are no minimum requirements, although platform performance may be affected by low internet speeds.
 
 ??? "2. How quickly can 121 platform be implemented?"
-     
+
      Your 121 platform can be ready **within 7 business days** upon confirmation of the program, signature of the contract and SLA agreement. **This timeline includes the platform setup**, i.e creating your instance, activating the users credentials, designing your programs, adding a KOBO form (or alternative registration App). This does not take into account time required for contract negotiations, planning travel to destination and on-site training (1 day), which can extend the timeline. *Kindly note that this timeline is subject to change and that the program details and registration form are prepared and confirmed from your organization' program team.*
 
      On average, the 121 platform implementation takes between 2 to 4 weeks upon agreement, considering all above components.
-     
+
 
 ??? "3. How long does the integration with an Financial Service Provider (FSP) take?"
 
