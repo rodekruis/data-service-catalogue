@@ -28,8 +28,6 @@ The **Program Details metrics** translates your program requirements. The detail
 | **Last updated + Date**              | Date and Time for the last update of the table                              |
 
 
-
-
 ### Change the Program Details metrics
 
 When setting up your instance, our team will request you to share your **program details**. These metrics can be adjusted depending on your program requirements, and along the duration of the program. For instance, the dates, frequency and duration can sometimes change while your program is running.

@@ -43,8 +43,6 @@ The registration table can be empty for 2 reasons:
     Please contact your dedicated Account Manager or our [support team](mailto:support@121.global) to help fixing the issue.
 
 
-
-
 !!! info "Deduplication"
     Double entries can occur while registering beneficiaries on the field. Deduplication can be made in 121 instance. You can follow the steps on this page.  
     If you need additional explanations, contact your dedicated Account Manager or our support team via email.
