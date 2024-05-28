@@ -31,7 +31,7 @@ In the **Team** page of your program, you can see the list of team members curre
     If you can't find the user that you want to add to the program, they need to be [added to the 121 platform first](../users/add-users.md)
 
 !!! warning "This user is already a team member"
-    If you get an error message **"This user is already a team member"**, they have already been added to the team. Do you want to [change their roles](../team/edit-team-roles-program.md)?
+    If you get an error message **"This user is already a team member"**, they have already been added to the team. Do you want to [change their roles](./change-team-roles-program.md)?
 
 ___
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
