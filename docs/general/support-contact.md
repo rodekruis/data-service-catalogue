@@ -7,10 +7,10 @@ hide:
 ### Support Contact
 
 Our team is available for online support from Monday to Friday between 8.00 and 18.00 CET.
-In case of technical issues, you can reach out to our support team via email on <support@121.global>. Please, always inform or add your dedicated Account Manager in copy of your requests, so they can follow up with you. Our response time is 1-2 hour on average.
+In case of technical issues, you can reach out to our support team via email on <support@121.global>. Please, always inform or add your Account Manager in copy of your requests, so they can follow up with you. Our response time is 1-2 hour on average.
 
 !!! Warning "Urgent technical issues"
-    For urgent technical issues, you can contact us directly via your dedicated WhatsApp Group or Teams, or other agreed means of instant communication.
+    For urgent technical issues, you can contact us directly via WhatsApp or Teams, or other agreed means of instant communication.
 
 ### Our Support Team
 
@@ -21,9 +21,9 @@ Most of our team has been deployed to support global humanitarian aid operations
 
 Our escalation process includes 3 levels : 
 
-- Level 1 First line support : basic troubleshooting, Configuration issues, Login issues.
-- Level 2 Second line support : Escalation from level 1, IM support, e.g. mass update on database and powerBI issues.
-- Level 3 Critical Development Team : Escalation from level 2, Bug fixes.
+- Level 1 First line support : Basic troubleshooting, Configuration issues, Login issues.
+- Level 2 Second line support : Escalation from Level 1, IM support, e.g. mass update on database and powerBI issues.
+- Level 3 Critical Development Team : Escalation from Level 2, Bug fixes.
 
 
 !!! Warning "Emergency Responses Support hours"
