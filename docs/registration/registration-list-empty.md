@@ -15,7 +15,7 @@ Registration can be empty for the following reasons:
 There is no new registration since last validation round.
 The table will show "No data"
 
-### **No Internet Connection**
+### No Internet Connection
 
 If you are using KOBO Toolbox form or an alternative registration form but do not have access to the internet, the list may still need to be updated.
 Although the registration tool can be used offline, an internet connection is required to start importing the registration list into the 121 Platform.
@@ -26,7 +26,7 @@ To start importing the registration list:
 - Start the upload with KOBO form.
 - Once done, refresh the registration page in your program.
 
-### **Filters may be applied to the list**
+### Filters may be applied to the list
 
 There may be are some filters applied to the table that might mean the PAs are not being shown.
 
@@ -38,7 +38,7 @@ There may be are some filters applied to the table that might mean the PAs are n
 
 !!! warning "Blank page"
     In case the page is fully blank and does not show the registration column, there may be a technical issue.
-    Please contact your dedicated Account Manager or our [support team](mailto:support@121.global) to help fixing the issue.
+    Please contact your Account Manager or our [support team](mailto:support@121.global) to help fixing the issue.
 
 ___
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).

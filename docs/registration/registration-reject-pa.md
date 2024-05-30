@@ -12,7 +12,7 @@ Not everyone registered for your program may be eligible to be included in the p
 You use this page and dropdown menu to choose the appropriate next actions : validating, rejecting or editing registration of PA, move the PA into inclusion phase.
 
 
-### **Decline People Affected from the program**
+### Decline People Affected from the program
 
 The People Affected table shows you all of the registered households for your program. Their status should be **Registered**.
 
