@@ -7,7 +7,11 @@ hide:
 !!! info "This section explains"
     Steps to link your kobo form with the 121 platform
 
-- Create your Kobo-form on the [IFRC server](https://kobo.ifrc.org/)
+Kobo Toolbox is directly integrated with 121 so registrations are automatically added to the 121 Platform in real-time. To set-up this integration the 121 Team need to access to your Kobo form to create the link between Kobo and the 121 Platform. After this integration is finalized you may remove access for the 121 Team if preferred.
+
+## To set-up the Kobo integration with 121
+
+- As usual, create your Kobo-form on the [IFRC server](https://kobo.ifrc.org/)
 - Share this Kobo-form with account `nlrc121platform`
 - Inform the 121 team that you have shared the form
 
@@ -19,18 +23,17 @@ Unless you manually import registrations with an excel .CSV file, registrations 
 ### View a KOBO registration list
 
 - Go to your program.
-- Enter the registration page.
+- Enter the People Affected page.
 - You will see the list of registrations
-
 
 ![Import Registration button](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/RegistrationPageOverview.png)
 
 
 ### Empty list
 
-The registration table can be empty for 2 reasons:
+The registration table can be empty for a few reasons :
 
-- No new registration since last validation round. The table will show "No data"
+- No new registrations since last validation round. The table will show "No data"
 - No automatic upload has been executed from KOBO form or alternative registration App yet. Often, this is due to lack of internet connexion. Connect to an internet network to start importing new registrations from the registration form.
 - Filters are applied to the list. Make sure the filter search barre is empty. Then, check the selected criteria on the filter "by Status" - "Registered", on the right corner of the table .
 
