@@ -10,6 +10,8 @@ markdown_extensions:
   - md_in_html
   - toc:
         toc_depth : "1-1"
+        permalink : true
+        permalink_title: Specific link to this section
   - admonition
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -18,6 +20,7 @@ markdown_extensions:
   - pymdownx.superfences
 
 plugins:
+  - privacy
   - search
   - glightbox
 
@@ -26,7 +29,8 @@ theme:
     language: en
     palette:
       primary: custom
-    logo: assets/img/121Logo.svg
+    logo: /assets/img/121Logo.svg
+    favicon: /assets/img/favicon.ico
     features:
       - navigation.top
       - navigation.instant
@@ -86,7 +90,7 @@ nav:
       - 'Timeline and Integration': 'faq/timeline-121-integration.md'
       - 'Financial Service Providers (FSP)': 'faq/financial-service-provider.md'
       - 'Issue a payment (integrated FSP)': 'payment/issue-payment-integrated-fsp.md'
-      - 'Send and reconciliate payment instructions (FSP portal)': 'payment/issue-payment-fsp-portal.md'
+      - 'Send and reconcile payment instructions (FSP portal)': 'payment/issue-payment-fsp-portal.md'
       - 'Change PA status in payment phase': 'payment/change-pa-status-program.md'
       - 'List of integrated FSP': 'payment/integration-fsp.md'
       - 'Notification messages to 121 payment users': 'payment/list-messages-payments.md'

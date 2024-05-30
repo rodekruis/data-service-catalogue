@@ -6,11 +6,11 @@ hide:
 
 !!! info "This section explains"
     Steps to import registration list from an excel file.
-    
 
 If you are not collecting registrations with a Kobo form or equivalent, which automatically transfers the registrations into the 121 Platform, a registration list can be manually imported from an excel file (.csv format).
 
 !!! info "Automatic Import of registration"
+
     KOBO Toolbox App is integrated with the 121 Platform, enabling automatic import of new registrations of beneficiaries. Follow the instructions on this page.
     Want to integrate your KOBO form or alternative registration App with the 121 Platform ? Please, contact our team.
 
@@ -30,8 +30,7 @@ For example, the program registration form may include selection criteria such a
 - Open the downloaded CSV template in Excel.
 - Copy the registration data you have in excel to match this format.
 
-
-### **Import a registration list**
+### Import a registration list
 
 ![Import Registration button](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/RegistrationPageOverview.png)
 
@@ -47,7 +46,6 @@ For example, the program registration form may include selection criteria such a
 !!! warning "Unsuccessful import"
     In case the import is unsuccessful or show an error message, kindly check your excel file is correctly formatted and saved as .CSV file.
     Should you need further guidance or support, Please do not hesitate to contact our [support team](mailto:support@121.global).
-
 
 !!! info "Deduplication"
     Double entries can occur while registering beneficiaries on the field. Duplicate benefificiares can be checked in the 121 Platform. You can follow the steps on this page.  

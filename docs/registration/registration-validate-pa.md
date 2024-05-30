@@ -9,7 +9,7 @@ hide:
 
 The Validation stage is optional, depending on the SOPs you follow for your CVA program. Validation can be used to mark People Affected whose information has been checked and verified, before taking the step to include them in the program. By validating PAs you update their status in the 121 Platform from Registered to Validated, which allows you to keep track of the PAs whose information has been checked. 
 
-### **Validation of People Affected into the program**
+### Validation of People Affected into the program
 
 The People Affected table shows all of the registered households for your program. Their initial status should be **Registered**. 
 
@@ -21,16 +21,16 @@ The People Affected table shows all of the registered households for your progra
 - Click on OK. A message indicates the completion of the action.
 - PA status is now updated to **Validated**.
 
-### **Validation and deduplication process**
+### Validation and deduplication process
 
-Your validation process may include :
+Your validation process may include:
 
 - Deduplication of People Affected in your registration list. Follow the instructions [on the deduplication page](../registration/registration-deduplication.md)
 - Verifying and editing People Affected details. Follow the instructions on the People Affected details page.
 
 
-!!!info "Reject PA from program"
-    Follow the instructions to reject PA from the program on this 
+!!! info "Reject PA from program"
+    Follow the instructions to [reject PA from the program](./registration-reject-pa.md).
 
 ___
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).

@@ -6,6 +6,7 @@
     "editorconfig.editorconfig",
     "fnando.linter",
     "github.vscode-github-actions",
-    "redhat.vscode-yaml"
+    "redhat.vscode-yaml",
+    "yzhang.markdown-all-in-one"
   ]
 }

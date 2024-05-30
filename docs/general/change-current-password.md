@@ -9,7 +9,7 @@ hide:
 
 Once you are logged in to the 121 Platform, click on your email address under "Logged in as" in the top right corner.
 
-- Enter your current password.​
+- Enter your current password.
 - Enter your new password.
 - Confirm your new password.
 - Click on save and update the new password.

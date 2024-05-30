@@ -20,15 +20,16 @@ Our 121 support team will link the kobo form with the right program in the 121 p
 Unless you manually import registrations with an excel .CSV file, registrations done with KOBO will automatically be imported within the program registration page.
 
 
-### **View a KOBO registration list**
+### View a KOBO registration list
 
 - Go to your program.
-- Enter the Peopl Affected page.
-- You will see the list of 
+- Enter the People Affected page.
+- You will see the list of registrations
+- 
 ![Import Registration button](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/RegistrationPageOverview.png)
 
 
-### **Empty list**
+### Empty list
 
 The registration table can be empty for a few reasons :
 
@@ -45,10 +46,8 @@ The registration table can be empty for a few reasons :
     Please contact your dedicated Account Manager or our [support team](mailto:support@121.global) to help fixing the issue.
 
 
-
-
 !!! info "Deduplication"
-    Double entries can occur while registering beneficiaries on the field. Deduplication can be made in 121 instance. You can follow the steps on this page. 
+    Double entries can occur while registering beneficiaries on the field. Deduplication can be made in 121 instance. You can follow the steps on this page.  
     If you need additional explanations, contact your dedicated Account Manager or our support team via email.
 
 ___

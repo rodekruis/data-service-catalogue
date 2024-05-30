@@ -8,10 +8,9 @@ hide:
     How to check the registration list status
 
 
-Registration can be empty for the following reasons :
+Registration can be empty for the following reasons:
 
-
-### **No new registration imported**
+### No new registration imported
 
 There is no new registration since last validation round.
 The table will show "No data"

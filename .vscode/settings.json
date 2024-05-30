@@ -1,0 +1,8 @@
+{
+  "markdownlint.lintWorkspaceGlobs": [
+    "**/*.md",
+    "!**/node_modules",
+    "!**/.git",
+    "!**/venv"
+  ]
+}

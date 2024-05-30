@@ -1,0 +1,7 @@
+# See: https://github.com/DavidAnson/vscode-markdownlint#configure
+
+line-length: false
+no-hard-tabs:
+  spaces_per_tab: 2
+no-multiple-blanks:
+ maximum: 2

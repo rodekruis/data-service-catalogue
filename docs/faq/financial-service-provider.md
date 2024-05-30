@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-??? "1. Do you have FSPs directly integrated to the 121 platform ?"
+??? "1. Do you have FSPs directly integrated to the 121 platform?"
 
      The 121 platform has **integrated with a number of Financial Serivce Provider (FSP) in different countries, allowing to instantly integrate the platform with your local FSP**. We aim at integrating with local Financial Service Providers (FSP), either contracted with our 121 system, your organization or having new providers. We currently have successful integrations  with local FSPs across Kenya, Ethiopia, the Netherlands and other countries. We are working on integrating with a payment aggregator that will enable us to expand coverage across 36 more African countries in the short term. 
    

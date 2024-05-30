@@ -16,14 +16,14 @@ hide:
       Please, contact our Account Manager Team to **discuss any requirements and questions** in regard to our GDPR at <info@121.global>.
 
 ??? "2. Where and how do you store and process data?"
-    
+
     The 121 Platform and The Netherlands Red Cross (NLRC) adheres to the General Data Protection Regulation (GDPR), which is the most comprehensive and restrictive of the jurisdiction. Data is stored, hosted and processed in West Europe. Any National Societies and NGOs using the 121 Platform outside of Western Europe are responsible for handling the data of their beneficiaries themselves.
   
     If you use KOBO toolbox for registration, the data will remain stored in the KOBO server. Kindly note this is separate from 121 platform data process and outside of our control.
-    
 
-??? "3. What is your cloud server and host provider ?"
-    
+
+??? "3. What is your cloud server and host provider?"
+
     The 121 Platform runs in Microsoft Azure Cloud. By default, the location for all resources is Western Europe. Optionally, and upon request to our team, it may be possible to host and store the data in a different region. Please, contact our team for further information <info@121.global>.
 
     It may be possible to host the 121 platform in the country which data storage and processing is happening but this depends on location availability of Azure datacenters. 
@@ -45,7 +45,7 @@ hide:
     If you use KOBO toolbox for registration, the data will remain stored in the KOBO server. Kindly note this is separate from 121 platform data process and outside of our control.
 
 
-??? "6. How long do you store the data ?"
+??? "6. How long do you store the data?"
 
     The data is stored for a maximum of 7 years on our Azure cloud server after the last update. Data that has not been updated in the last 7 years will be deleted from the cloud server. If your programmes require a shorter storage period, this can be requested from our team. 
 

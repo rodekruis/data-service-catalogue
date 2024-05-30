@@ -7,7 +7,7 @@ hide:
 !!! info "This section explains"
     How to assign and change different role(s) to team members in a program
 
-### **Change assigned roles**
+### Change assigned roles
 
 In the **Team** page of your program, you can see the list of team members currently added into your program, with their assigned role(s). If you have the permission, you can change, add or remove a role assigned to a team member.
 
