@@ -38,7 +38,7 @@ Follow the instructions on how to:
 
 ### Deduplicate registration
 
-Check for duplicates in the registration list before including the People Affected in your program. This validation process prevents double payments and reduces fraud risks so we strongly recommend including deduplication in your validation process. 
+Check for duplicates in the registration list before including the People Affected in your program. This validation process prevents double payments and reduces fraud risks so we strongly recommend including deduplication in your validation process.
 
 Follow the instructions on the [Deduplication page](../registration/registration-deduplication.md)
 
@@ -46,7 +46,7 @@ Follow the instructions on the [Deduplication page](../registration/registration
 
     Program Manager, CVA Officer and CVA Manager can perform actions and view this page.  
     Additional users may only have View permissions on this page. [Learn more about Users & Roles](../users/users-roles-page.md)
-    
+
 ___
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 ___

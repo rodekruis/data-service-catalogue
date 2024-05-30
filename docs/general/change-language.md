@@ -24,9 +24,6 @@ Change the language when already logged in to the 121 Platform:
 Once logged in, click on the current language in the top right corner of the screen. Select your preferred language.
 ![Program Overview](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/ProgramOverview.png)
 
-
-
-
 ___
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 ___

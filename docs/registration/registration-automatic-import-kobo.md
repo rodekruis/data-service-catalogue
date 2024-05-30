@@ -7,13 +7,13 @@ hide:
 !!! info "This section explains"
     Steps to link your kobo form with the 121 platform
 
-Kobo Toolbox is directly integrated with 121 so registrations are automatically added to the 121 Platform in real-time. To set-up this integration the 121 Team need to access to your Kobo form to create the link between Kobo and the 121 Platform. After this integration is finalized you may remove access for the 121 Team if preferred. 
+Kobo Toolbox is directly integrated with 121 so registrations are automatically added to the 121 Platform in real-time. To set-up this integration the 121 Team need to access to your Kobo form to create the link between Kobo and the 121 Platform. After this integration is finalized you may remove access for the 121 Team if preferred.
 
-**To set-up the Kobo integration with 121**
+## To set-up the Kobo integration with 121
 
--   As usual, create your Kobo-form on the [IFRC server](https://kobo.ifrc.org/)
--   Share this Kobo-form with account `nlrc121platform`
--   Inform the 121 team that you have shared the form
+- As usual, create your Kobo-form on the [IFRC server](https://kobo.ifrc.org/)
+- Share this Kobo-form with account `nlrc121platform`
+- Inform the 121 team that you have shared the form
 
 Our 121 support team will link the kobo form with the right program in the 121 platform and inform you when it is ready.
 
@@ -25,7 +25,7 @@ Unless you manually import registrations with an excel .CSV file, registrations 
 - Go to your program.
 - Enter the People Affected page.
 - You will see the list of registrations
-- 
+
 ![Import Registration button](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/RegistrationPageOverview.png)
 
 
