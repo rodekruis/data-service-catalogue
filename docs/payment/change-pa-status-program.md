@@ -24,6 +24,7 @@ In the **Payment** page, you will be able to select different status to apply to
 
 
 Edit People Affected status in the cash program by clicking on **Choose Action** and Select the appropriate action.
+
 - Then clicking, a tick box :material-checkbox-blank-outline: appears on the left of the PA name column.
   - Make an **individual selection** by clicking on the :material-checkbox-outline: on the PA line;
   - Or a **bulk selection** by clicking on the :material-checkbox-multiple-marked-outline: on the upper line **Select**
