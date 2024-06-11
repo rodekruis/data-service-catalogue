@@ -71,7 +71,7 @@ nav:
       - 'Import Registration excel file': 'registration/registration-import-list.md'
       - 'Registration with KOBO form': 'registration/registration-automatic-import-kobo.md'
       - 'Deduplication': 'registration/registration-deduplication.md'
-      - 'Edit PA profile': 'registration/edit-pa-profile.md
+      - 'Edit PA profile': 'registration/edit-pa-profile.md'
       - 'Validate registration': 'registration/registration-validate-pa.md'
       - 'Reject registration': 'registration/registration-reject-pa.md'
       - 'Include PA in program': 'registration/inclusion-in-program.md'
