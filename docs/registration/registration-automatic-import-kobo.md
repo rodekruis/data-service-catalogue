@@ -4,11 +4,11 @@ hide:
   - toc
 ---
 
-**Kobo Toolbox is directly integrated with 121 platform** so registrations are automatically added to the 121 Platform in real-time. To set-up this integration the 121 Team need to access to your Kobo form to create the link between Kobo and the 121 Platform. After this integration is finalized you may remove access for the 121 Team if preferred.
+**Kobo Toolbox is directly integrated with 121 platform**. Registrations are automatically added to the 121 Platform in real-time. To set-up this integration the 121 Team need to access to your Kobo form to create the link between Kobo and the 121 Platform. After this integration is finalized you may remove access for the 121 Team if preferred.
 
-## **To set-up the Kobo integration with 121**
+## To set-up the Kobo integration within your 121 program
 
-Unless you manually import registrations with an excel .CSV file, registrations done with KOBO will automatically be imported within the program registration page.
+Unless you manually import registrations with an excel .CSV file, registrations done with KOBO will automatically be imported within your 121 program, in the **People Affected** page.
 
 - Create your Kobo-form on the KOBO tool
 - Share this Kobo-form with account `nlrc121platform`
@@ -19,20 +19,22 @@ Our 121 support team will link the kobo form with the right program in the 121 p
 !!! info "KOBO for Red Cross Red Crescent National Societies"
   121 platform is a product of the Netherlands Red Cross. Red Cross Ress Crescent National Societies can create their kobo form via [IFRC server](https://kobo.ifrc.org/). Once created, you can share this Kobo-form with the account `nlrc121platform`.
 
-### **View a KOBO registration list**
+### View a KOBO registration list
+
 
 - Go to your program.
 - Enter the People Affected page.
-- You will see the list of registered PA, anytime a new form is completed and sent.
+- You will see the updated list of registered PA any time a new form is completed and sent (when connected to the internet).
 
 Note that KOBO toolbox can be used offline, while on the field. Nevertheless, the registration list can be imported into 121 platform only when an internet connection is established.
 
 ![Import Registration button](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/RegistrationPageOverview.png)
 
 
-### **Empty list**
+### Empty list
 
 The registration table can be empty for a few reasons :
+
 - No new registrations since last validation round. The table will show "No data"
 - No automatic upload has been executed from KOBO form or alternative registration App yet. Often, this is due to lack of internet connexion. Connect to an internet network to start importing new registrations from the registration form.
 - Filters are applied to the list. Make sure the filter search barre is empty. Then, check the selected criteria on the filter "by Status" - "Registered", on the right corner of the table .
@@ -42,12 +44,12 @@ The registration table can be empty for a few reasons :
 
 
 !!! warning "Blank page"
-    In case the page is fully blank and do not show the registration table, there may be a technical issue with the link connecting with your KOBO form.
+    In case the page is fully blank and does not show the registration table, there may be a technical issue with the link connecting with your KOBO form.
     Please contact your dedicated Account Manager or our [support team](mailto:support@121.global) to help fixing the issue.
 
 
 !!! info "Deduplication"
-    Double entries can occur while registering beneficiaries on the field. Deduplication can be made in 121 instance. You can follow the steps on [this page.](./registration-deduplication.md)  
+    Double entries can occur while registering beneficiaries on the field. Deduplication can be made within 121 Platform. You can follow the steps on [this page.](./registration-deduplication.md)  
     If you need additional explanations, contact your dedicated Account Manager or our support team via email.
 
 ___

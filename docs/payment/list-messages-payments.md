@@ -12,11 +12,14 @@ When performing a payment, 121 platform will notify the Finance Officer and Fina
 
 ### List of payment notifications to 121 users
 
+The status will be updated automatically for integrated FSP when successful, or after manual reconciliation when the FSP has shared the payment reconciliation file back to your finance team and they have uploaded it to the 121 Platform.
+
+
 | Type | Description |
 | ---- | ----------- |
 | **SUCCESSFUL** | The transaction has be sent to the PAs on the preferred payment method. The Bank confirmed the transaction to be approved.  |
 | **WAITING** | The transaction is being processed by the bank. Pending payment reconciliation. The status will be updated automatically for integrated FSP when successful, or after manual reconciliation when the FSP shared the payment reconciliation file back to your finance team. |
-| **FAILED** | The transaction has failed. The PAs will not receive any Cash support. Please check the error message provided by your bank. Failed payment can be due to wrong bank details or phone number, depending on the chosen payment methods. |
+| **FAILED** | The transaction has failed. The PAs have not received any cash payment. Please check the error message provided by your bank. Failed payment can be due to wrong bank details or phone number, depending on the chosen payment methods. |
 ___
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 ___

@@ -1,31 +1,31 @@
 ---
-title: Payment - Change PA status inclusion in the program
+title: Payment - Change PA status in the program
 hide:
   - toc
 ---
 
 In the course of a program, PA status may change due to a variety of reasons in their inclusion score. You can decide to end or pause the inclusion of a PA within a program. Therefore, the PA may stop receiving payments.
 
-### **Search for a PA and Filter on status**
+### Search for a PA and Filter on status
 
 In the **Payment** page:
 
 - Click on **Select filter** and select **Quick Search**
-- in the search barre, type the PAs details such as the PA#, name, ID or phone number.
+- in the search bar, type the PAs details such as the PA#, name, ID or phone number.
 - The PA will be listed.
 
-### **Change the PA status**
+### Change the PA status
 
-In the **Payment** page, you will be able to select different status to apply to the PAs profile: Included, Declined, Pause.
+In the **Payment** page, you will be able .select different actions to apply to the PA to update their Status to either included, declined, or paused.
 
-- **Included** means the PAs has been included in the program by a CVA manager user and can receive Cash Assistance.
-- **Declined** means the PAs is rejected from the program and will not receive any further Cash Assistance.
-- **Pause** means the PAs remains included in the program, but the Cash Assistance will be on hold until further notice.
+- **Included** means the PA has been included in the program by a CVA manager user and can receive Cash Assistance.
+- **Declined** means the PA is rejected from the program and will not receive any further Cash Assistance.
+- **Pause** means the PA remains included in the program, but the Cash Assistance will be on hold until further notice.
 
 
 Edit People Affected status in the cash program by clicking on **Choose Action** and Select the appropriate action.
 
-- Then clicking, a tick box :material-checkbox-blank-outline: appears on the left of the PA name column.
+- Then a tick box :material-checkbox-blank-outline: appears on the left of the PA name column.
   - Make an **individual selection** by clicking on the :material-checkbox-outline: on the PA line;
   - Or a **bulk selection** by clicking on the :material-checkbox-multiple-marked-outline: on the upper line **Select**
 - A pop-up appears to confirm your action.

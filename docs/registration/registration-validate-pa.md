@@ -6,7 +6,7 @@ hide:
 
 The Validation stage is optional, depending on the SOPs you follow for your CVA program. Validation can be used to mark People Affected whose information has been checked and verified, before taking the step to include them in the program. By validating PAs you update their status in the 121 Platform from Registered to Validated, which allows you to keep track of the PAs whose information has been checked.
 
-### **Validation of People Affected into the program**
+### Validation of People Affected into the program
 
 The People Affected table shows all of the registered households for your program. Their initial status should be **Registered**.
 
@@ -18,7 +18,7 @@ The People Affected table shows all of the registered households for your progra
 - Click on OK. A message indicates the completion of the action.
 - PA status is now updated to **Validated**.
 
-### **Editing PAs details**
+### Editing PAs details
 
 Due to mispelling or double entry, you may need to edit details in the PA profile before validation and inclusion into the program.
 

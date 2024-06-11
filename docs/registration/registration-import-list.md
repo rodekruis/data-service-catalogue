@@ -13,7 +13,7 @@ If you are not collecting registrations with a Kobo form or equivalent, which au
 
 If you want to import your registration list using an excel file (.csv format), you first need to make sure that this file matches the format accepted by 121. To match these, first download the .csv template file from the 121 Platform, then you can upload your matching file with the registration information to 121.
 
-### **Download the template registration file**
+### Download the template registration file
 
 The template is automatically generated in the 121 Platform, based on the program registration form.
 For example, the program registration form may include selection criteria such as name, phone number, amount of household members, province and IBAN number. The template will automatically include these per criteria, matching the registration form questions. Below, you can find an example of a template based on a KOBO registration form.
@@ -25,7 +25,7 @@ For example, the program registration form may include selection criteria such a
 - Open the downloaded CSV template in Excel.
 - Copy the registration data you have in excel to match this format.
 
-### **Import a registration list**
+### Import a registration list
 
 ![Import Registration button](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/RegistrationPageOverview.png)
 
