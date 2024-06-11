@@ -1,30 +1,32 @@
 ---
-title: Registration - Automatic registration import from KOBO form
+title: People Affected - Automatic registration import from KOBO form
 hide:
   - toc
 ---
 
-!!! info "This section explains"
-    Steps to link your kobo form with the 121 platform
+**Kobo Toolbox is directly integrated with 121 platform**. Registrations are automatically added to the 121 Platform in real-time. To set-up this integration the 121 Team need to access to your Kobo form to create the link between Kobo and the 121 Platform. After this integration is finalized you may remove access for the 121 Team if preferred.
 
-Kobo Toolbox is directly integrated with 121 so registrations are automatically added to the 121 Platform in real-time. To set-up this integration the 121 Team need to access to your Kobo form to create the link between Kobo and the 121 Platform. After this integration is finalized you may remove access for the 121 Team if preferred.
+## To set-up the Kobo integration within your 121 program
 
-## To set-up the Kobo integration with 121
+Unless you manually import registrations with an excel .CSV file, registrations done with KOBO will automatically be imported within your 121 program, in the **People Affected** page.
 
-- As usual, create your Kobo-form on the [IFRC server](https://kobo.ifrc.org/)
+- Create your Kobo-form on the KOBO tool
 - Share this Kobo-form with account `nlrc121platform`
 - Inform the 121 team that you have shared the form
 
-Our 121 support team will link the kobo form with the right program in the 121 platform and inform you when it is ready.
+Our 121 support team will link the kobo form with the right program in the 121 platform and inform you when it is ready. Unless some additional changes are required, the mapping of your form to 121 platform will be performed within 1 to 2 business days upon receipt.
 
-Unless you manually import registrations with an excel .CSV file, registrations done with KOBO will automatically be imported within the program registration page.
-
+!!! info "KOBO for Red Cross Red Crescent National Societies"
+  121 platform is a product of the Netherlands Red Cross. Red Cross Ress Crescent National Societies can create their kobo form via [IFRC server](https://kobo.ifrc.org/). Once created, you can share this Kobo-form with the account `nlrc121platform`.
 
 ### View a KOBO registration list
 
+
 - Go to your program.
 - Enter the People Affected page.
-- You will see the list of registrations
+- You will see the updated list of registered PA any time a new form is completed and sent (when connected to the internet).
+
+Note that KOBO toolbox can be used offline, while on the field. Nevertheless, the registration list can be imported into 121 platform only when an internet connection is established.
 
 ![Import Registration button](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/RegistrationPageOverview.png)
 
@@ -42,12 +44,12 @@ The registration table can be empty for a few reasons :
 
 
 !!! warning "Blank page"
-    In case the page is fully blank and do not show the registration column, there may be a technical issue with the link connecting with your KOBO form.
+    In case the page is fully blank and does not show the registration table, there may be a technical issue with the link connecting with your KOBO form.
     Please contact your dedicated Account Manager or our [support team](mailto:support@121.global) to help fixing the issue.
 
 
 !!! info "Deduplication"
-    Double entries can occur while registering beneficiaries on the field. Deduplication can be made in 121 instance. You can follow the steps on this page.  
+    Double entries can occur while registering beneficiaries on the field. Deduplication can be made within 121 Platform. You can follow the steps on [this page.](./registration-deduplication.md)  
     If you need additional explanations, contact your dedicated Account Manager or our support team via email.
 
 ___

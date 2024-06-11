@@ -1,19 +1,15 @@
 ---
-title: Registration - Empty List
+title: People Affected - Empty Table
 hide:
   - toc
 ---
 
-!!! info "This section explains"
-    How to check the registration list status
-
-
-Registration can be empty for the following reasons:
+The Registration table can be empty for the following reasons:
 
 ### No new registration imported
 
 There is no new registration since last validation round.
-The table will show "No data"
+The table will show**No data**
 
 ### No Internet Connection
 
@@ -31,7 +27,7 @@ To start importing the registration list:
 There may be are some filters applied to the table that might mean the PAs are not being shown.
 
 - Check that the filter and search bar are empty. If you see a filter shown below the search bar click the X next to it to delete it.
-- Check Status filter to the right of the search bar. Click "Filter by: Status" and select "All" or the choose group you want to look at.
+- Check Status filter to the right of the search bar. Click**Filter by: Status** and select **All** or the choose group you want to look at.
 
 ![Filter Status Registered](https://raw.githubusercontent.com/global-121/121-platform/main/e2e/tests/__screenshots__/UserManualScreenshots/userManualScreenshots.spec.ts/FilterFunctionStatusSearch.png)
 
