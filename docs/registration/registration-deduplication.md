@@ -12,12 +12,12 @@ Below, you will find the steps to deduplicate double entries or PA registered mu
 - Open the drop down and select the report **Export Duplicate People Affected**,
 - The report will be downloaded on your device as an excel file.
 
-**Duplicates are identified based on specific unique criteria** like phone number or ID number. This criteria is flexible and can be chosen by the organisation and changed depending on the program requirements.  
+**Duplicates are identified based on specific unique criteria** like phone number or ID number. This criteria is flexible and can be chosen by the organization and changed depending on the program requirements.  
 
 ### Filter the duplicated People Affected
 
 In the excel file:
-    - Following your organisation's SOPs, all duplicated entries will be listed based on the unique criteria (ID number, phone number or required criteria),
+    - Following your organization's SOPs, all duplicated entries will be listed based on the unique criteria (ID number, phone number or required criteria),
     - In the column **duplicateWithIds**, you will find the matching PA# number. This is the duplicate PA#,
     - You can now read the value that is duplicated in the PA# profiles,
     - In the excel, you can mark if this value shall be edited or the PA profile deleted depending on the duplicate reason.
@@ -33,7 +33,7 @@ Following the deduplication process, you can perform 2 actions in the People Aff
 
 ## Edit the value in the PA profile
 
-- Search for the PA profile by performing a **Quick Search** 
+- Search for the PA profile by performing a **Quick Search**
 - Open the profile clicking on **PA#** on the left side
 - You will now see the history overview in the PA profile
 - On the left side, click **Show All** and search for the value to be edited
