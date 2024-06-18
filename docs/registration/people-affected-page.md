@@ -12,7 +12,7 @@ Note that Beneficiaries are referred to as People Affected (PA) in the 121 Platf
 
 ### Overview of registered PA
 
-Oversee all registered **People Affected** (beneficiaries). The initial status for the PAs is shown as **Registerd** and will remain as it until the CVA manager / officer **include** (included) into, or **decline** (declined) the PA from the program.
+Oversee all registered **People Affected** (beneficiaries). The initial status for the PAs is shown as **Registered** and will remain as it until the CVA manager / officer **include** (included) into, or **decline** (declined) the PA from the program.
 
 ### Import a registration list
 
