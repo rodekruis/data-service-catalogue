@@ -33,21 +33,21 @@ Following the deduplication process, you can perform 2 actions in the People Aff
 
 ## Edit the value in the PA profile
 
-    - Search for the PA profile by performing a **Quick Search** 
-    - Open the profile clicking on **PA#** on the left side
-    - You will now see the history overview in the PA profile
-    - On the left side, click **Show All** and search for the value to be edited
-    - Edit the value. Click on **Save** and give a reason.
-    - The new value is now saved.
+- Search for the PA profile by performing a **Quick Search** 
+- Open the profile clicking on **PA#** on the left side
+- You will now see the history overview in the PA profile
+- On the left side, click **Show All** and search for the value to be edited
+- Edit the value. Click on **Save** and give a reason.
+- The new value is now saved.
 
 ## Decline the PA profile
 
-    - Search for the **PA#** (profile number) you would like to decline using the **Quick Search**
-    - In "Choose Action**, click on **Decline PA** in the dropdown list
-    - Tick the box on the left side of the PA profile. **Make sure you only select the individual**, and do not select in bulk.
-    - **Apply Action**
-    - A warning message will request to confirm the action.
-    - Confirm only if you are sure to decline this PA# profile.
+- Search for the **PA#** (profile number) you would like to decline using the **Quick Search**
+- In "Choose Action**, click on **Decline PA** in the dropdown list
+- Tick the box on the left side of the PA profile. **Make sure you only select the individual**, and do not select in bulk.
+- **Apply Action**
+- A warning message will request to confirm the action.
+- Confirm only if you are sure to decline this PA# profile.
 
 Did you accidentally mark a PA as declined? No worries, this is a reversible action. You can always change the PA status back to **Included**.
 
