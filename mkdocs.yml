@@ -1,6 +1,6 @@
 
 site_name: 121 Platform User Manual
-site_url: https://manual.121.global
+# site_url: https://manual.121.global
 
 extra_css:
   - stylesheets/extra.css
