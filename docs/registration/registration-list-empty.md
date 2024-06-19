@@ -9,7 +9,7 @@ The Registration table can be empty for the following reasons:
 ### No new registration imported
 
 There is no new registration since last validation round.
-The table will show**No data**
+The table will show **No data**
 
 ### No Internet Connection
 

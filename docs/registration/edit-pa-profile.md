@@ -4,11 +4,11 @@ hide:
   - toc
 ---
 
-Mispelling or double entries may occur during the registration phase. PAs details, such as phone number, may change in the course of the program. You can edit and check the details anytime during the program, following the instructions below.
+Misspelling or double entries may occur during the registration phase. PAs details, such as phone number, may change in the course of the program. You can edit and check the details anytime during the program, following the instructions below.
 
 ### Editing PAs details
 
-Due to mispelling or double entry, you may need to edit details in the PA profile before validation and inclusion into the program.
+Due to misspelling or double entry, you may need to edit details in the PA profile before validation and inclusion into the program.
 
 - **Enter the PA profile** by clicking on the **PA#** hyperlink on the left side.
 - Once in the PA profile overview, click on **Show All**
