@@ -20,7 +20,7 @@ The People Affected table shows all of the registered households for your progra
 
 ### Editing PAs details
 
-Due to mispelling or double entry, you may need to edit details in the PA profile before validation and inclusion into the program.
+Due to misspelling or double entry, you may need to edit details in the PA profile before validation and inclusion into the program.
 
 - **Enter the PA profile** by clicking on the **PA#** hyperlink on the left side.
 - Once in the PA profile overview, click on **Show All**
