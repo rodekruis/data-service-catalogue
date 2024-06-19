@@ -22,7 +22,7 @@ A list of key terms used in the 121 platform.
 | **Project**            | A project created by users in the platform. |
 | **FSP**                | Financial Service Provider - an entity that provides financial services, which may include digital payment services.|
 | **Budget**             | Amount of money in the project that will be disbursed to included people/households.|
-| **Registrations**      | People or households that registered, subscribed to a project or programme.|
+| **Registrations**      | People or households that registered, subscribed to a project.|
 | **Import**             | Adding or uploading data from excel file or interview forms e.g. "import registrations".|
 | **Export**             | Downloading data or excel file report from 121 Platform.|
 | **Actions**            | Where a user can perform or apply something that affects or changes the data and status of one or multiple registrations, e.g. sending a message, adding a note, updating the status or executing a payment.|
