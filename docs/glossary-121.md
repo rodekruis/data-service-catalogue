@@ -114,7 +114,6 @@ A list of key terms used in the 121 platform.
 |-----------|----------------|
 | Example 1 | Definition 1   |
 | Example 2 | Definition 2   |
-{ .glossary-table }
 
 ___
 Need further assistance?
