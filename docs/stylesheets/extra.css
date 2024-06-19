@@ -36,3 +36,17 @@ article img {
 .twemoji.req {
   color: darkgrey;
 }
+
+/* Select the first column of all tables */
+table td:first-child,
+table th:first-child {
+    /* Set a fixed width for the first column */
+    width: 20%; /* You can adjust the width as needed */
+    /* Optionally add more styling if needed */
+}
+
+/* Ensure table layout respects the specified widths */
+table {
+    table-layout: fixed;
+    width: 100%;
+}

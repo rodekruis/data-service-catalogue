@@ -19,7 +19,7 @@ A list of key terms used in the 121 platform.
 
 ### General terms
 
-| <div style="min-width:12em">Term</div>                   | Definition                           |
+| Term                   | Definition                           |
 | :------------------    | :------------------------------------------------------------------- |
 | **121 Platform**       | (“one to one”) is a platform that helps project managers by increasing efficiency in setting up and executing a cash program Information Management (IM) system.  |
 | **CVA**                | Cash and Voucher Assistance, referring to Cash Transfer Programming (CTP). |
@@ -38,7 +38,7 @@ A list of key terms used in the 121 platform.
 
 ### Tab Titles
 
-| <div style="min-width:12em">Term</div>                   | Definition                           |
+| Term                   | Definition                           |
 | :------------------    | :------------------------------------------------------------------- |
 | **Home** | The main page to overview all active programs. The Admin can oversee all programs. A user assigned to programs can only see the specific programs.|
 | **Active** | A program that is currently running.|
@@ -55,7 +55,7 @@ A list of key terms used in the 121 platform.
 
 ### Program Cards
 
-| <div style="min-width:12em">Term</div>                   | Definition                           |
+| Term                   | Definition                           |
 | :------------------    | :------------------------------------------------------------------- |
 | **Program Cards** | A small window providing an brief overview of the program details. |
 | **Targeted People Affected** | The amount of people/households that a program wishes to help.|
@@ -71,7 +71,7 @@ A list of key terms used in the 121 platform.
 
 ### Registration Status
 
-| <div style="min-width:12em">Term</div>                   | Definition                           |
+| Term                   | Definition                           |
 | :------------------    | :------------------------------------------------------------------- |
 | **People Affected, PA** | Registered beneficiaries or households in the program, also referred to PA in 121. Depending on the SOPs, the status of the PA can vary: new, registered, validated, included, declined, completed, paused.|
 | **New** | People/household completed the registration in the PA app or KOBO form. |
@@ -86,10 +86,10 @@ A list of key terms used in the 121 platform.
 
 ### Payment Overview
 
-| <div style="min-width:12em">Term</div>                   | Definition                           |
+| Term                   | Definition                           |
 | :------------------    | :------------------------------------------------------------------- |
 | **Payment or payments** | A collection of transfers to one or multiple households or People Affected.|
-| **Transfer** | A single transfer of transfers to a person/household. A person/household will receive the number of transfers pre-configured in the program. If registered late, the first transfer of the person/household might be part of a later payment tranch.|
+| **Transfer** | A single transfer of transfers to a person/household. A person/household will receive the number of transfers pre-configured in the program. If registered late, the first transfer of the person/household might be part of a later payment tranche.|
 | **Base transfer value** | The amount of money per person that will be transferred to the included registration. e.g. a household of 3 people might receive 3 times the base transfer value in a payment (depending on the project specifications).|
 | **Aggregated count** | The sum value of all base transfers included in the payment per PA or Household.|
 | **Total payment amount** | The sum value of multiplying the base transfer value and the aggregated count.|
@@ -101,7 +101,7 @@ A list of key terms used in the 121 platform.
 
 ### Payment Transfer statuses
 
-| <div style="min-width:12em">Term</div>                   | Definition                           |
+| Term                | Definition                           |
 | :------------------    | :------------------------------------------------------------------- |
 | **Pending** | The payment is waiting for approval of one or more financial officers, hence the transfer is not yet sent to the PA or household selected for this payment.|
 | **Sent** | The payment have been approved and the transfer has been sent by the FSP. The transfer status might remain "sent" if the PA or Household have not received the transfer to their phone yet.|
@@ -110,6 +110,11 @@ A list of key terms used in the 121 platform.
 | **Total payment amount** | The sum value of multiplying the base transfer value and the aggregated count.|
 
 
+| Term      | Definition     |
+|-----------|----------------|
+| Example 1 | Definition 1   |
+| Example 2 | Definition 2   |
+{ .glossary-table }
 
 ___
 Need further assistance?
