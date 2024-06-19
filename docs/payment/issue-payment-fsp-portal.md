@@ -21,8 +21,6 @@ To initiate a payment:
 - On the top left of the table, Open the drop down to **Choose action.**
 - Select  **Do Payment#**
 
-IMG
-
 - Include the People Affected in the payment round as follows.
 - After selecting **payment#**, a tick box :material-checkbox-blank-outline: appears on the left of the PA name column.
   - Make an **individual selection** by clicking on the :material-checkbox-outline: on the PA line;
