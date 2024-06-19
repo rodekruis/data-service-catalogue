@@ -50,7 +50,7 @@ extra:
 nav:
     - 'Home': 'index.md'
     - 'Support': 'general/support-contact.md'
-    - '121 Glossary' : 'glossary-121.md'
+    # - '121 Glossary' : 'glossary-121.md'
     - 'General':
       - 'Log In': 'general/logging-in.md'
       - 'Change current password': 'general/change-current-password.md'
