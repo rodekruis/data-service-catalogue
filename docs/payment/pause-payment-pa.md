@@ -1,10 +1,14 @@
 ---
-title: Payment - Change PA status in the program
+title: Payment - Discontinue PA payment in the program
 hide:
   - toc
 ---
 
-In the course of a program, PA status may change due to a variety of reasons in their inclusion score. You can decide to end or pause the inclusion of a PA within a program. Therefore, the PA may stop receiving payments.
+In the course of a program, PA status may change due to a variety of factors. You can decide to end or pause the inclusion of a PA within a program. Therefore, the PA may stop receiving payments.
+
+!!! Important "Who can perform actions in this page?"
+    Finance Manager and Finance Officer roles can perform actions in the Payment page.  
+    Additional users may be granted only **View** permission on this page. [Learn more about Users & Roles](../users/users-roles-page.md)
 
 ### Search for a PA and Filter on status
 
@@ -31,13 +35,6 @@ Edit People Affected status in the cash program by clicking on **Choose Action**
 - A pop-up appears to confirm your action.
 - Click on **OK**. A message indicates the completion of the action.
 
-
-!!! info "Export payment reports"
-    Export files to share to donors or finance team once payment is complete.
-
-!!! Important "Who can perform actions in this page?"
-    Finance Manager and Finance Officer roles can perform actions and view this page.  
-    Additional users may be granted only **View** permission on this page. [Learn more about Users & Roles](../users/users-roles-page.md).
 
 ___
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).

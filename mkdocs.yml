@@ -49,13 +49,13 @@ extra:
 nav:
     - 'Home': 'index.md'
     - 'Support': 'general/support-contact.md'
-    - 'General':
+    - 'Getting started':
       - 'Log In': 'general/logging-in.md'
       - 'Change current password': 'general/change-current-password.md'
       - 'Reset password': 'general/reset-password.md'
       - 'Change Language': 'general/change-language.md'
     - 'Users and Roles' :
-      - 'Users Overview': 'users/users-roles-page.md'
+      - 'Users page': 'users/users-roles-page.md'
       - 'Add Users': 'users/add-users.md'
       - 'Roles and permissions': 'users/description-roles.md'
     - 'Program Team':
@@ -64,28 +64,27 @@ nav:
       - 'Change team members roles': 'team/change-team-roles-program.md'
       - 'Remove team members': 'team/remove-team-members-program.md'
     - 'Program Design':
-      - 'Program Design': 'design/design.md'
+      - 'Program Design page': 'design/design.md'
       - 'Read & Change Program Design': 'design/read-change-design-details.md'
     - 'People Affected':
       - 'People Affected page': 'registration/people-affected-page.md'
-      - 'Import Registration excel file': 'registration/registration-import-list.md'
+      - 'Import Registration with excel': 'registration/registration-import-list.md'
       - 'Registration with KOBO form': 'registration/registration-automatic-import-kobo.md'
       - 'Deduplication': 'registration/registration-deduplication.md'
-      - 'Edit PA profile': 'registration/edit-pa-profile.md
+      - 'Edit PA profile': 'registration/edit-pa-profile.md'
       - 'Validate registration': 'registration/registration-validate-pa.md'
-      - 'Reject registration': 'registration/registration-reject-pa.md'
+      - 'Decline registration': 'registration/registration-reject-pa.md'
       - 'Include PA in program': 'registration/inclusion-in-program.md'
       - 'What if I see empty page': 'registration/registration-list-empty.md'
     - 'Payment':
-      - 'Payment Overview': 'payment/payment.md'
-      - 'Update PA payment status': 'payment/change-pa-status-program.md'
-      - 'Import payment instructions in FSP portal': 'payment/issue-payment-fsp-portal.md'
-      - 'Messages in 121 platform': 'payment/list-messages-payments.md'
-      - 'Issue payments': 'payment/issue-payment-integrated-fsp.md'
-      - 'Send and reconcile payment instructions (FSP portal)': 'payment/issue-payment-fsp-portal.md'
-      - 'Notification messages to 121 payment users': 'payment/list-messages-payments.md'
+      - 'Payment page': 'payment/payment.md'
+      - 'Issue instant payments': 'payment/issue-payment-integrated-fsp.md'
+      - 'Send and reconcile manual payment instructions (FSP portal)': 'payment/issue-payment-fsp-portal.md'
+      - 'Pause payments sent to PAs': 'payment/pause-payment-pa.md'
+      - 'Payment statuses in 121': 'payment/list-status-payment-page.md'
+      - 'Payment reporting and activty': 'payment/payment-reporting.md'
     - 'Evaluation':
-      - 'Evaluation Overview': 'evaluation/evaluation.md'
+      - 'Evaluation page': 'evaluation/evaluation.md'
     - 'F.A.Q':
       - 'Data Protection': 'faq/data-protection.md'
       - 'Timeline and Integration': 'faq/timeline-121-integration.md'
