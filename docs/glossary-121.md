@@ -6,16 +6,12 @@ hide:
 
 A list of key terms used in the 121 platform.
 
-- General Terms
-- Tab Titles
-- Program Cards
-- Registration Status
-- Payment Overview
-- Payment Transfer Statuses
-
-
------------------
-
+- [General terms](#general-terms)
+- [Tab Titles](#tab-titles)
+- [Program Cards](#program-cards)
+- [Registration Status](#registration-status)
+- [Payment Overview](#payment-overview)
+- [Payment Transfer statuses](#payment-transfer-statuses)
 
 ### General terms
 
@@ -51,8 +47,6 @@ A list of key terms used in the 121 platform.
 | **People Affected** | All registrations are listed in this page. The registration and inclusion or rejection of beneficiaries in the program will be displayed in this page under different status: registered, validated, included, declined, completed.|
 | **Payment** | The page were users can have an overview of the payment status and/or execute payment tranches towards included beneficiaries.|
 
------------------
-
 ### Program Cards
 
 | Term                   | Definition                           |
@@ -67,8 +61,6 @@ A list of key terms used in the 121 platform.
 | **Active** | Programs that are being created or already running.|
 | **Archived** | Rather than deleting, the user can archive a project, it is not active but its details are still available to view and can be copied.|
 
------------------
-
 ### Registration Status
 
 | Term                   | Definition                           |
@@ -81,8 +73,6 @@ A list of key terms used in the 121 platform.
 | **Completed** | The person or Household received the total number of payment tranches planned for this program.|
 | **Deleted**| Registration has been deleted. They were either declined or included at some point but their personal details were deleted - only some details are still available for reporting. Only 121 Admin can perform this task.|
 | **Paused** | Registration currently not being included in the fund disbursement but still part of the program.|
-
------------------
 
 ### Payment Overview
 
@@ -97,7 +87,6 @@ A list of key terms used in the 121 platform.
 | **Payment in progress** | The payment was approved and is now being sent to the included registrations.|
 | **Payment completed** | All included People Affected or Households have received their transfers.|
 
------------------
 
 ### Payment Transfer statuses
 
@@ -109,13 +98,9 @@ A list of key terms used in the 121 platform.
 | **Failed** | The transfer did not arrive to the PA or Household. This could happen for a variety of reasons.An error message with a reason is generally communicated by the FSP.|
 | **Total payment amount** | The sum value of multiplying the base transfer value and the aggregated count.|
 
+---
 
-| Term      | Definition     |
-|-----------|----------------|
-| Example 1 | Definition 1   |
-| Example 2 | Definition 2   |
-
-___
-Need further assistance?
+Need further assistance?  
 Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
-___
+
+---
