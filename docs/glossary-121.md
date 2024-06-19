@@ -19,7 +19,7 @@ A list of key terms used in the 121 platform.
 | :------------------    | :------------------------------------------------------------------- |
 | **121 Platform**       | (“one to one”) is a platform that helps project managers by increasing efficiency in setting up and executing a cash program Information Management (IM) system.  |
 | **CVA**                | Cash and Voucher Assistance, referring to Cash Transfer Programming (CTP). |
-| **Project**            | A program created by users in the platform. |
+| **Project**            | A project created by users in the platform. |
 | **FSP**                | Financial Service Provider - an entity that provides financial services, which may include digital payment services.|
 | **Budget**             | Amount of money in the project that will be disbursed to included people/households.|
 | **Registrations**      | People or households that registered, subscribed to a project or programme.|
@@ -38,7 +38,6 @@ A list of key terms used in the 121 platform.
 | :------------------    | :------------------------------------------------------------------- |
 | **Home** | The main page to overview all active programs. The Admin can oversee all programs. A user assigned to programs can only see the specific programs.|
 | **Active** | A program that is currently running.|
-| **Archive** | A program that has ended but the information is archived by an admin. (It cannot be run again but the user can read them and copy them into new program).|
 | **Users** | All individuals who have access to, and work on the 121 platform e.g. CVA officer, volunteers, Financial officers etc. A user can have different roles in different programs.|
 | **Roles** | Each user will be assigned a position for a specific program (e.g. CVA officer, volunteer, Financial officer etc.). This is done in the "Team" page of the program.|
 | **Permissions** | Each role has different authorization to preform different actions. e.g. only a Financial officer can approve a payment, CVA manager can validate and include People in the program. You can see which permissions are related to which role on the "Roles and permissions" page.|
@@ -51,7 +50,6 @@ A list of key terms used in the 121 platform.
 
 | Term                   | Definition                           |
 | :------------------    | :------------------------------------------------------------------- |
-| **Program Cards** | A small window providing an brief overview of the program details. |
 | **Targeted People Affected** | The amount of people/households that a program wishes to help.|
 | **Included People Affected** | The amount of people/households that have been receiving funds through a project.|
 | **Total Project budget** | The total amount of funds allocated for disbursement in a program.|
@@ -66,7 +64,7 @@ A list of key terms used in the 121 platform.
 | Term                   | Definition                           |
 | :------------------    | :------------------------------------------------------------------- |
 | **People Affected, PA** | Registered beneficiaries or households in the program, also referred to PA in 121. Depending on the SOPs, the status of the PA can vary: new, registered, validated, included, declined, completed, paused.|
-| **New** | People/household completed the registration in the PA app or KOBO form. |
+| **New** | People/household completed the registration in KOBO form. |
 | **Validated** | Registration and PA profile details were validated by a 121 user.|
 | **Included** | Registration was included into the program and will receive payment transfers via the 121 portal.|
 | **Declined** | The person or Household was found to be incorrectly registered into the program and should not be considered for inclusion.|
