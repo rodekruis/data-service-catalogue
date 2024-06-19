@@ -6,7 +6,7 @@ hide:
 
 In the 121 Platform, payments can be processed in two different methods: with a manual payment via a FSP portal or directly with a FSP integration. Below, you will find the step-by-step instructions to execute the manual payment via a FSP portal, to export the payment instructions and reconcile payments into your program.
 
-*For payments instructions with an integrated Financial Service Provider, please refer to the instructions on the [Payment with an integrared FSP page](./issue-payment-integrated-fsp.md)*
+*For payments instructions with an integrated Financial Service Provider, please refer to the instructions on the [Payment with an integrated FSP page](./issue-payment-integrated-fsp.md)*
 
 !!! Important "Who can perform actions in this page?"
     Finance Manager and Finance Officer roles can perform actions in the Payment page.  
@@ -34,8 +34,6 @@ IMG
 
 Only PAs who have not received the **payment#** round are available for selection. PA’s that have received the max payments will not be applicable (max payment number per household might change as the program continues).
 
-IMG
-
 ### Export the payment instructions
 
 Once you have selected and included the People Affected in your payment round, you can download the payment instructions.
@@ -46,12 +44,10 @@ The file will provide the necessary instructions for the FSP to issue the paymen
 - **Export payment instructions** (right) becomes blue and clickable
 - Click on the export button to download the file
 - The file will be available in your downloaded folder
-- Review the file if required. *Based on your agreement with the FSP, share the file to your FSP or import it into the FSP portal (if available).*
-
-IMG​
+- Review the file if required. *Based on your agreement with the FSP, share the file to your FSP or import it into the FSP portal (if available).
 
 !!! info "Payment instructions excel template"
-    The payment instructions excel file should only contain the criteria needed for the FSP to confirm the beneficiaries' identity and issue the payments, such as names, phone number and ID number or any other criteria based on your program SOPs. For data privacy, we recommand to only export the minimum criteria to verify the PA identity. All other irrelevant data for the payment process should be excluded from the payment instructions file.
+    The payment instructions excel file should only contain the criteria needed for the FSP to confirm the beneficiaries' identity and issue the payments, such as names, phone number and ID number or any other criteria based on your program SOPs. For data privacy, we recommend to only export the minimum criteria to verify the PA identity. All other irrelevant data for the payment process should be excluded from the payment instructions file.
 
     Each program may require a different template depending on the FSP you work with in the region of your operations. Our Team will create a template specifically for the program requirements and adapted to upload into each FSP portal. 
 
@@ -78,30 +74,24 @@ The payment status displayed in the payment page will be updated depending on th
 
 ---
 
-<div class="grid cards" markdown>
+### Payment Frequency
 
-- :material-clock-fast:{ .lg .middle } __Payment Frequency__
+Disbursements can be executed at a certain frequency (daily, weekly, monthly or one-off payment). All payments in the 121 Platform must be triggered manually at the required date.
 
-    ---
+Transfers are not sent automatically at a specific date. This allows the finance manager to review the availability of funds before a payment is issued to the beneficiaries.
 
-    Disbursements can be executed at a certain frequency (daily, weekly, monthly or one-off payment). All payments in the 121 Platform must be triggered manually at the required date.
+[:octicons-arrow-right-24: Program Design metrics](../design/read-change-design-details.md)
 
-    Transfers are not sent automatically at a specific date. This allows the finance manager to review the availability of funds before a payment is issued to the beneficiaries.
+### Export payment reports
 
-    [:octicons-arrow-right-24: Program Design metrics](../design/read-change-design-details.md)
+For financial audit and donor requirements, you can export the payment reports once this is completed.
 
-- :fontawesome-brands-markdown:{ .lg .middle } __Export payment reports__
+- In the Payment page, go to **Payment data** on the top left
+- Select the required **payment#**
+- Click on **Export Report**
 
-    ---
+---
 
-    For financial audit and donor requirements, you can export the payment reports once this is completed.
-
-    - In the Payment page, go to **Payment data** on the top left, 
-    - Select the required **payment#**
-    - Click on **Export Report**
-
-
-</div>
-___
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
-___
+
+---

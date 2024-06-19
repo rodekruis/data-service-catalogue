@@ -32,7 +32,7 @@ Detailed payment information and data changes can be found in the Activity Overv
 
 You can have an overview all activities performed in a single PA profile in the **All** tab, or activities for a specific action
 
------
+---
 
 **How to read the logs in the Activity Overview?**
 
@@ -44,6 +44,8 @@ You can have an overview all activities performed in a single PA profile in the 
 | **Status history** | All or Status history | the log will show the **Status update**, the date and time, the **old** and **new status** and the 121 user account performing the status update.|
 |**Notes** | All or Status history | the log will show the **notes** history, the date and time, the content and the 121 user account adding the notes into the PA profile. A note can be added manually by clicking on **Add notes** button (right side)|
 
-___
+---
+
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
-___
+
+---
