@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-In the 121 Platform, payments can be processed in two different methods: with a manual payment via a FSP portal or an instant payment directly with a FSP integration. Below, you will find the step-by-step instructions to process and execute an instant payment to the list of included People Affected **with a direct FSP integration**
+In the 121 Platform, payments can be processed in two different methods: with a manual payment via an FSP portal or an instant payment directly with a FSP integration. Below, you will find the step-by-step instructions to process and execute an instant payment to the list of included People Affected **with a direct FSP integration**
 
 *For manual payments instructions via a FSP portal, please refer to the instructions on the [Manual Payment instructions (FSP portal) page](./issue-payment-fsp-portal.md)*
 
@@ -34,7 +34,7 @@ IMG
 Only PAs who have not received the **payment#** round are available for selection. PA’s that have received the max payments will not be applicable (max payment number per household might change as the program continues).
 
 !!! info "Payment process timeframe"
-    Once the payment has been processed in the 121 Platform, payment status with integrated FSP are rather updated instantly. In some cases. it can take a few minutes for the status to be updated (up to 1 hour) back from the FSP to 121 Platform. Updated payment reports will be available only then.
+    Once the payment has been processed in the 121 Platform, payment status with integrated FSP are updated instantly. In some cases, it can take a few minutes for the status to be updated (up to 1 hour) as the information needs to be processed from the FSP back to the 121 Platform. Updated payment reports will be available only then.
     Because the payment data is being processed on the server, you can keep using the 121 Platform after initiating a payment round.
 
 IMG
@@ -50,34 +50,22 @@ The status will be updated automatically for integrated FSP.
 | **FAILED** | The transaction has failed. The PAs have not received any payment.| Please check the error message provided by your bank. Failed payment can be due to wrong bank details, phone number or ID number depending on the chosen payment methods. Contact our 121 Support Team if this remains unsolved.|
 
 
----
-
-<div class="grid cards" markdown>
-
-- :material-clock-fast:{ .lg .middle } __Payment Frequency__
-
-    ---
-
-    Disbursements can be executed at a certain frequency (daily, weekly, monthly or one-off payment). All payments in the 121 Platform must be triggered manually at the required date.
+!!! info "Payment Frequency"
+    Disbursements can be executed at a certain frequency (daily, weekly, monthly or one-off payment). All payments in the 121 Platform must be triggered manually on a specific date.
 
     Transfers are not sent automatically at a specific date. This allows the finance manager to review the availability of funds before a payment is issued to the beneficiaries.
 
     [:octicons-arrow-right-24: Program Design metrics](../design/read-change-design-details.md)
 
-- :fontawesome-brands-markdown:{ .lg .middle } __Export payment reports__
 
-    ---
+!!! tips "Export payment reports"
 
     For financial audit and donor requirements, you can export the payment reports once this is completed.
 
-    - In the Payment page, go to **Payment data** on the top left,
+    - In the Payment page, go to **Payment data** on the top left, 
     - Select the required **payment#**
     - Click on **Export Report**
-
-
-</div>
 
 ___
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 ___
-

@@ -19,7 +19,7 @@ To export a financial report:
 - Select the **Payment#** for which you would like to export the payment data
 - Click on **Export Report** button
 - A pop-up window will request a confirmation.**This will download an Excel file with all People Affected included in this payment**
-- The file will be exported into the download folder as a excel file.
+- The file will be exported into the download folder as an excel file.
 
 
 ### Oversee the Activity Overview in PA profile
@@ -30,7 +30,7 @@ Detailed payment information and data changes can be found in the Activity Overv
 - The profile will show all personal details and activity overview from different phases (registration, inclusion, payments)
 - In the Activity Overview, any changes or activities will be automatically logged.
 
-You can have an overview all activities performed in a single PA profile in the **All** tab, or activities for a specific action
+You can have an overview of all activities performed in a single PA profile in the **All** tab, or activities for a specific action
 
 -----
 

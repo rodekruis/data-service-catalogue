@@ -3,7 +3,7 @@ title: Program overview - payment
 hide:
   - toc
 ---
-The Payment page enables to oversee the payment status for all included beneficiaries in the program and execute payments.
+The Payment page allows you to oversee the payment status for all included beneficiaries in the program and execute payments.
 
 !!! Important "Who can perform actions in this page?"
     Finance Manager and Finance Officer roles can perform actions in the Payment page.  
@@ -13,7 +13,7 @@ The Payment page enables to oversee the payment status for all included benefici
 
 In the 121 Platform, payments can be processed with two different methods:
 
-- **Send and Reconcile manual payments by exporting a payment instructions file**. You pre-process the payment within 121 by including the selected PA in the payment round, then donwload the payment instructions to be sent to the FSP and later reconcilation the payment data. Further instructions on [this page](./issue-payment-fsp-portal.md)
+- **Send and Reconcile manual payments by exporting a payment instructions file**. You pre-process the payment within 121 by including the selected PA in the payment round, then donwload the payment instructions to be sent to the FSP and later reconcile the payment data. Further instructions on [this page](./issue-payment-fsp-portal.md)
 - Execute an **instant payment** directly within the 121 Platform. A direct integration to the FSP automates the payment and reconciliation. Further instructions on [this page](./issue-payment-integrated-fsp.md)
 
 
@@ -22,8 +22,8 @@ In the 121 Platform, payments can be processed with two different methods:
 In the **Payment** page, you will find the oerview of included beneficiaries in the program. Depending on the program phases, PAs can have different statuses.
 The overview is particularly interesting for:
 
-- Finance Manager and Finance Officer to keep tracked of transactions statuses, successful and failed ones.
-- CVA Manager and CVA Officer to keep informed and follow wether or not a PA is receiving cash support.
+- Finance Manager and Finance Officer to keep track of payment statuses, successful and failed ones.
+- Whether CVA Manager and CVA Officer to keep informed and follow wether or not a PA is receiving cash support.
 - For donors that may want to view the ongoing payment processes and deadlines as required.
 
 Find out more about the payment and PA statuses on [this page](./list-status-payment-page.md)

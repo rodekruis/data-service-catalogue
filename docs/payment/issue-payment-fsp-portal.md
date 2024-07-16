@@ -32,7 +32,7 @@ IMG
 - Click on **Start paying now**.
 - A message indicates the completion of the action and **next steps to download the payment instructions**.
 
-Only PAs who have not received the **payment#** round are available for selection. PA’s that have received the max payments will not be applicable (max payment number per household might change as the program continues).
+Only PAs who have not received **payment#** round are available for selection. PA’s that have received the max payments will not be applicable (max payment number per household might change as the program continues).
 
 IMG
 
@@ -41,7 +41,7 @@ IMG
 Once you have selected and included the People Affected in your payment round, you can download the payment instructions.
 The file will provide the necessary instructions for the FSP to issue the payments.
 
-- On the top left of your **payment page**, go in **Payment data** dropdown list
+- On the top left of your **payment page**, go into the **Payment data** dropdown list
 - Click on **Choose Payment** and select the **payment#** round matching your selection
 - **Export payment instructions** (right) becomes blue and clickable
 - Click on the export button to download the file
@@ -54,6 +54,8 @@ IMG​
     The payment instructions excel file should only contain the criteria needed for the FSP to confirm the beneficiaries' identity and issue the payments, such as names, phone number and ID number or any other criteria based on your program SOPs. For data privacy, we recommand to only export the minimum criteria to verify the PA identity. All other irrelevant data for the payment process should be excluded from the payment instructions file.
 
     Each program may require a different template depending on the FSP you work with in the region of your operations. Our Team will create a template specifically for the program requirements and adapted to upload into each FSP portal. 
+
+    To export a payment report, the payment status should be shown as **closed** in the dropdownlist.
 
 ### Reconcile payments in 121 platform
 
@@ -76,23 +78,15 @@ The payment status displayed in the payment page will be updated depending on th
 | **WAITING** | The payment is waiting for approval of one or more financial officers. The transfer is not yet sent to the People Affected or Household selected for this payment round. | Import the reconciliation file into 121 Platform to update the status (.csv Format) |
 | **FAILED** | The transaction has failed. The PAs have not received any payment.| Please check the error message provided by your bank. Failed payment can be due to wrong bank details, phone number or ID number depending on the chosen payment methods. You can try again. Contact our 121 Support Team if this remains unsolved.|
 
----
-
-<div class="grid cards" markdown>
-
-- :material-clock-fast:{ .lg .middle } __Payment Frequency__
-
-    ---
-
-    Disbursements can be executed at a certain frequency (daily, weekly, monthly or one-off payment). All payments in the 121 Platform must be triggered manually at the required date.
+!!! info "Payment Frequency"
+    Disbursements can be executed at a certain frequency (daily, weekly, monthly or one-off payment). All payments in the 121 Platform must be triggered manually on a specific date.
 
     Transfers are not sent automatically at a specific date. This allows the finance manager to review the availability of funds before a payment is issued to the beneficiaries.
 
     [:octicons-arrow-right-24: Program Design metrics](../design/read-change-design-details.md)
 
-- :fontawesome-brands-markdown:{ .lg .middle } __Export payment reports__
 
-    ---
+!!! tips "Export payment reports"
 
     For financial audit and donor requirements, you can export the payment reports once this is completed.
 
@@ -100,8 +94,6 @@ The payment status displayed in the payment page will be updated depending on th
     - Select the required **payment#**
     - Click on **Export Report**
 
-
-</div>
 ___
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 ___

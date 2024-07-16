@@ -6,7 +6,7 @@ hide:
 
 Unless you manually import registrations with an excel .CSV file, registrations done with KOBO will automatically be imported within your program in 121 Platform, in the **People Affected** page.
 
-- Create your Kobo-form on the KOBO tool
+- Create your KOBO-form on the KOBO tool
 - Share this Kobo-form with account `nlrc121platform`
 - Inform the 121 team that you have shared the form
 
