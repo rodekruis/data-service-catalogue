@@ -13,11 +13,7 @@ The Payment page allows you to oversee the payment status for all included benef
 
 In the 121 Platform, payments can be processed with two different methods:
 
-<<<<<<< HEAD
 - **Send and Reconcile manual payments by exporting a payment instructions file**. You pre-process the payment within 121 by including the selected PA in the payment round, then donwload the payment instructions to be sent to the FSP and later reconcile the payment data. Further instructions on [this page](./issue-payment-fsp-portal.md)
-=======
-- **Send and Reconcile manual payments by exporting a payment instructions file**. You pre-process the payment within 121 by including the selected PA in the payment round, then download the payment instructions to be sent to the FSP and later reconciliation the payment data. Further instructions on [this page](./issue-payment-fsp-portal.md)
->>>>>>> 8e0809d8f1077e265698249dee93d4cb00cd82fa
 - Execute an **instant payment** directly within the 121 Platform. A direct integration to the FSP automates the payment and reconciliation. Further instructions on [this page](./issue-payment-integrated-fsp.md)
 
 
