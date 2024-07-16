@@ -49,7 +49,26 @@ The status will be updated automatically for integrated FSP.
 | **WAITING** | The transaction is being processed by the bank. Pending payment reconciliation. The status will be updated automatically by the integrated FSP (successful or failed) | Request an update to the FSP about the reconciliation data. Contact our 121 Support Team if this remains unsolved.|
 | **FAILED** | The transaction has failed. The PAs have not received any payment.| Please check the error message provided by your bank. Failed payment can be due to wrong bank details, phone number or ID number depending on the chosen payment methods. Contact our 121 Support Team if this remains unsolved.|
 
+---
 
+### Payment Frequency
+
+Disbursements can be executed at a certain frequency (daily, weekly, monthly or one-off payment). All payments in the 121 Platform must be triggered manually at the required date.
+
+Transfers are not sent automatically at a specific date. This allows the finance manager to review the availability of funds before a payment is issued to the beneficiaries.
+
+[:octicons-arrow-right-24: Program Design metrics](../design/read-change-design-details.md)
+
+### Export payment reports
+
+For financial audit and donor requirements, you can export the payment reports once this is completed.
+
+- In the Payment page, go to **Payment data** on the top left,
+- Select the required **payment#**
+- Click on **Export Report**
+
+
+<<<<<<< HEAD
 !!! info "Payment Frequency"
     Disbursements can be executed at a certain frequency (daily, weekly, monthly or one-off payment). All payments in the 121 Platform must be triggered manually on a specific date.
 
@@ -69,3 +88,11 @@ The status will be updated automatically for integrated FSP.
 ___
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 ___
+=======
+---
+
+Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
+
+---
+
+>>>>>>> 8e0809d8f1077e265698249dee93d4cb00cd82fa

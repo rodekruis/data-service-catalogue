@@ -13,13 +13,17 @@ The Payment page allows you to oversee the payment status for all included benef
 
 In the 121 Platform, payments can be processed with two different methods:
 
+<<<<<<< HEAD
 - **Send and Reconcile manual payments by exporting a payment instructions file**. You pre-process the payment within 121 by including the selected PA in the payment round, then donwload the payment instructions to be sent to the FSP and later reconcile the payment data. Further instructions on [this page](./issue-payment-fsp-portal.md)
+=======
+- **Send and Reconcile manual payments by exporting a payment instructions file**. You pre-process the payment within 121 by including the selected PA in the payment round, then download the payment instructions to be sent to the FSP and later reconciliation the payment data. Further instructions on [this page](./issue-payment-fsp-portal.md)
+>>>>>>> 8e0809d8f1077e265698249dee93d4cb00cd82fa
 - Execute an **instant payment** directly within the 121 Platform. A direct integration to the FSP automates the payment and reconciliation. Further instructions on [this page](./issue-payment-integrated-fsp.md)
 
 
 ### Overview of payment status
 
-In the **Payment** page, you will find the oerview of included beneficiaries in the program. Depending on the program phases, PAs can have different statuses.
+In the **Payment** page, you will find the overview of included beneficiaries in the program. Depending on the program phases, PAs can have different statuses.
 The overview is particularly interesting for:
 
 - Finance Manager and Finance Officer to keep track of payment statuses, successful and failed ones.
@@ -44,9 +48,9 @@ You will be able to execute payments with one or multiple delivery mechanisms de
 | ---------------- | ----------- |
 | **FSP Portal**       | For non-integrated FSP and universal cash distribution methods. Manual export of payment instructions to upload into the FSP portal and reconciliation of payment data into 121. |
 | **Bank Wire**       | Direct bank transfers issued with 121 platform to beneficiaries (integrated FSP) |
-| **VISA debit card**  | Direct transfers and top-up to VISA debit card (integrated FSP). Allows conditionla and unconditional modalities. |
+| **VISA debit card**  | Direct transfers and top-up to VISA debit card (integrated FSP). Allows conditional and unconditional modalities. |
 | **Mobile money**     | Direct transfers to mobile wallets. |
-| **E-vouchers** | This is an electronic document with a specific amount and dates that support and authorize financial transactions at designated locations. These are sent via Whatsapps. |
+| **E-vouchers** | This is an electronic document with a specific amount and dates that support and authorize financial transactions at designated locations. These are sent via Whatsapp. |
 
 *In cases physical cash payment may be a better approach, we can discuss supporting these programs on a case-by-case basis.*
 
@@ -58,6 +62,8 @@ You will be able to execute payments with one or multiple delivery mechanisms de
     - Check that your FSP or the bank allow integrating with third party tool or external service provider platform;
     - the FSP or the bank support API protocols. An application programming interface (API) is a way for two or more computer programs or components to communicate with each other.
 
-___
+---
+
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
-___
+
+---

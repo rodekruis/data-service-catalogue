@@ -13,9 +13,9 @@ Unless you manually import registrations with an excel .CSV file, registrations 
 Our 121 support team will link the kobo form with the right program in the 121 platform and inform you when it is ready. Unless some additional changes are required, the mapping of your form to 121 platform will be performed within 1 to 2 business days upon receipt.
 
 !!! info "KOBO for Red Cross Red Crescent National Societies"
-  121 platform is a product of the Netherlands Red Cross. Red Cross Ress Crescent National Societies can create their kobo form via [IFRC server](https://kobo.ifrc.org/). Once created, you can share this Kobo-form with the account `nlrc121platform`.
+  121 platform is a product of the Netherlands Red Cross. Red Cross Red Crescent National Societies can create their kobo form via [IFRC server](https://kobo.ifrc.org/). Once created, you can share this Kobo-form with the account `nlrc121platform`.
 
---------------
+---
 
 ## Data sent from KOBO to 121 Platform
 
@@ -28,6 +28,8 @@ There is no need to follow any templates as this adaptable in 121 Platform. Howe
 
     For example, if Beneficiary A is registered in KOBO and you upload the data to the 121 Platform at the end of the day, you might later notice that question 4 was not answered by Beneficiary A. In this case, you will need to find Beneficiary A's profile in the 121 Platform to make the necessary edits. Changes made instead in KOBO Beneficiary A's form after the initial upload will not be updated in the 121 Platform.
 
-___
+---
+
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
-___
+
+---
