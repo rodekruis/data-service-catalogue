@@ -20,7 +20,6 @@ To initiate a payment:
 - On the top left of the table, Open the drop down to **Choose action.**
 - Select  **Do Payment#**
 
-IMG
 
 - Include the People Affected in the payment round as follows.
 - After selecting **payment#**, a tick box :material-checkbox-blank-outline: appears on the left of the PA name column.
@@ -37,7 +36,6 @@ Only PAs who have not received the **payment#** round are available for selectio
     Once the payment has been processed in the 121 Platform, payment status with integrated FSP are updated instantly. In some cases, it can take a few minutes for the status to be updated (up to 1 hour) as the information needs to be processed from the FSP back to the 121 Platform. Updated payment reports will be available only then.
     Because the payment data is being processed on the server, you can keep using the 121 Platform after initiating a payment round.
 
-IMG
 
 ### Payment status
 
@@ -68,7 +66,6 @@ For financial audit and donor requirements, you can export the payment reports o
 - Click on **Export Report**
 
 
-<<<<<<< HEAD
 !!! info "Payment Frequency"
     Disbursements can be executed at a certain frequency (daily, weekly, monthly or one-off payment). All payments in the 121 Platform must be triggered manually on a specific date.
 
@@ -85,14 +82,8 @@ For financial audit and donor requirements, you can export the payment reports o
     - Select the required **payment#**
     - Click on **Export Report**
 
-___
-Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
-___
-=======
 ---
 
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 
 ---
-
->>>>>>> 8e0809d8f1077e265698249dee93d4cb00cd82fa

@@ -72,26 +72,13 @@ The payment status displayed in the payment page will be updated depending on th
 | **WAITING** | The payment is waiting for approval of one or more financial officers. The transfer is not yet sent to the People Affected or Household selected for this payment round. | Import the reconciliation file into 121 Platform to update the status (.csv Format) |
 | **FAILED** | The transaction has failed. The PAs have not received any payment.| Please check the error message provided by your bank. Failed payment can be due to wrong bank details, phone number or ID number depending on the chosen payment methods. You can try again. Contact our 121 Support Team if this remains unsolved.|
 
-<<<<<<< HEAD
 !!! info "Payment Frequency"
     Disbursements can be executed at a certain frequency (daily, weekly, monthly or one-off payment). All payments in the 121 Platform must be triggered manually on a specific date.
-=======
----
-
-### Payment Frequency
-
-Disbursements can be executed at a certain frequency (daily, weekly, monthly or one-off payment). All payments in the 121 Platform must be triggered manually at the required date.
-
-Transfers are not sent automatically at a specific date. This allows the finance manager to review the availability of funds before a payment is issued to the beneficiaries.
-
-[:octicons-arrow-right-24: Program Design metrics](../design/read-change-design-details.md)
->>>>>>> 8e0809d8f1077e265698249dee93d4cb00cd82fa
 
 ### Export payment reports
 
 For financial audit and donor requirements, you can export the payment reports once this is completed.
 
-<<<<<<< HEAD
 
 !!! tips "Export payment reports"
 
@@ -104,14 +91,3 @@ For financial audit and donor requirements, you can export the payment reports o
 ___
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
 ___
-=======
-- In the Payment page, go to **Payment data** on the top left
-- Select the required **payment#**
-- Click on **Export Report**
-
----
-
-Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
-
----
->>>>>>> 8e0809d8f1077e265698249dee93d4cb00cd82fa
