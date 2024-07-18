@@ -64,7 +64,9 @@ Once the FSP shared the updated payment instructions back to you, you can reconc
 
 ### Payment status
 
-The payment status displayed in the payment page will be updated depending on the program payment phase.
+The payment status displayed in the payment page will be updated depending on the payment phase. For Manual Payment, the default message will be **WAITING** until the payment reconciliation has been processed.
+
+Below, the different payment statuses.
 
 | Status | Description | Actions required |
 | :------| :-----------| :----------------|
@@ -72,21 +74,9 @@ The payment status displayed in the payment page will be updated depending on th
 | **WAITING** | The payment is waiting for approval of one or more financial officers. The transfer is not yet sent to the People Affected or Household selected for this payment round. | Import the reconciliation file into 121 Platform to update the status (.csv Format) |
 | **FAILED** | The transaction has failed. The PAs have not received any payment.| Please check the error message provided by your bank. Failed payment can be due to wrong bank details, phone number or ID number depending on the chosen payment methods. You can try again. Contact our 121 Support Team if this remains unsolved.|
 
-!!! info "Payment Frequency"
-    Disbursements can be executed at a certain frequency (daily, weekly, monthly or one-off payment). All payments in the 121 Platform must be triggered manually on a specific date.
-
-### Export payment reports
-
-For financial audit and donor requirements, you can export the payment reports once this is completed.
-
-
-!!! tips "Export payment reports"
-
-    For financial audit and donor requirements, you can export the payment reports once this is completed.
-
-    - In the Payment page, go to **Payment data** on the top left, 
-    - Select the required **payment#**
-    - Click on **Export Report**
+!!! info "Manual payment reconciliation"
+    Once the FSP share back the payment data, you can excecute the manual payment reconciliation in the 121 platform.
+    Follow the instructions on [this page](manual-payment-reconciliation.md)
 
 ___
 Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
