@@ -49,7 +49,7 @@ Once you have identified the incorrect data, you can correct the information wit
 Once you have identified the reason, you can proceed with retrying the payments:
 
 - Go in the **Payment** page
-- Click on the button **Retry payments** highligthed in red
+- Click on the button **Retry payments** highlighted in red
 - The transaction will be automatically retried for beneficiaries identified with a **failed payment** status
 - The payment status will be updated
 

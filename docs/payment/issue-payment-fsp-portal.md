@@ -75,7 +75,7 @@ Below, the different payment statuses.
 | **FAILED** | The transaction has failed. The PAs have not received any payment.| Please check the error message provided by your bank. Failed payment can be due to wrong bank details, phone number or ID number depending on the chosen payment methods. You can try again. Contact our 121 Support Team if this remains unsolved.|
 
 !!! info "Manual payment reconciliation"
-    Once the FSP share back the payment data, you can excecute the manual payment reconciliation in the 121 platform.
+    Once the FSP share back the payment data, you can execute the manual payment reconciliation in the 121 platform.
     Follow the instructions on [this page](manual-payment-reconciliation.md)
 
 ___

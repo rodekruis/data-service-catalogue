@@ -37,7 +37,7 @@ Once your labels are updated, you can save the file as a .csv format:
 
 - Click on **Save File** in your file
 - Add a file name, if required
-- Select **.csv** format in the dropdownlist
+- Select **.csv** format in the dropdown list
 - **Save**
 
 ### Import the reconciliation file

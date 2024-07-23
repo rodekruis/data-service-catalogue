@@ -108,7 +108,7 @@ A list of key terms used in the 121 platform.
 | **Debit card(s)** | A rechargeable physical or digital card which is sent to the registration which they can use to purchase with. |
 | **Wallet/wallet number** | This is the "account" in which the cards live. A registration has 1 wallet but could have multiple cards (for example if one is lost, a new one is sent.)|
 | **Balance** | The amount of money currently in the wallet. |
-| **Spent this month (max X)** | In some projects the amount of money a person/ household can spend in a single month is capped. This is a precaution measure to avoid missuse of the cards.|
+| **Spent this month (max X)** | In some projects the amount of money a person/ household can spend in a single month is capped. This is a precaution measure to avoid miss use of the cards.|
 | **Card number** | The number written on the card, used to verify the card and to check information. |
 ---
 
