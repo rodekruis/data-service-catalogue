@@ -13,7 +13,7 @@ The Payment page allows you to oversee the payment status for all included benef
 
 In the 121 Platform, payments can be processed with two different methods:
 
-- **Send and Reconcile manual payments by exporting a payment instructions file**. You pre-process the payment within 121 by including the selected PA in the payment round, then donwload the payment instructions to be sent to the FSP and later reconcile the payment data. Further instructions on [this page](./issue-payment-fsp-portal.md)
+- **Send and Reconcile manual payments by exporting a payment instructions file**. You pre-process the payment within 121 by including the selected PA in the payment round, then download the payment instructions to be sent to the FSP and later reconcile the payment data. Further instructions on the [manual payment page](./issue-payment-fsp-portal.md) and [manual reconciliation page.](./manual-payment-reconciliation.md)
 - Execute an **instant payment** directly within the 121 Platform. A direct integration to the FSP automates the payment and reconciliation. Further instructions on [this page](./issue-payment-integrated-fsp.md)
 
 
@@ -48,7 +48,7 @@ You will be able to execute payments with one or multiple delivery mechanisms de
 | **Mobile money**     | Direct transfers to mobile wallets. |
 | **E-vouchers** | This is an electronic document with a specific amount and dates that support and authorize financial transactions at designated locations. These are sent via Whatsapp. |
 
-*In cases physical cash payment may be a better approach, we can discuss supporting these programs on a case-by-case basis.*
+*In cases physical cash payment may be a better approach, these options can be discussed on a case-by-case basis with our 121 Team.*
 
 !!! info "Integration with local FSP"
     The 121 Platform has integrated with a certain number of local FSP and aggregators. Additional local FSP can be integrated upon evaluation. Please, share your request with our team.

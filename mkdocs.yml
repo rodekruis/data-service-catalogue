@@ -80,7 +80,9 @@ nav:
     - 'Payment':
       - 'Payment page': 'payment/payment.md'
       - 'Issue instant payments': 'payment/issue-payment-integrated-fsp.md'
-      - 'Send and reconcile manual payment instructions (FSP portal)': 'payment/issue-payment-fsp-portal.md'
+      - 'Send manual payment instructions (FSP portal)': 'payment/issue-payment-fsp-portal.md'
+      - 'Reconcile manual payments': 'manual-payment-reconciliation.md'
+      - 'Failed and retry payments': 'failed-retry-payment.md'
       - 'Pause payments sent to PAs': 'payment/pause-payment-pa.md'
       - 'Payment statuses in 121': 'payment/list-status-payment-page.md'
       - 'Payment reporting and activty': 'payment/payment-reporting.md'
