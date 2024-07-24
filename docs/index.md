@@ -13,6 +13,7 @@ On the left you can find a navigation overview, or find the information you need
 
 the 121 Platform is following the CVA workflow step-by-step. Find out the instructions for each phases your are working on.
 
+<!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
 -   :fontawesome-solid-users-gear:{ .lg .middle } [__Users & Roles__](./users/description-roles.md)
@@ -22,7 +23,7 @@ the 121 Platform is following the CVA workflow step-by-step. Find out the instru
     Understand the roles available in your instance and distribution of permissions within 121.
 
 
--   :material-book-edit:{ .lg .middle } [__Overview the program design__](./design/design.md)
+-   :material-book-edit:{ .lg .middle } [__Overview  - the program design__](./design/design.md)
 
     ---
 
@@ -79,6 +80,11 @@ the 121 Platform is following the CVA workflow step-by-step. Find out the instru
 
 </div>
 
-___
-Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
-___
+<!-- markdownlint-enable -->
+
+---
+
+Need further assistance? Contact your dedicated Account Manager
+or reach our [support team via email](mailto:support@121.global).
+
+---
