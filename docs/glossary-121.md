@@ -20,7 +20,7 @@ A list of key terms used in the 121 platform.
 | :------------------    | :------------------------------------------------------------------- |
 | **121 Platform**       | (“one to one”) is a platform that helps project managers by increasing efficiency in setting up and executing a cash program Information Management (IM) system.  |
 | **CVA**                | Cash and Voucher Assistance, referring to Cash Transfer Programming (CTP). |
-| **Project**            | A program created by users in the platform. |
+| **Project**            | A project created by users in the platform. |
 | **FSP**                | Financial Service Provider - an entity that provides financial services, which may include digital payment services.|
 | **Budget**             | Amount of money in the project that will be disbursed to included people/households.|
 | **Registrations**      | People or households that registered, subscribed to a project.|
