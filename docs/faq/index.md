@@ -1,11 +1,8 @@
 ---
-title: Data Protection
+title: Frequently Asked Questions
 hide:
   - toc
 ---
-
-
-
 
 ??? "1. How is the data protected? What is the data protection policy?"
 
@@ -60,7 +57,3 @@ hide:
     **Availability** is protected by using an optimized configuration of resources in Microsoft Azure, including automated back-ups and health checks. Furthermore, automated exception reports are set up, so that in case of service unavailability, the DevOps team can quickly respond. Also, any new code is thoroughly tested using both automated tests and manual tests before going into production.
 
     **Integrity** is protected by extensive testing of the software using various types of automated and also manual tests, and using DBMS-provided integrity functionality with an ERD in 3rd normal form (primary key-foreign key relationships, unique contraints, not null columns, and the like). Malicious attempts at accessing the data are mitigated by daily monitoring of logs and resources and by regular pentests performend by an external company. The whole The Netherlands Red Cross (NLRC) has undersigned the IFRC Code of Conduct and also external contractors do so.
-
-___
-Need further assistance? Contact your dedicated Account Manager or reach our [support team via email](mailto:support@121.global).
-___
