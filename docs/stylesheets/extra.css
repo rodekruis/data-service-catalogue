@@ -1,0 +1,47 @@
+/* Customized Colors */
+:root {
+  --md-primary-fg-color:        #00214D; /* 510 navy */
+  --md-primary-fg-color--light: #CFBFFF;
+  --md-primary-fg-color--dark:  #361A8C;
+}
+
+/**
+ * Reset/Tweak Theme-styles
+ */
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: inherit; /* Prevent jump in text-size */
+}
+
+/* Make sub-headings stand-out from the body-text more (No need for inline-styles/bold/strong) */
+.md-typeset h3 {
+  font-weight: bold;
+}
+
+/* Make screenshots (only inside pages) stand-out more */
+article img {
+  border-radius: 0.375rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.3);
+}
+
+/* Add more specifc details to icons */
+.twemoji.yes {
+  color: green;
+}
+.twemoji.req {
+  color: darkgrey;
+}
+
+/* Select the first column of all tables */
+table td:first-child,
+table th:first-child {
+    /* Set a fixed width for the first column */
+    width: 20%; /* You can adjust the width as needed */
+    /* Optionally add more styling if needed */
+}
+
+/* Ensure table layout respects the specified widths */
+table {
+    table-layout: fixed;
+    width: 100%;
+}
