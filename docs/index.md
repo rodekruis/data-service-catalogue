@@ -5,13 +5,18 @@
 ## Welcome to the 510 Data Service Catalogue!
 
 On the left you can find a navigation overview, or find the information you need by using the search bar on the top right.
+See more about 510 on [our website](https://510.global/).
 
 
 ---
 
-### Thematic Areas
+### What is a Data Service?
 
-the 121 Platform is following the CVA workflow step-by-step. Find out the instructions for each phases your are working on.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta nisi eu mattis sagittis. Sed iaculis faucibus tellus sed malesuada. Nam tempor tortor nulla, et rutrum diam porttitor scelerisque. Nunc non elit sem. Maecenas iaculis dui eros, et dignissim quam placerat id. Nunc at arcu elementum, sagittis lectus ut, volutpat lacus. Sed mi eros, eleifend nec massa quis, varius tempor nulla. Fusce sodales malesuada lorem, eu bibendum lectus. Quisque nec lectus massa. Quisque elementum felis sodales vestibulum gravida. Nam in turpis vel ante lobortis rhoncus et at lectus. Nam porta, enim sed tempor eleifend, risus purus tempor urna, et tristique ante lorem vitae sem.
+
+---
+
+### Thematic Areas
 
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
