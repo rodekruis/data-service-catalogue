@@ -16,35 +16,35 @@ the 121 Platform is following the CVA workflow step-by-step. Find out the instru
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-users-gear:{ .lg .middle } [__Cash & Voucher Assistance__](./cva/index.md)
+-   :fontawesome-solid-money-bill-transfer:{ .lg .middle } [__Cash & Voucher Assistance__](./cva/index.md)
 
     ---
 
     Everything about cash.
 
 
--   :material-book-edit:{ .lg .middle } [__Community Engagement & Accountability__](./cea/index.md)
+-   :fontawesome-solid-people-arrows:{ .lg .middle } [__Community Engagement & Accountability__](./cea/index.md)
 
     ---
 
     Everything about communication.
 
 
--   :material-account-multiple-plus:{ .lg .middle } [__Anticipatory Action__](./aa/index.md)
+-   :fontawesome-solid-magnifying-glass-chart:{ .lg .middle } [__Anticipatory Action__](./aa/index.md)
 
     ---
 
     Everything about anticipatory action.
 
 
--   :fontawesome-solid-people-roof:{ .lg .middle } [__Water & Landscape__](./wl/index.md)
+-   :fontawesome-solid-droplet:{ .lg .middle } [__Water & Landscape__](./wl/index.md)
 
     ---
 
     Everything about WASH and climate.
 
 
--   ::fontawesome-solid-money-bill-transfer:{ .lg .middle } [__Emergency Support__](./es/index.md)
+-   ::fontawesome-solid-person-walking-arrow-right:{ .lg .middle } [__Emergency Support__](./es/index.md)
 
     ---
 
