@@ -59,7 +59,7 @@ the 121 Platform is following the CVA workflow step-by-step. Find out the instru
 
 </div>
 
-<!-- You can also change the language on the top right. -->
+<!-- markdownlint-enable -->
 
 
 ---
