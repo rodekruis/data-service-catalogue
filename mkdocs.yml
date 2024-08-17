@@ -1,6 +1,6 @@
 
-site_name: 121 Platform User Manual
-site_url: https://manual.121.global/
+site_name: 510 Data Service Catalogue
+site_url: https://rodekruis.github.io/data-service-catalogue/
 
 extra_css:
   - stylesheets/extra.css
@@ -30,8 +30,7 @@ theme:
     language: en
     palette:
       primary: custom
-    logo: /assets/img/121Logo.svg
-    favicon: /assets/img/favicon.ico
+    logo: /assets/img/LOGO-510-PLUS-INITIATIVE.jpg
     features:
       - navigation.top
       - navigation.instant
@@ -49,46 +48,14 @@ extra:
 
 nav:
     - 'Home': 'index.md'
-    - 'Support': 'general/support-contact.md'
-    - 'General':
-      - 'Log In': 'general/logging-in.md'
-      - 'Change current password': 'general/change-current-password.md'
-      - 'Reset password': 'general/reset-password.md'
-      - 'Change Language': 'general/change-language.md'
-    - 'Users and Roles' :
-      - 'Users page': 'users/users-roles-page.md'
-      - 'Add Users': 'users/add-users.md'
-      - 'Roles and permissions': 'users/description-roles.md'
-    - 'Program Team':
-      - 'Team page': 'team/team-page.md'
-      - 'Add team members': 'team/add-team-members.md'
-      - 'Change team members roles': 'team/change-team-roles-program.md'
-      - 'Remove team members': 'team/remove-team-members-program.md'
-    - 'Program Design':
-      - 'Program Design page': 'design/design.md'
-      - 'Read & Change Program Design': 'design/read-change-design-details.md'
-    - 'People Affected':
-      - 'People Affected page': 'registration/people-affected-page.md'
-      - 'Import Registration with excel': 'registration/registration-import-list.md'
-      - 'Registration with KOBO form': 'registration/registration-automatic-import-kobo.md'
-      - 'Deduplication': 'registration/registration-deduplication.md'
-      - 'Edit PA profile': 'registration/edit-pa-profile.md'
-      - 'Validate registration': 'registration/registration-validate-pa.md'
-      - 'Decline registration': 'registration/registration-reject-pa.md'
-      - 'Include PA in program': 'registration/inclusion-in-program.md'
-      - 'What if I see empty page': 'registration/registration-list-empty.md'
-    - 'Payment':
-      - 'Payment page': 'payment/payment.md'
-      - 'Issue instant payments': 'payment/issue-payment-integrated-fsp.md'
-      - 'Send manual payment instructions (FSP portal)': 'payment/issue-payment-fsp-portal.md'
-      - 'Reconcile manual payments': 'manual-payment-reconciliation.md'
-      - 'Failed and retry payments': 'failed-retry-payment.md'
-      - 'Pause payments sent to PAs': 'payment/pause-payment-pa.md'
-      - 'Payment statuses in 121': 'payment/list-status-payment-page.md'
-      - 'Payment reporting and activty': 'payment/payment-reporting.md'
-    - 'Evaluation':
-      - 'Evaluation page': 'evaluation/evaluation.md'
-    - 'F.A.Q':
-      - 'Data Protection': 'faq/data-protection.md'
-      - 'Timeline and Integration': 'faq/timeline-121-integration.md'
-      - 'Financial Service Providers (FSP)': 'faq/financial-service-provider.md'
+    - 'Anticipatory Action' : 'aa/index.md'
+    - 'Cash & Voucher Assistance': 'cva/index.md'
+    - 'Community Engagement & Accountability': 'cea/index.md'
+    - 'Emergency Support':
+      - 'About Emergency Services': 'es/index.md'
+      - 'Damage Assessment': 'es/ada.md'
+      - 'Primary Data Management': 'es/primary.md'
+      - 'Secondary Data Management': 'es/secondary.md'
+      - 'Gap Analysis': 'es/gap_analysis.md'
+    - 'Water & Landscape': 'wl/index.md'
+    - 'F.A.Q': 'general/faq.md'
