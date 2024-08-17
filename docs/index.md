@@ -23,14 +23,14 @@ the 121 Platform is following the CVA workflow step-by-step. Find out the instru
     Everything about cash.
 
 
--   :fontawesome-solid-people-arrows:{ .lg .middle } [__Community Engagement & Accountability__](./cea/index.md)
+-   :fontawesome-solid-comments:{ .lg .middle } [__Community Engagement & Accountability__](./cea/index.md)
 
     ---
 
     Everything about communication.
 
 
--   :fontawesome-solid-magnifying-glass-chart:{ .lg .middle } [__Anticipatory Action__](./aa/index.md)
+-   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Anticipatory Action__](./aa/index.md)
 
     ---
 
@@ -44,7 +44,7 @@ the 121 Platform is following the CVA workflow step-by-step. Find out the instru
     Everything about WASH and climate.
 
 
--   ::fontawesome-solid-person-walking-arrow-right:{ .lg .middle } [__Emergency Support__](./es/index.md)
+-   :fontawesome-solid-person-walking-arrow-right:{ .lg .middle } [__Emergency Support__](./es/index.md)
 
     ---
 
