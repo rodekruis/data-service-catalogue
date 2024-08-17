@@ -1,7 +1,7 @@
-# 121 Manual
+# Data Service Catalogue
 
 > [!TIP]
-> Read the manual: <https://manual.121.global>
+> Read the manual: <https://rodekruis.github.io/data-service-catalogue/>
 
 ## Development
 
@@ -37,13 +37,13 @@
 - Open a terminal at this folder to build a Docker-container:
 
   ```sh
-  docker build --tag manual-121 .
+  docker build --tag data-service-catalogue .
   ```
 
 - Run the Docker-container:
 
   ```sh
-  docker run --rm -it -p 8000:8000 -v ${PWD}:/docs manual-121
+  docker run --rm -it -p 8000:8000 -v ${PWD}:/docs data-service-catalogue
   ```
 
 ### Tools in use
