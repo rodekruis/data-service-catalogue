@@ -30,15 +30,19 @@ b)	Informed decision making
 
 c)	Context-specific
 User data input: The tool prompts the user to put in site specific data directly from field reports ensuring that the latest information is available.
+
 d)	Resource optimization
 *	Cost effectiveness: Targeted interventions based on accurate data which improves the cost effectiveness of humanitarian efforts.
 *	Design advice: Based on user inputs, the tool can advise on the most cost-efficient sanitation facility design that maintains a negligible contamination risk.
+
 e)	Community engagement and education
 * Interactive maps and dashboards: the maps produced can be used to engage the community by showing them the contamination risks and the planned interventions in their areas, fostering cooperation and awareness.
 * Training and capacity building: NS staff and volunteers can be trained in the use of the contamination risk tool, empowering them to participate actively in risk management.
+
 f)	Data driven strategic planning
 * Evidence-based strategies: Insights from the contamination risk tool can be used to support the formulation of strategic plans that address contamination risks more effectively and result in the improvement of water, sanitation and health. 
 * Long term planning: Insights from the contamination risk tool can also be used to support long term planning as data is provided on patterns of contamination which is useful in designing sustainable solutions.
+
 g)	Coordination and Collaboration
 * Multi-Agency Coordination: The contamination risk tool can also enhance coordination amongst various humanitarian players (in health, water, sanitation) by providing a shared platform for data and decision-making.
 * Stakeholder Engagement: The tool enables better collaboration with stakeholders, through shared access to spatial data and risk assessments.
@@ -62,4 +66,6 @@ Identifying contamination hotspots based on normalized values per indicator used
 4. Scenario analysis
 Simulate what-if scenarios to evaluate the effectiveness of potential interventions.
 5. Decision support
-Aid decision makers in identifying areas of risk for the prioritization of interventions e.g. determining latrines that are most likely 
+Aid decision makers in identifying areas of risk for the prioritization of interventions e.g. determining latrines that are most likely
+
+## Contact details
