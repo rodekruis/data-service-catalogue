@@ -1,6 +1,5 @@
-# Landscape Restoration Tool
+# Landscape Restoration Tool - Work in progress.
 
-*Work in progress.*
 Degraded landscapes significantly impact the ecological, economic, and social well-being of a region. Therefore, initiatives to restore landscapes not only contribute to environmental health but also unlock new opportunities, financial capital, and enhanced security for communities. Our landscape restoration tool leverages satellite imagery and advanced technology to monitor and quantify landscape changes over time, providing critical insights for those working on ecological restoration. We deploy this tool in collaboration with humanitarian partners, enabling them to effectively track and assess the progress of their landscape restoration efforts.
 
 Below, we provide further details on how this service works, the challenges it addresses, and its applications.
