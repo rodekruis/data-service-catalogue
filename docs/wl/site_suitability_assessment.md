@@ -13,7 +13,7 @@ This service can:
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-money-bill-transfer:{ .lg .middle } [__Contamination Risk Tool__](./wl/contamination_risk_tool)
+-   :fontawesome-solid-money-bill-transfer:{ .lg .middle } [__Contamination Risk Tool__](./wl/contamination_risk_tool/index.md)
 
     ---
 
