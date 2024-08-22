@@ -27,3 +27,9 @@ See more about our data and digital products & services in other thematic areas 
     ---
 
     Everything about site selection to identifying efficient locations for borehole drilling.
+
+-   :fontawesome-solid-droplet:{ .lg .middle } [__enhanced Vulnerability and Capacity Assessment_(eVCA)_](contamination_risk_tool/index.md)
+
+    ---
+
+    Everything about site selection to identifying efficient locations for borehole drilling.
