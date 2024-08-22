@@ -46,7 +46,7 @@ Landscape restoration monitoring involves four steps:
 4. Decision support: Provide insights into the improvements in landscape restoration over time and support NS with evaluating the effectiveness of their restoration interventions.
 
 <img
-  src="[/path/to/img.jpg](https://github.com/rodekruis/data-service-catalogue/blob/main/docs/assets/img/lrt_method.jpg)"
+  src="https://github.com/rodekruis/data-service-catalogue/blob/main/docs/assets/img/lrt_method.jpg"
   alt="Alt text"
   title="Landscape Restoration Tool"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
