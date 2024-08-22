@@ -4,7 +4,7 @@
 <!-- markdownlint-disable-next-line no-trailing-punctuation -->
 ## Welcome to the 510 Data Service Catalogue!
 
-Welcome to the Data Service Catalogue, an overview of the data-driven solutions we offer at 510. This catalogue is designed to provide our partners with a clear and detailed overview of our services, helping you understand what to expect from us and how these services can be tailored to meet your specific needs.
+Welcome to the Data Service Catalogue, an overview of the data services we offer at 510. This catalogue is designed to provide our partners with a clear and detailed overview of our services, helping you understand what to expect from us and how these services can be tailored to meet your specific needs.
 
 The catalogue not only highlights the range of services available but also delves into the methodologies we use, the expected outcomes, and the technical requirements necessary for successful implementation. It is a valuable tool for business developers, project officers, program officers, and other key stakeholders to make informed decisions about when and how to incorporate our services into their operations.
 
@@ -18,7 +18,9 @@ See more about 510 on [our website](https://510.global/).
 
 ### What is a Data Service?
 
-A data service represents a tailored solution contextualized for one organization, solving a specific problem and following a standardized methodology, within a project's timeline, budget and quality criteria.  In general, it covers a spectrum of offerings, ranging from technical assistance and capacity building to the development of sustainable data management solutions. A data service is ultimately aimed at ensuring that data-driven decision-making remains at the forefront of their operations. Moreover, a data service actively involves hands-on assistance, peer-to-peer learning, maintaining of services and continuing collaboration to empower stakeholders in harnessing the full potential of data for impactful humanitarian action.  
+A data service represents a tailored solution contextualized for one organization, solving a specific problem and following a standardized methodology, within a project's timeline, budget and quality criteria.  In general, it covers a spectrum of offerings, ranging from technical assistance and capacity building to the development of sustainable data management solutions. 
+
+A data service is ultimately aimed at ensuring that data-driven decision-making remains at the forefront of their operations. Moreover, a data service actively involves hands-on assistance, peer-to-peer learning, maintaining of services and continuing collaboration to empower stakeholders in harnessing the full potential of data for impactful humanitarian action.  
 
 ---
 
