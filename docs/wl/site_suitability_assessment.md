@@ -9,6 +9,14 @@ This service can:
 + assess the suitability of a site to host vaccination campaigns, considering factors such as population density and shelter options
 + help design a latrine based on the risk that it might pollute a water source.
 
+Landscape restoration monitoring involves four steps:
+
+1. Problem analysis:Together with the NS, identify the challenges the communities are facing with regards to landscape degradation and ecosystem loss. Based on this, formulate the objective of the restoration monitoring and identify the region of interest.
+2. Indicator definition: Identify the relevant indicators based on the local context.
+3. Data processing, analysis and visualization: Load and process available satellite imagery for the area of interest. Overlay the satellite images with shapefiles of areas that are undergoing reforestation. Create a graph that calculates the vegetation index per reforestation area, and the difference between compared dates.
+4. Decision support: Provide insights into the improvements in landscape restoration over time and support NS with evaluating the effectiveness of their restoration interventions.
+
+
 See more about our data and digital products & services in other thematic areas on **[our website](https://510.global/)**, including the latest blog posts and case-studies.
 
 
