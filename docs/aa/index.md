@@ -7,3 +7,5 @@ Anticipatory Action refers to the actions taken to reduce the humanitarian impac
 By turning forecasts from descriptions of what the weather will be into assessments of what the weather will do, we enable National Societies and local humanitarian partners to leverage data and technology to make data-driven, life-saving decisions and act before disasters strike.  
 
 Impact Based Forecasting (IBF) is a process of collecting and integrating data to predict the impact of impending disasters on local communities. ​It enables anticipatory actions to mitigate the risks posed by climate-induced extreme weather. 
+
+See more about Anticipatory Action on **[our website](https://510.global/anticipatory-action/)**, including the latest blog posts and case-studies. 
