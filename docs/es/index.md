@@ -10,4 +10,4 @@
 
 We support humanitarian partners in emergencies with digital solutions and highly skilled experts. We are there as soon as it is needed, for as long as it is needed. 
 
-See more about Emergency Response Support on [our website](https://510.global/emergency-support/), including the latest blog posts and case-studies.
+See more about Emergency Response Support on **[our website](https://510.global/emergency-support/)**, including the latest blog posts and case-studies.
