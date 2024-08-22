@@ -6,7 +6,7 @@ Below, we provide further details on how this service works, the challenges it a
 
 See more about our services in other thematic areas on **[our website](https://510.global/services/)**, including the latest blog posts and case-studies. 
 
-#### **Challenge - problem statement**
+### Challenge - problem statement
 Globally, land quality is deteriorating, diminishing its capacity to provide essential ecosystem services for human survival. Land degradation is a prolonged loss of ecosystem function and services due to disturbances that the system cannot recover from on its own (UNEP, 2007).  
 
 It is estimated that 1.5 billion people worldwide are directly affected by land degradation (UNCCD, 2013). Extreme climatic events, land use changes, deforestation among others are increasing the need for landscape restoration.  
@@ -15,15 +15,15 @@ Restoring degraded land generates numerous benefits for people, nature, and busi
 
 Red Cross National Societies work on restoration activities within their chronic crisis programs to support sustainable livelihoods. 
 
-#### **Need**
+### Need
 Restoration of landscapes can contribute towards improved food security, poverty alleviation as well as promote water, human health and biodiversity conservation. Halting and reversing degradation as well as restoring landscapes can result in hundreds of millions of hectares restored to a productive state.  
 
 In the context of Red Cross national societies and partners national societies, engaging in restoration initiatives enhances the resilience of communities exposed to food insecurity and disaster risk.  
 
-## Solution
+### Solution
 Increased availability and access to high-resolution satellite imagery has allowed for the ability to examine and analyze large landscapes in higher detail. The high-resolution imagery plus advanced satellite technologies can be leveraged to monitor landscape restoration initiatives.  
 
-## Land Restoration Tool
+### Land Restoration Tool
 A landscape restoration tool has been developed by 510 to support NS’s and PNS’s in the monitoring of restoration activities. The tool is adapted from an existing GIS software to monitor the green mass implemented in an area based on a set of identified indicators on the national/regional level available for any tree coverage/planting activity. 
 
 Benefits of using the landscape restoration tool
@@ -36,10 +36,10 @@ The landscape restoration tool is a useful decision support tool that can be dep
 4. Accessibility & Sustainability: The tool makes use of indicators that are tailored to the local context and NS’s are trained on the deployment of the tool for the monitoring of their restoration initiatives. Satellite data can also be accessed remotely, making it easier for stakeholders around the world to collaborate and make informed decisions.
 5. Decision support: The landscape restoration tool provides insights into changes that have occurred over time allowing for historical comparisons and also assessment of the effectiveness of restoration efforts. 
 
-## Application
+### Application
 The landscape restoration tool has been applied in Jacmel district, Haiti. Haiti is in a persistent socio-political crisis resulting in an increasing vulnerability of the population. The application of the tool is aimed at enhancing the resilience of communities exposed to food insecurity and disaster risk in the Southeast Region, Jacmel district. Specifically, watershed management is required. Due to the steep slopes and lack of vegetative cover, the basin is exposed to high erosion and surface water run-off that can put communities at risk. A current intervention by the Haitian red cross is a reforestation program, but the benefits of this program needs to be monitored with a digital (satellite imagery based) tool
 
-## Methodology 
+### Methodology 
 Landscape restoration monitoring involves four steps:
 
 1. **Problem analysis**:Together with the NS, identify the challenges the communities are facing with regards to landscape degradation and ecosystem loss.  Based on this, formulate the objective of the restoration monitoring and identify the region of interest.
@@ -49,5 +49,5 @@ Landscape restoration monitoring involves four steps:
 
 ![Alt text](https://github.com/rodekruis/data-service-catalogue/blob/main/docs/assets/img/lrt_method.jpg "Landscape Restoration Tool")
 
-## Contact Details
+### Contact Details
 To learn more about how our landscape restoration tool can support your organization's efforts, please contact us at [Contact Information]
