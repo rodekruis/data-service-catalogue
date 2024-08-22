@@ -1,7 +1,5 @@
 # Contamination Risk Tool 
 
-* work in progress*.
-
 Globally, at least 1.7 billion people use contaminated drinking water, leading to diseases like diarrhea, cholera and typhoid, and causing around 505,000 diarrheal deaths annually .  Access to water for drinking and domestic uses that is safe and acceptable to users is a basic right recognized by the human rights council. The sustainable development goal 6 also highlights to ensure available and sustainable management of water and sanitation for all. 
 
 Safely managed drinking water services need to be free from contamination. Poor sanitation and contaminated water are associated with transmission of diseases such as cholera, diarrhea, dysentery, which pose preventable health risks. 
@@ -25,9 +23,11 @@ Benefits of using the tool include:
 a)	Spatial analysis
 * Visualization of contamination risk areas: Mapping of contamination hotspots showing the spatial distribution of ground and water features that can increase the risk of a latrine polluting a water source.
 * Data Integration: Contamination risk is based on the integration of various geospatial datasets (e.g. elevation, water depth, geology) which provides a comprehensive view of contamination risk
+
 b)	Informed decision making
 * Support in prioritization of interventions: Aid decision makers in visually assessing which areas are most at risk of contamination in order to design and prioritize interventions accordingly. For instance, by allocating resources to locations with the highest contamination risk.
-* Scenario analysis: Simulation of various scenarios, for instance to assess the impact of relocating a latrine or improving latrine design in a particular area. This helps decision makers to evaluate the effectiveness of potential interventions. 
+* Scenario analysis: Simulation of various scenarios, for instance to assess the impact of relocating a latrine or improving latrine design in a particular area. This helps decision makers to evaluate the effectiveness of potential interventions.
+
 c)	Context-specific
 User data input: The tool prompts the user to put in site specific data directly from field reports ensuring that the latest information is available.
 d)	Resource optimization
