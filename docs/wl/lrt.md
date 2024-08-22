@@ -49,9 +49,7 @@ Landscape restoration monitoring involves four steps:
   src="https://github.com/rodekruis/data-service-catalogue/blob/main/docs/assets/img/lrt_method.jpg"
   alt="Alt text"
   title="Landscape Restoration Tool"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-
-![alt text](https://github.com/rodekruis/data-service-catalogue/blob/main/docs/assets/img/lrt_method.jpg) 
+  style="display: inline-block; margin: 0 auto; max-width: 150px">
 
 ## Contact Details
 To learn more about how our landscape restoration tool can support your organization's efforts, please contact us at [Contact Information]
