@@ -4,7 +4,7 @@ Degraded landscapes significantly impact the ecological, economic, and social we
 
 Below, we provide further details on how this service works, the challenges it addresses, and its applications.
 
-See more about Water & Landscape on **[our website](https://510.global/water-and-landscape)**, including the latest blog posts and case-studies. 
+See more about our services in other thematic areas on **[our website](https://510.global/services/)**, including the latest blog posts and case-studies. 
 
 ## Challenge - problem statement
 Globally, land quality is deteriorating, diminishing its capacity to provide essential ecosystem services for human survival. Land degradation is a prolonged loss of ecosystem function and services due to disturbances that the system cannot recover from on its own (UNEP, 2007).  
