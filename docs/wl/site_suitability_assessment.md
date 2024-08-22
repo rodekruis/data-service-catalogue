@@ -13,8 +13,8 @@ This service can:
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-droplet:{ .lg .middle } [__Contamination Risk Tool__](.docs/wl/contamination_risk_tool/index.md)
+-   :fontawesome-solid-droplet:{ .lg .middle } [__Water & Landscape__](./wl/index.md)
 
     ---
 
-    Everything about contamination Risk Tool
+    Everything about WASH and climate.
