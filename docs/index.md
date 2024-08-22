@@ -4,9 +4,15 @@
 <!-- markdownlint-disable-next-line no-trailing-punctuation -->
 ## Welcome to the 510 Data Service Catalogue!
 
-On the left you can find a navigation overview, or find the information you need by using the search bar on the top right.
-See more about 510 on [our website](https://510.global/).
+Welcome to the Data Service Catalogue, an overview of the data-driven solutions we offer at 510. This catalogue is designed to provide our partners with a clear and detailed overview of our services, helping you understand what to expect from us and how these services can be tailored to meet your specific needs.
 
+The catalogue not only highlights the range of services available but also delves into the methodologies we use, the expected outcomes, and the technical requirements necessary for successful implementation. It is a valuable tool for business developers, project officers, program officers, and other key stakeholders to make informed decisions about when and how to incorporate our services into their operations.
+
+Our goal is to empower our parterners with credible, impactful solutions that can confidently be promoted within their networks. Whether you're looking to share this information with colleagues, seeking to align a service with your particular context, or ready to initiate a collaboration, the Data Service Catalogue serves as your starting point.
+
+For a detailed exploration of our offerings, use the navigation menu on the left, or quickly locate specific information with the search bar at the top right. Should you need further assistance, don't hesitate to contact us for more information or to discuss how we can tailor our services to your context.
+
+See more about 510 on [our website](https://510.global/).
 
 ---
 
