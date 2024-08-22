@@ -16,25 +16,25 @@ See more about Emergency Response Support on **[our website](https://510.global/
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
   
--   :fontawesome-solid-person-walking-arrow-right:{ .lg .middle } [__Emergency Support__](ada.md)
+-   :fontawesome-solid-person-walking-arrow-right:{ .lg .middle } [__Automated Damage Assessment__](ada.md)
 
     ---
 
     Anything you need in an emergency.
 
--   :fontawesome-solid-person-walking-arrow-right:{ .lg .middle } [__Emergency Support__](gap_analysis.md)
+-   :fontawesome-solid-person-walking-arrow-right:{ .lg .middle } [__Gap Analysis__](gap_analysis.md)
 
     ---
 
     Anything you need in an emergency.
 
--   :fontawesome-solid-person-walking-arrow-right:{ .lg .middle } [__Emergency Support__](primary.md)
+-   :fontawesome-solid-person-walking-arrow-right:{ .lg .middle } [__Primary Data Management__](primary.md)
 
     ---
 
     Anything you need in an emergency.
 
-    -   :fontawesome-solid-person-walking-arrow-right:{ .lg .middle } [__Emergency Support__](secondary.md)
+    -   :fontawesome-solid-person-walking-arrow-right:{ .lg .middle } [__Secondary Data Management__](secondary.md)
 
     ---
 
