@@ -3,4 +3,4 @@ The  Water & Landscape thematic area supports implementing partners in mitigatin
 
 We work with our humanitarian partners to improve the way decisions are made in order to build more climate resilient communities. This is achieved through the application of data and digital technologies that build evidence to identify areas of environmental and humanitarian concern and promote nature-based solutions. 
 
-See more about Water & Landscape on our website, including the latest blog posts and case-studies. [our website]([https://510.global/water-and-landscape/]). 
+See more about Water & Landscape on [our website](https://510.global/water-and-landscape), including the latest blog posts and case-studies. 
