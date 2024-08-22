@@ -16,7 +16,7 @@ See more about Emergency Response Support on **[our website](https://510.global/
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
   
--   :fontawesome-solid-person-walking-arrow-right:{ .lg .middle } [__Automated Damage Assessment__](ada.md)
+-   :fontawesome-solid-person-walking-arrow-right:{ .lg .middle } [__Damage Assessment__](ada.md)
 
     ---
 
