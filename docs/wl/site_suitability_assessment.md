@@ -8,6 +8,8 @@ This service can:
 * assess the suitability of a site to host vaccination campaigns, considering factors such as population density and shelter options
 * help design a latrine based on the risk that it might pollute a water source.
 
+For latest blog posts check out our website
+
 
 ## Type of Assessments
 
@@ -19,3 +21,9 @@ This service can:
     ---
 
     Everything about Contamination Risk Tool.
+
+-   :fontawesome-solid-droplet:{ .lg .middle } [__Borehole Assessment__](contamination_risk_tool/index.md)
+
+    ---
+
+    Everything about site selection to identifying efficient locations for borehole drilling.
