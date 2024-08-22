@@ -13,7 +13,7 @@ This service can:
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-droplet:{ .lg .middle } [__Contamination Risk Tool__](./wl/index.md)
+-   :fontawesome-solid-droplet:{ .lg .middle } [__Contamination Risk Tool__](.contamination_risk_tool/index.md)
 
     ---
 
