@@ -39,17 +39,13 @@ The landscape restoration tool has been applied in Jacmel district, Haiti. Haiti
 
 ## Methodology 
 Landscape restoration monitoring involves four steps:
-1. Problem analysis
-Together with the NS, identify the challenges the communities are facing with regards to landscape degradation and ecosystem loss.  Based on this, formulate the objective of the restoration monitoring and identify the region of interest.
-2. Indicator definition
-Identify the relevant indicators based on the local context. 
-3. Data processing, analysis and visualization
-Load and process available satellite imagery for the area of interest. Overlay the satellite images with shapefiles of areas that are undergoing reforestation. Create a graph that calculates the vegetation index per reforestation area, and the difference between compared dates.
+
+1. Problem analysis: Together with the NS, identify the challenges the communities are facing with regards to landscape degradation and ecosystem loss.  Based on this, formulate the objective of the restoration monitoring and identify the region of interest.
+2. Indicator definition: Identify the relevant indicators based on the local context.
+3. Data processing, analysis and visualization: Load and process available satellite imagery for the area of interest. Overlay the satellite images with shapefiles of areas that are undergoing reforestation. Create a graph that calculates the vegetation index per reforestation area, and the difference between compared dates.
+4. Decision support: Provide insights into the improvements in landscape restoration over time and support NS with evaluating the effectiveness of their restoration interventions.
 
 ![alt text](https://github.com/rodekruis/data-service-catalogue/blob/main/docs/assets/img/lrt_method.jpg) 
-
-5. Decision support
-Provide insights into the improvements in landscape restoration over time and support NS with evaluating the effectiveness of their restoration interventions.
 
 ## Contact Details
 To learn more about how our landscape restoration tool can support your organization's efforts, please contact us at [Contact Information]
