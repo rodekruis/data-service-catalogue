@@ -28,7 +28,7 @@ See more about our data and digital products & services in other thematic areas 
 
     Everything about site selection to identifying efficient locations for borehole drilling.
 
--   :fontawesome-solid-droplet:{ .lg .middle } [__Borehole Assessment__]
+-   :fontawesome-solid-droplet:{ .lg .middle } [__enhanved Vulnerability and Capacity Assessment__]
 
     ---
 
