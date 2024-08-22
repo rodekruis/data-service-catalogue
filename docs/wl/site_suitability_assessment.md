@@ -8,6 +8,7 @@ This service can:
 * assess the suitability of a site to host vaccination campaigns, considering factors such as population density and shelter options
 * help design a latrine based on the risk that it might pollute a water source.
 
+
 ## Type of Assessments
 
 <!-- markdownlint-disable -->
