@@ -18,7 +18,7 @@ See more about 510 on [our website](https://510.global/).
 
 ### What is a Data Service?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta nisi eu mattis sagittis. Sed iaculis faucibus tellus sed malesuada. Nam tempor tortor nulla, et rutrum diam porttitor scelerisque. Nunc non elit sem. Maecenas iaculis dui eros, et dignissim quam placerat id. Nunc at arcu elementum, sagittis lectus ut, volutpat lacus. Sed mi eros, eleifend nec massa quis, varius tempor nulla. Fusce sodales malesuada lorem, eu bibendum lectus. Quisque nec lectus massa. Quisque elementum felis sodales vestibulum gravida. Nam in turpis vel ante lobortis rhoncus et at lectus. Nam porta, enim sed tempor eleifend, risus purus tempor urna, et tristique ante lorem vitae sem.
+A data service represents a tailored solution contextualized for one organization, solving a specific problem and following a standardized methodology, within a project's timeline, budget and quality criteria.  In general, it covers a spectrum of offerings, ranging from technical assistance and capacity building to the development of sustainable data management solutions. A data service is ultimately aimed at ensuring that data-driven decision-making remains at the forefront of their operations. Moreover, a data service actively involves hands-on assistance, peer-to-peer learning, maintaining of services and continuing collaboration to empower stakeholders in harnessing the full potential of data for impactful humanitarian action.  
 
 ---
 
