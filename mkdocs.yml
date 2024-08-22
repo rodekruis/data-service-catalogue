@@ -57,5 +57,9 @@ nav:
       - 'Primary Data Management': 'es/primary.md'
       - 'Secondary Data Management': 'es/secondary.md'
       - 'Gap Analysis': 'es/gap_analysis.md'
-    - 'Water & Landscape': 'wl/index.md'
+    - 'Water & Landscape':
+      - 'About Water & Landscape Services': 'wl/index.md'
+      - 'Landscape Restoration Tool': 'wl/lrt.md'
+      - 'Nature-Based Solution Assessment': 'wl/nbs_assessment.md'
+      - 'Site Suitability Assessment': 'wl/site_suitability_assessment.md'
     - 'F.A.Q': 'general/faq.md'
