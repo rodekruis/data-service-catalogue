@@ -34,7 +34,19 @@ The landscape restoration tool is a useful decision support tool that can be dep
 4. Accessibility & Sustainability: The tool makes use of indicators that are tailored to the local context and NS’s are trained on the deployment of the tool for the monitoring of their restoration initiatives. Satellite data can also be accessed remotely, making it easier for stakeholders around the world to collaborate and make informed decisions.
 5. Decision support: The landscape restoration tool provides insights into changes that have occurred over time allowing for historical comparisons and also assessment of the effectiveness of restoration efforts. 
 
+## Application
+The landscape restoration tool has been applied in Jacmel district, Haiti. Haiti is in a persistent socio-political crisis resulting in an increasing vulnerability of the population. The application of the tool is aimed at enhancing the resilience of communities exposed to food insecurity and disaster risk in the Southeast Region, Jacmel district. Specifically, watershed management is required. Due to the steep slopes and lack of vegetative cover, the basin is exposed to high erosion and surface water run-off that can put communities at risk. A current intervention by the Haitian red cross is a reforestation program, but the benefits of this program needs to be monitored with a digital (satellite imagery based) tool
+
 ## Methodology 
+Landscape restoration monitoring involves four steps:
+1. Problem analysis
+Together with the NS, identify the challenges the communities are facing with regards to landscape degradation and ecosystem loss.  Based on this, formulate the objective of the restoration monitoring and identify the region of interest.
+2. Indicator definition
+Identify the relevant indicators based on the local context. 
+3. Data processing, analysis and visualization
+Load and process available satellite imagery for the area of interest. Overlay the satellite images with shapefiles of areas that are undergoing reforestation. Create a graph that calculates the vegetation index per reforestation area, and the difference between compared dates.
+4. Decision support
+Provide insights into the improvements in landscape restoration over time and support NS with evaluating the effectiveness of their restoration interventions.
 
 ## Contact Details
 To learn more about how our landscape restoration tool can support your organization's efforts, please contact us at [Contact Information]
