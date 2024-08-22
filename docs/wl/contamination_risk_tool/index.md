@@ -4,18 +4,18 @@ Globally, at least 1.7 billion people use contaminated drinking water, leading t
 
 Safely managed drinking water services need to be free from contamination. Poor sanitation and contaminated water are associated with transmission of diseases such as cholera, diarrhea, dysentery, which pose preventable health risks. 
 
-## Challenge - problem statement
+### Challenge - problem statement
 For many refugees or internally displaced persons (IDPs) living in refugee camps or densely populated places, access to clean water and sanitation can be extremely difficult or often below minimum standards which increases the risk of diseases and infections. In order to ensure that water and sanitation needs are adequately met, humanitarian teams need evidence based tools/data driven insights/spatial decision support tools to ensure water safety in refugee and IDP settlements. 
 
-## Need
+### Need
 For many refugees or internally displaced persons (IDPs) living in refugee camps or densely populated places, access to clean water and sanitation can be extremely difficult or often below minimum standards which increases the risk of diseases and infections. In order to ensure that water and sanitation needs are adequately met, humanitarian teams need evidence based tools/data driven insights/spatial decision support tools to ensure water safety in refugee and IDP settlements. 
 
-## Solution
+### Solution
 A contamination risk tool utilizing routinely collected WASH (Water, Sanitation, and Hygiene) data is invaluable for identifying (potential) contamination levels and supporting the development of improvement plans. 
 
 By pinpointing safe locations for new latrines and prioritizing latrines that need to be retrofitted, this tool can reduce the risk of water contamination and enhance access to safe water, reducing waterborne diseases in humanitarian crises. Consequently, the tool can support in significantly mitigating water contamination risks, disease spread and environmental pollution. 
 
-## Contamination Risk Tool
+### Contamination Risk Tool
 Incorporating the contamination risk tool within the context of providing humanitarian support ensures the leveraging of geospatial data and technologies to support informed management of latrines in refugee and IDP locations. 
 
 Benefits of using the tool include:
@@ -47,7 +47,7 @@ g)	Coordination and Collaboration
 * Multi-Agency Coordination: The contamination risk tool can also enhance coordination amongst various humanitarian players (in health, water, sanitation) by providing a shared platform for data and decision-making.
 * Stakeholder Engagement: The tool enables better collaboration with stakeholders, through shared access to spatial data and risk assessments.
 
-## Application
+### Application
 The contamination risk tool has been applied in Rhino camp, a refugee settlement located in North Western Uganda. 
 
 Rhino camp is one of the major Uganda camps accommodating southern Sudanese refugees and is situated on the fringe of the country’s largest park. 
@@ -55,7 +55,8 @@ Uganda is hosting over 1 million refugees, with about 131,766 of them settled in
 
 To improve WASH service delivery efficiently and effectively in the settlement, there is a need for accurate and reliable information on which to base programmatic decisions.
 
-## Methodology
+### Methodology
+
 Assessment of contamination risk involves five steps:
 
 1. **Problem definition** Defining the problem and the objective of carrying out a contamination risk assessment e.g. identify water sources at risk of contamination from latrines.
@@ -64,4 +65,5 @@ Assessment of contamination risk involves five steps:
 4. **Scenario analysis** Simulate what-if scenarios to evaluate the effectiveness of potential interventions.
 5. **Decision support** Aid decision makers in identifying areas of risk for the prioritization of interventions e.g. determining latrines that are most likely
 
-## Contact details
+### Contact details
+To learn more about how our contamination Risk Tool can support your organization's efforts, please contact us at [Contact Information]
