@@ -57,15 +57,15 @@ To improve WASH service delivery efficiently and effectively in the settlement, 
 
 ## Methodology
 Assessment of contamination risk involves five steps:
-1. Problem definition
+1. **Problem definition**
 Defining the problem and the objective of carrying out a contamination risk assessment e.g. identify water sources at risk of contamination from latrines.
-2. Data collection & analysis
+2. **Data collection & analysis**
 Collection of spatial and non-spatial datasets used for analysis to derive the final contamination risk score. Input datasets include indicators on elevation, water table depth, soil and geological properties.
-3. Contamination risk mapping
+3. **Contamination risk mapping**
 Identifying contamination hotspots based on normalized values per indicator used to generate an aggregated contamination risk score between 0-1.
-4. Scenario analysis
+4. **Scenario analysis**
 Simulate what-if scenarios to evaluate the effectiveness of potential interventions.
-5. Decision support
+5. **Decision support**
 Aid decision makers in identifying areas of risk for the prioritization of interventions e.g. determining latrines that are most likely
 
 ## Contact details
