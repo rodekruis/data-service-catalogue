@@ -32,4 +32,4 @@ See more about our data and digital products & services in other thematic areas 
 
     ---
 
-    Everything about site selection to identifying efficient locations for borehole drilling.
+    Everything about our support to the IFRC's eVCA for participatory community risk assessment.
