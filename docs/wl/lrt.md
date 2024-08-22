@@ -6,7 +6,7 @@ Below, we provide further details on how this service works, the challenges it a
 
 See more about our services in other thematic areas on **[our website](https://510.global/services/)**, including the latest blog posts and case-studies. 
 
-## Challenge - problem statement
+#### **Challenge - problem statement**
 Globally, land quality is deteriorating, diminishing its capacity to provide essential ecosystem services for human survival. Land degradation is a prolonged loss of ecosystem function and services due to disturbances that the system cannot recover from on its own (UNEP, 2007).  
 
 It is estimated that 1.5 billion people worldwide are directly affected by land degradation (UNCCD, 2013). Extreme climatic events, land use changes, deforestation among others are increasing the need for landscape restoration.  
@@ -15,7 +15,7 @@ Restoring degraded land generates numerous benefits for people, nature, and busi
 
 Red Cross National Societies work on restoration activities within their chronic crisis programs to support sustainable livelihoods. 
 
-## Need
+#### **Need**
 Restoration of landscapes can contribute towards improved food security, poverty alleviation as well as promote water, human health and biodiversity conservation. Halting and reversing degradation as well as restoring landscapes can result in hundreds of millions of hectares restored to a productive state.  
 
 In the context of Red Cross national societies and partners national societies, engaging in restoration initiatives enhances the resilience of communities exposed to food insecurity and disaster risk.  
