@@ -10,19 +10,19 @@ See more about Water & Landscape on **[our website](https://510.global/water-and
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-droplet:{ .lg .middle } [__Landscape Restoration Tool__](lrt/index.md)
+-   :fontawesome-solid-droplet:{ .lg .middle } [__Landscape Restoration Tool__](lrt.md)
 
     ---
 
      Everything about our support to provide critical insights for those working on ecological restoration.
 
--   :fontawesome-solid-droplet:{ .lg .middle } [__Nature based Solution Assessment__](nbs_assessment/index.md)
+-   :fontawesome-solid-droplet:{ .lg .middle } [__Nature based Solution Assessment__](nbs_assessment.md)
 
     ---
 
     Everything about our support to enhancing the resilience of both people and nature.
 
--   :fontawesome-solid-droplet:{ .lg .middle } [__Site Suitability Assessment__](site_suitability_assessment/index.md)
+-   :fontawesome-solid-droplet:{ .lg .middle } [__Site Suitability Assessment__](site_suitability_assessment.md)
 
     ---
 
