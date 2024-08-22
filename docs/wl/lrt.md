@@ -29,11 +29,11 @@ Benefits of using the landscape restoration tool
 
 The landscape restoration tool is a useful decision support tool that can be deployed by NS and PNS’ in their identification of areas requiring interventions and prioritization of areas to implement restoration initiatives as well as monitoring the success of the restoration initiatives. The tool offers benefits such as: 
 
-a). Large scale monitoring: Use of the tool allows for large-scale detection of deforestation and reforestation in real-time resulting in the identification of changes in tree cover that would otherwise be undetected using traditional observational methods. 
-b). Spatial visualization: The tool, which uses high-resolution satellite images, provides visual data that can be used by NS and PNS’ to pinpoint specific locations and extent of forest loss or gain.
-c). Cost-effectiveness: The tool uses free and openly sourced software Google earth engine and its split app functionality. In addition to this, the use of satellite monitoring provides cost advantages compared to labor intensive onsite inspections. 
-d). Accessibility & Sustainability: The tool makes use of indicators that are tailored to the local context and NS’s are trained on the deployment of the tool for the monitoring of their restoration initiatives. Satellite data can also be accessed remotely, making it easier for stakeholders around the world to collaborate and make informed decisions.
-e). Decision support: The landscape restoration tool provides insights into changes that have occurred over time allowing for historical comparisons and also assessment of the effectiveness of restoration efforts. 
+1. Large scale monitoring: Use of the tool allows for large-scale detection of deforestation and reforestation in real-time resulting in the identification of changes in tree cover that would otherwise be undetected using traditional observational methods.
+2. Spatial visualization: The tool, which uses high-resolution satellite images, provides visual data that can be used by NS and PNS’ to pinpoint specific locations and extent of forest loss or gain.
+3. Cost-effectiveness: The tool uses free and openly sourced software Google earth engine and its split app functionality. In addition to this, the use of satellite monitoring provides cost advantages compared to labor intensive onsite inspections.
+4. Accessibility & Sustainability: The tool makes use of indicators that are tailored to the local context and NS’s are trained on the deployment of the tool for the monitoring of their restoration initiatives. Satellite data can also be accessed remotely, making it easier for stakeholders around the world to collaborate and make informed decisions.
+5. Decision support: The landscape restoration tool provides insights into changes that have occurred over time allowing for historical comparisons and also assessment of the effectiveness of restoration efforts. 
 
 ## Methodology 
 
