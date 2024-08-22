@@ -33,8 +33,9 @@ See more about Emergency Response Support on **[our website](https://510.global/
     ---
 
     Anything you need in an emergency.
+    
 
-    -   :fontawesome-solid-person-walking-arrow-right:{ .lg .middle } [__Secondary Data Management__](secondary.md)
+-   :fontawesome-solid-person-walking-arrow-right:{ .lg .middle } [__Secondary Data Management__](secondary.md)
 
     ---
 
