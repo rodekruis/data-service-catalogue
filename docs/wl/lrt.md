@@ -45,6 +45,12 @@ Landscape restoration monitoring involves four steps:
 3. Data processing, analysis and visualization: Load and process available satellite imagery for the area of interest. Overlay the satellite images with shapefiles of areas that are undergoing reforestation. Create a graph that calculates the vegetation index per reforestation area, and the difference between compared dates.
 4. Decision support: Provide insights into the improvements in landscape restoration over time and support NS with evaluating the effectiveness of their restoration interventions.
 
+<img
+  src="[/path/to/img.jpg](https://github.com/rodekruis/data-service-catalogue/blob/main/docs/assets/img/lrt_method.jpg)"
+  alt="Alt text"
+  title="Landscape Restoration Tool"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 ![alt text](https://github.com/rodekruis/data-service-catalogue/blob/main/docs/assets/img/lrt_method.jpg) 
 
 ## Contact Details
