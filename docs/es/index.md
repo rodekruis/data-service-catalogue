@@ -13,9 +13,9 @@ We support humanitarian partners in emergencies with digital solutions and highl
 See more about Emergency Response Support on **[our website](https://510.global/emergency-support/)**, including the latest blog posts and case-studies.
 
 ### Data Services
-
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
+  
 -   :fontawesome-solid-person-walking-arrow-right:{ .lg .middle } [__Emergency Support__](ada.md)
 
     ---
