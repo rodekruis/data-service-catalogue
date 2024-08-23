@@ -40,31 +40,31 @@ See more about Anticipatory Action on **[our website](https://510.global/anticip
 
     Everything about our assistance to predict potential impacts more accurately based on hazard, exposure and vulnerability data.
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Expert consultation during EAP activation__](trigger_design.md)
+-   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Expert consultation during EAP activation__](eap_activation.md)
 
     ---
 
     Everything about our expert consultation to support effective EAP implementation for National Societies and other stakeholders
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Early Action Protocol (EAP) development__](trigger_design.md)
+-   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Early Action Protocol (EAP) development__](eap_development.md)
 
     ---
 
     Everything about the design and development of data-driven EAPs grounded in robust risk assessments
 
- -   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Scenario Planning and Simulation__](trigger_design.md)
+ -   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Scenario Planning and Simulation__](scenario_planning.md)
 
     ---
 
     Everything about the Development of simulation tools for stakeholders to model the EAP. 
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Predictive Analytics and Modeling__](trigger_design.md)
+-   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Predictive Analytics and Modeling__](predictive_analytics.md)
 
     ---
 
     Everything about our expert consultation to support effective EAP implementation for National Societies and other stakeholders
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Trigger Monitoring and Early Warning Systems__](trigger_design.md)
+-   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Trigger Monitoring and Early Warning Systems__](trigger_monitoring.md)
 
     ---
 
