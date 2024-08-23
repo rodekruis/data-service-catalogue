@@ -23,7 +23,11 @@ A data service represents a tailored solution contextualized for one organizatio
 A data service is ultimately aimed at ensuring that data-driven decision-making remains at the forefront of their operations. Moreover, a data service actively involves hands-on assistance, peer-to-peer learning, maintaining of services and continuing collaboration to empower stakeholders in harnessing the full potential of data for impactful humanitarian action.  
 
 ---
+### Employing Human Centered Design in data service.
 
+Human-Centred Design (HCD) is at the heart of our work. We employ HCD principles to create solutions together with National Societies, tailoring them to fit the local context. Our approach involves key informant interviews, focus group discussions, analysis of the current situation, and future development insights. We ask the NS to set goals and we propose digital solutions accordingly. We engage in iterative design and testing, ensuring that the digital solutions align with the needs and preferences of the communities we serve. 
+
+---
 ### Thematic Areas
 
 <!-- markdownlint-disable -->
