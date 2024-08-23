@@ -50,5 +50,7 @@ Nature based solutions assessment involves four steps:
 3. **Scenario analysis**: e.g. understanding the link between natural disasters and land cover changes
 4. **Quantification of changes**: Quantifying ecosystem services lost due to land cover change
 
+### Expected outcome - example
+
 ### Contact Detail
 
