@@ -74,4 +74,7 @@ nav:
       - 'Nature-Based Solution Assessment': 'wl/nbs_assessment.md'
       - 'Site Suitability Assessment': 'wl/site_suitability_assessment.md'
     - 'Cross thematic data services': 'cross_cutting/index.md'
+      - 'People Affected Management (PAM)': 'cross_cutting/pam.md'
+      - 'Capacity Building and Training in Data Literacy': 'cross_cutting/capacity_building.md'
+      - 'Real-Time Data Visualization and Dashboards': 'cross_cutting/data_visualization.md'
     - 'F.A.Q': 'general/faq.md'
