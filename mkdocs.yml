@@ -48,7 +48,18 @@ extra:
 
 nav:
     - 'Home': 'index.md'
-    - 'Anticipatory Action' : 'aa/index.md'
+    - 'Anticipatory Action' :
+      - 'About Anticipatory Action': 'aa/index.md'
+      - 'Data-Driven Risk Assessment': 'aa/data_driven_risk_assessment.md'
+      - 'Forecast Skill Assessment': 'aa/forecast_skill_assessment.md'
+      - 'Trigger design for Anticipatory Action': 'aa/trigger_design.md'
+      - 'Hazard exposure and vulnerability assessment': 'aa/impact_assessment.md'
+      - 'Expert consultation during EAP Activation': 'aa/eap_activation.md'
+      - 'Early Action Protocol (EAP) Developmnent': 'aa/eap_development.md'
+      - 'Intervention area mapping and targeting': 'aa/intervention_mapping.md'
+      - 'Scenario Planning and Simulation': 'aa/scenario_planning.md'
+      - 'Predictive Analytics and modeling': 'aa/predictive_analytics.md'
+      - 'Trigger Monitoring and Early Warning Systems': 'aa/trigger_monitoring.md'
     - 'Cash & Voucher Assistance': 'cva/index.md'
     - 'Community Engagement & Accountability': 'cea/index.md'
     - 'Emergency Support':
