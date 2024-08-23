@@ -73,4 +73,5 @@ nav:
       - 'Landscape Restoration Tool': 'wl/lrt.md'
       - 'Nature-Based Solution Assessment': 'wl/nbs_assessment.md'
       - 'Site Suitability Assessment': 'wl/site_suitability_assessment.md'
+    - 'Cross thematic data services': 'cross_cutting/index.md'
     - 'F.A.Q': 'general/faq.md'
