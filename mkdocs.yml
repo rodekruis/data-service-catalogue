@@ -30,7 +30,7 @@ theme:
     language: en
     palette:
       primary: custom
-    logo: assets/img/510Logo.svg
+    logo: assets/img/510Logo.png
     features:
       - navigation.top
       - navigation.instant
@@ -73,8 +73,8 @@ nav:
       - 'Landscape Restoration Tool': 'wl/lrt.md'
       - 'Nature-Based Solution Assessment': 'wl/nbs_assessment.md'
       - 'Site Suitability Assessment': 'wl/site_suitability_assessment.md'
-    - 'Cross-Thematic data services':
-      - 'About Cross-Thematic Data Services': 'cross_cutting/index.md'
+    - 'Cross-Thematic':
+      - 'About Cross-Thematic Services': 'cross_cutting/index.md'
       - 'People Affected Management (PAM)': 'cross_cutting/pam.md'
       - 'Capacity Building and Training in Data Literacy': 'cross_cutting/capacity_building.md'
       - 'Real-Time Data Visualization and Dashboards': 'cross_cutting/data_visualization.md'
