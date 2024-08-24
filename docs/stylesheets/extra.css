@@ -13,6 +13,11 @@
   font-size: inherit; /* Prevent jump in text-size */
 }
 
+/* Make links bold */
+.md-typeset a {
+  font-weight: bold;
+}
+
 /* Make sub-headings stand-out from the body-text more (No need for inline-styles/bold/strong) */
 .md-typeset h3 {
   font-weight: bold;
