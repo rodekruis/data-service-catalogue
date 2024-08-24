@@ -2,7 +2,6 @@
 
 
 <!-- markdownlint-disable-next-line no-trailing-punctuation -->
-## Welcome to the 510 Data Service Catalogue!
 
 Welcome to the Data Service Catalogue, an overview of the data services we offer at 510. This catalogue is designed to provide our partners with a clear and detailed overview of our services, helping you understand what to expect from us and how these services can be tailored to meet your specific needs.
 
