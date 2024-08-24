@@ -30,7 +30,7 @@ theme:
     language: en
     palette:
       primary: custom
-    logo: /assets/img/510Logo.svg
+    logo: assets/img/510Logo.svg
     features:
       - navigation.top
       - navigation.instant
