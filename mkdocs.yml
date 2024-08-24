@@ -55,7 +55,7 @@ nav:
       - 'Trigger design for Anticipatory Action': 'aa/trigger_design.md'
       - 'Hazard exposure and vulnerability assessment': 'aa/impact_assessment.md'
       - 'Expert consultation during EAP Activation': 'aa/eap_activation.md'
-      - 'Early Action Protocol (EAP) Developmnent': 'aa/eap_development.md'
+      - 'Early Action Protocol (EAP) Development': 'aa/eap_development.md'
       - 'Intervention area mapping and targeting': 'aa/intervention_mapping.md'
       - 'Scenario Planning and Simulation': 'aa/scenario_planning.md'
       - 'Predictive Analytics and modeling': 'aa/predictive_analytics.md'
@@ -73,7 +73,8 @@ nav:
       - 'Landscape Restoration Tool': 'wl/lrt.md'
       - 'Nature-Based Solution Assessment': 'wl/nbs_assessment.md'
       - 'Site Suitability Assessment': 'wl/site_suitability_assessment.md'
-    - 'Cross thematic data services': 'cross_cutting/index.md'
+    - 'Cross-Thematic data services':
+      - 'About Cross-Thematic Data Services': 'cross_cutting/index.md'
       - 'People Affected Management (PAM)': 'cross_cutting/pam.md'
       - 'Capacity Building and Training in Data Literacy': 'cross_cutting/capacity_building.md'
       - 'Real-Time Data Visualization and Dashboards': 'cross_cutting/data_visualization.md'
