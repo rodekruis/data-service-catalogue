@@ -75,7 +75,10 @@ See more about Anticipatory Action on **[our website](https://510.global/anticip
 ---
 ## Integration with other thematic areas
 
-### CEA in anticipatory action   
+### CVA in Anticipatory Action
+*work in progress* 
+
+### CEA in Anticipatory Action   
 
 Community engagement and accountability are essential components of anticipatory action, ensuring that interventions are relevant, effective, and aligned with the needs and priorities of the communities they aim to protect  
 
