@@ -51,12 +51,12 @@ See more about Anticipatory Action on **[our website](https://510.global/anticip
     ---
 
     Everything about the design and development of data-driven EAPs grounded in robust risk assessments
-
- -   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Scenario Planning and Simulation__](scenario_planning.md)
+    
+-   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Scenario Planning and Simulation__](scenario_planning.md)
 
     ---
 
-   Everything about the Development of simulation tools for stakeholders to model the EAP. 
+    Everything about the development of simulation tools for stakeholders to model the EAP. 
 
 
 -   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Predictive Analytics and Modeling__](predictive_analytics.md)
