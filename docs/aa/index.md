@@ -56,7 +56,8 @@ See more about Anticipatory Action on **[our website](https://510.global/anticip
 
     ---
 
-    Everything about the Development of simulation tools for stakeholders to model the EAP. 
+   Everything about the Development of simulation tools for stakeholders to model the EAP. 
+
 
 -   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Predictive Analytics and Modeling__](predictive_analytics.md)
 
@@ -68,7 +69,7 @@ See more about Anticipatory Action on **[our website](https://510.global/anticip
 
     ---
 
-    Everything about our expert consultation to support effective EAP implementation for National Societies and other stakeholders
+    Everything about our expert consultation to support effective EAP implementation for National Societies and other stakeholders Everything about the Development of simulation tools for stakeholders to model the EAP. 
 
 
 </div>
