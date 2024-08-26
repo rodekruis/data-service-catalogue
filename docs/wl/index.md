@@ -26,4 +26,11 @@ See more about Water & Landscape on **[our website](https://510.global/water-and
 
     ---
 
-    Everything about our support to assess site suitability for the delivery of a certain infrastructure or service. 
+    Everything about our support to assess site suitability for the delivery of a certain infrastructure or service.
+
+-   :fontawesome-solid-droplet:{ .lg .middle } [__enhanced Vulnerability and Capacity Assessment__](contamination_risk_tool/index.md)
+
+    ---
+
+    Everything about our support to the IFRC's eVCA for participatory community risk assessment.
+
