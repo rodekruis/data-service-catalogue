@@ -84,3 +84,9 @@ Need further assistance? Contact your dedicated Data Service Coordinator
 or reach out to [our general email](mailto:support@510.global).
 
 ---
+
+## Knowledge Agenda
+To further improve data services within the humanitarian sector, 510 will do more research together with ther partners on: 
+* AI for 
+* Use of XX
+* 
