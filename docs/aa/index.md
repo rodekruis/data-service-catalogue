@@ -73,6 +73,8 @@ See more about Anticipatory Action on **[our website](https://510.global/anticip
 
 
 </div>
+
+<!-- markdownlint-enable -->
 ---
 ## Integration with other thematic areas
 
