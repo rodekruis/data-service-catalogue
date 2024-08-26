@@ -29,9 +29,3 @@ See more about our data and digital products & services in other thematic areas 
     ---
 
     Everything about site selection to identifying efficient locations for borehole drilling.
-
--   :fontawesome-solid-droplet:{ .lg .middle } [__enhanced Vulnerability and Capacity Assessment__](contamination_risk_tool/index.md)
-
-    ---
-
-    Everything about our support to the IFRC's eVCA for participatory community risk assessment.
