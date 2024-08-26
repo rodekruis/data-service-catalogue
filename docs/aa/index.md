@@ -69,3 +69,19 @@ See more about Anticipatory Action on **[our website](https://510.global/anticip
     ---
 
     Everything about our expert consultation to support effective EAP implementation for National Societies and other stakeholders
+
+    
+---
+## Integration other thematic areas
+
+### CEA in anticipatory action   
+
+Community engagement and accountability are essential components of anticipatory action, ensuring that interventions are relevant, effective, and aligned with the needs and priorities of the communities they aim to protect  
+
+* Engage communities from the outset in setting priorities, and designing anticipatory actions. This ensures that interventions are culturally appropriate and meet the real needs of the people.  
+
+* Establish channels for communities to provide feedback on the actions taken and their effectiveness. This feedback helps refine and improve future anticipatory actions and ensures that communities feel heard and valued. 
+
+* Incorporate local knowledge and practices into anticipatory action plans. Communities often have deep, context-specific understanding of their environment and risks, which can enhance the effectiveness of interventions. 
+
+* Ensure that engagement strategies are inclusive, reaching all segments of the community, including vulnerable groups such as women, children, the elderly, and people with disabilities. This ensures that the needs of the most at-risk populations are addressed. 
