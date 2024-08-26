@@ -1,5 +1,5 @@
 *work in progress*
-## Capacity building and training in Anticipatory Action
+## Within Anticipatory Action
 
 We focus on building capacity in Anticipatory Action  among National societies and their national partners , empowering stakeholders to effectively use data in designing and implementing anticipatory actions. 
 
