@@ -70,7 +70,8 @@ See more about Anticipatory Action on **[our website](https://510.global/anticip
 
     Everything about our expert consultation to support effective EAP implementation for National Societies and other stakeholders
 
-    
+
+pointer-events:none;
 ---
 ## Integration with other thematic areas
 
