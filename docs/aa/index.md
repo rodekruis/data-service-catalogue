@@ -72,7 +72,7 @@ See more about Anticipatory Action on **[our website](https://510.global/anticip
 
     
 ---
-## Integration other thematic areas
+## Integration with other thematic areas
 
 ### CEA in anticipatory action   
 
@@ -84,4 +84,6 @@ Community engagement and accountability are essential components of anticipatory
 
 * Incorporate local knowledge and practices into anticipatory action plans. Communities often have deep, context-specific understanding of their environment and risks, which can enhance the effectiveness of interventions. 
 
-* Ensure that engagement strategies are inclusive, reaching all segments of the community, including vulnerable groups such as women, children, the elderly, and people with disabilities. This ensures that the needs of the most at-risk populations are addressed. 
+* Ensure that engagement strategies are inclusive, reaching all segments of the community, including vulnerable groups such as women, children, the elderly, and people with disabilities. This ensures that the needs of the most at-risk populations are addressed.
+
+See the full overview of data services we off within the Digital Community Engagement and Accountability thematic area XX. 
