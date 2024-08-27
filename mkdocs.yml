@@ -77,4 +77,4 @@ nav:
       - 'People Affected Management (PAM)': 'cross_cutting/pam.md'
       - 'Capacity Building and Training in Data Literacy': 'cross_cutting/capacity_building.md'
       - 'Real-Time Data Visualization and Dashboards': 'cross_cutting/data_visualization.md'
-    - 'F.A.Q': 'general/faq.md'
+    # - 'F.A.Q': 'faq/index.md'
