@@ -12,15 +12,25 @@ See more about our data and digital products & services in other thematic areas 
 
 
 ### Challenge
-
+Nature based solutions (NbS) are designed to address challenges such as climate change, biodiversity loss and disaster risk by utilizing natural processes that support the health and management of ecosystems which provide benefits and services to society. NbS focus on resolving the urgent need for integrated, nature-driven strategies to tackle environmental and social challenges at various levels.  
 
 ### Need
+Often, environmental and social challenges are treated in isolation despite the need for integrated approaches that not only minimize negative consequences but also maximize synergies between people and nature. As a response to this growing need, NbS offers a holistic solution in addressing the often intertwined challenges of climate change, biodiversity loss, food and water security and disaster risk.  
 
+By working with and enhancing nature, NbS enables climate change mitigation and adaptation at relatively lower cost, while also protecting biodiversity and providing multiple benefits to people. By integrating natural processes into societal response, NbS aim to meet the interconnected demands for ecosystem health, community resilience and sustainable development.  
 
 ### Solution 
+Nature based solutions (NbS) utilize natural ecosystems and processes to address environmental challenges such as disaster risk, climate change, food security, water security and human health. 
+
+NbS harnesses the power of nature to provide sustainable and effective ways to provide sustainable and effective ways to mitigate and adapt to environmental issues while offering additional benefits to both human societies and ecosystems. 
+
+Within climate risk management (CRM), NbS plays a critical role by utilizing nature ecosystems to reduce the impacts of climate-related hazards such as droughts and floods, thereby enhancing the resilience of both people and nature. 
+
+The NbS assessment supports identification and evaluation of solutions to address various societal challenges such as climate change, disaster risk, or biodiversity loss.  
+
 * Application of NbS at the landscape level is a transformational approach to sustainably addressing climate resilience at scale.
 * Sustainably managing, restoring nature and modifying ecosystems through NbS can help address societal challenges.
-* 	Nature based solutions can enable communities to prepare, cope with, and recover from disasters such as floods or slow onset events like droughts. 
+* Nature based solutions can enable communities to prepare, cope with, and recover from disasters such as floods or slow onset events like droughts. 
 
 Aspects Considered to ensure successful Implementation 
 * Co-creation/co-designing through scoping of end-user needs
