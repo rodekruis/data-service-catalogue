@@ -7,3 +7,14 @@ Community Engagement & Accountability (CEA) is essential to help the Red Cross R
 Our goal is to work with National Societies on building trust, enhancing relevance and improving the quality of programmes by providing easy-to-use, safe and transparent digital tools for meaningful and scalable engagement with communities and simple processes for creating actionable insights.   
 
 See more about Community Engagement and Accountability on **[our website](https://510.global/community-engagement-and-accountability/)**, including the latest blog posts and case-studies. 
+
+## Services
+Description of max 120 words of service 1
+
+- [__Service 1__](service_1.md)
+
+--- 
+Description of max 120 words of service 2 
+- [__Service 2__](service_2.md)
+
+---
