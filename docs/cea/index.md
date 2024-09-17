@@ -12,11 +12,11 @@ See more about Community Engagement and Accountability on **[our website](https:
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Strategy development__](strategy_development.md)
+-   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__CEA Strategy development__](strategy_development.md)
 
     ---
 
-    Everything about service 1.
+    Everything about development a strategy for CEA practises within your national society.
 
 -   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Service 2__](service2.md)
 
