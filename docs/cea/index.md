@@ -12,7 +12,7 @@ See more about Community Engagement and Accountability on **[our website](https:
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Service 1__](service1.md)
+-   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Strategy development__](strategy_development.md)
 
     ---
 
