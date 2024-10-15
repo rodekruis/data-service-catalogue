@@ -8,33 +8,33 @@ Our goal is to work with National Societies on building trust, enhancing relevan
 
 See more about Community Engagement and Accountability on **[our website](https://510.global/community-engagement-and-accountability/)**, including the latest blog posts and case-studies. 
 
-## Services
+## Service Categories
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
--   :fontawesome-house-user:{ .lg .middle } [__Institutionalization_of_CEA__](institutionalization/index.md)
+-   :fontawesome-landmark:{ .lg .middle } [__Institutionalization_of_CEA__](institutionalization/index.md)
 
     ---
 
     Everything about development a strategy for CEA practises within your national society.
 
--   :fontawesome-messages:{ .lg .middle } [__Information_Dissemination__](information_dissemination/index.md)
+-   :fontawesome-tower-broadcast:{ .lg .middle } [__Information_Dissemination__](information_dissemination/index.md)
 
     ---
 
     Everything about information dissemination
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Service 3__](service3.md)
+-   :fontawesome-chart-line:{ .lg .middle } [__Data_Support__](data_support.md)
 
     ---
 
-    Everything about service 3
+    Everything about data support 
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Service 4__](service4.md)
+-   :fontawesome-ear-listen:{ .lg .middle } [__Feedback_Mechanmism__](feedback_mechanisms/index.md)
 
     ---
 
-    Everything about service 4
+    Everything about feedback mechanisms
 </div>
 
 <!-- markdownlint-enable -->
@@ -43,9 +43,15 @@ See more about Community Engagement and Accountability on **[our website](https:
 ## Integration with other thematic areas
 
 ### CEA in Cash and Voucher Assistance
-*work in progress* 
+**Overlap**: CEA and CVA share a common focus on direct engagement with communities. In CVA, where cash or vouchers are provided as aid, it is critical that the design and implementation of these programs are informed by community feedback. CEA ensures that beneficiaries’ needs, preferences, and concerns are considered, helping tailor cash interventions to the local context. 
+
+**Differences**: CVA programs are often more transactional in nature, focusing on delivering financial resources to individuals, whereas CEA is relational, emphasizing ongoing dialogue and accountability. While CVA aims at meeting immediate needs through economic means, CEA ensures that this process is transparent and that the cash or voucher system is accessible and fair for the most marginalized groups. 
+
+**Integration**: By embedding CEA practices within CVA programs, organizations can close the feedback loop—ensuring that recipients can voice their experiences and challenges with the assistance received. CEA’s feedback mechanisms also help organizations adapt and improve CVA systems in real time, ensuring a more responsive and accountable process. 
 
 ### CEA in Anticipatory Action  
+
+
 *needs to be reviewed*_
 Community engagement and accountability are essential components of anticipatory action, ensuring that interventions are relevant, effective, and aligned with the needs and priorities of the communities they aim to protect  
 
@@ -59,3 +65,8 @@ Community engagement and accountability are essential components of anticipatory
 
 See the full overview of data services we offer within the Anticipatory thematic area XX. 
 
+# CEA in Water and Landscape
+
+
+
+# CEA in Emergency Responses
