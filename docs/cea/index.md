@@ -12,17 +12,17 @@ See more about Community Engagement and Accountability on **[our website](https:
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__CEA Strategy development__](strategy_development.md)
+-   :fontawesome-house-user:{ .lg .middle } [__Institutionalization_of_CEA__](institutionalization/index.md)
 
     ---
 
     Everything about development a strategy for CEA practises within your national society.
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Service 2__](service2.md)
+-   :fontawesome-messages:{ .lg .middle } [__Information_Dissemination__](information_dissemination/index.md)
 
     ---
 
-    Everything about service 2
+    Everything about information dissemination
 
 -   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Service 3__](service3.md)
 
