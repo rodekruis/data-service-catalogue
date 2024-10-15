@@ -12,25 +12,25 @@ See more about Community Engagement and Accountability on **[our website](https:
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
--   :fontawesome-landmark:{ .lg .middle } [__Institutionalization_of_CEA__](institutionalization/index.md)
+-   :fontawesome-landmark:{ .lg .middle } [__Institutionalization of CEA__](institutionalization/index.md)
 
     ---
 
     Everything about development a strategy for CEA practises within your national society.
 
--   :fontawesome-tower-broadcast:{ .lg .middle } [__Information_Dissemination__](information_dissemination/index.md)
+-   :fontawesome-tower-broadcast:{ .lg .middle } [__Information Dissemination__](information_dissemination/index.md)
 
     ---
 
     Everything about information dissemination
 
--   :fontawesome-chart-line:{ .lg .middle } [__Data_Support__](data_support.md)
+-   :fontawesome-chart-line:{ .lg .middle } [__Data Support__](data_support.md)
 
     ---
 
     Everything about data support 
 
--   :fontawesome-ear-listen:{ .lg .middle } [__Feedback_Mechanmism__](feedback_mechanisms/index.md)
+-   :fontawesome-ear-listen:{ .lg .middle } [__Feedback Mechanisms__](feedback_mechanisms/index.md)
 
     ---
 
@@ -65,8 +65,8 @@ Community engagement and accountability are essential components of anticipatory
 
 See the full overview of data services we offer within the Anticipatory thematic area XX. 
 
-# CEA in Water and Landscape
+### CEA in Water and Landscape
 
 
 
-# CEA in Emergency Responses
+### CEA in Emergency Responses
