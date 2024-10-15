@@ -67,6 +67,12 @@ See the full overview of data services we offer within the Anticipatory thematic
 
 ### CEA in Water and Landscape
 
-
-
+_in progress
+_
 ### CEA in Emergency Responses
+
+**Overlap**: CEA and emergency response operations both prioritize engaging affected communities during crises. In emergency response, the need for rapid action is balanced with the need for accountability and transparency. CEA mechanisms, such as feedback systems and information dissemination channels, are vital in emergency contexts to ensure that aid is delivered effectively, and that communities are kept informed and have the opportunity to raise concerns. 
+
+**Differences**: Emergency response is often characterized by speed and scale, focusing on delivering immediate assistance such as food, shelter, and medical care. CEA, while present in emergencies, often functions at a slower pace, aiming to build relationships and trust. In crisis situations, this can pose a challenge as the urgency of response may not always allow for the full breadth of community engagement activities. 
+
+**Integration**: CEA can be integrated into emergency response by providing quick feedback loops that allow real-time adjustments to aid delivery. In addition, embedding CEA from the start ensures that communities understand what support is coming, and how they can access it, and have the means to express their needs or dissatisfaction. This helps avoid misunderstandings and misinformation thereby enhancing the effectiveness of the response by ensuring that aid is more closely aligned with the community’s most urgent needs. 
