@@ -1,8 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-
 # Community Engagement & Accountability
-
-*Work in progress.*
 
 Community Engagement & Accountability (CEA) is essential to help the Red Cross Red Crescent Movement build the acceptance and trust that is needed to deliver lifesaving work. One of the most effective ways of building this trust is to make sure that people can always engage with National Red Cross and Red Crescent Societies, and to guarantee that National Societies will act based on their feedback and needs. Achieving this requires a systematic, consistent and high-quality approach to how we engage with and are accountable to communities.
 
@@ -83,31 +79,3 @@ See the [full overview](https://rodekruis.github.io/data-service-catalogue/es/) 
 **Integration**: CEA can be integrated into emergency response by providing quick feedback loops that allow real-time adjustments to aid delivery. In addition, embedding CEA from the start ensures that communities understand what support is coming, and how they can access it, and have the means to express their needs or dissatisfaction. This helps avoid misunderstandings and misinformation thereby enhancing the effectiveness of the response by ensuring that aid is more closely aligned with the community’s most urgent needs. 
 
 See the [full overview](https://rodekruis.github.io/data-service-catalogue/es/) of Emergency Responses services we offer.
-
-<div class="grid cards">
-
-  <div>
-    <i class="fas fa-landmark lg middle"></i> 
-    <a href="institutionalization/index.md"><strong>Institutionalization of CEA</strong></a>
-    <p>Everything about development of a strategy for CEA practices within your national society.</p>
-  </div>
-
-  <div>
-    <i class="fas fa-broadcast-tower lg middle"></i> 
-    <a href="information_dissemination/index.md"><strong>Information Dissemination</strong></a>
-    <p>Everything about information dissemination.</p>
-  </div>
-
-  <div>
-    <i class="fas fa-chart-line lg middle"></i> 
-    <a href="data_support.md"><strong>Data Support</strong></a>
-    <p>Everything about data support.</p>
-  </div>
-
-  <div>
-    <i class="fas fa-ear-listen lg middle"></i> 
-    <a href="feedback_mechanisms/index.md"><strong>Feedback Mechanisms</strong></a>
-    <p>Everything about feedback mechanisms.</p>
-  </div>
-
-</div>
