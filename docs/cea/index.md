@@ -10,25 +10,25 @@ See more about Community Engagement and Accountability on **[our website](https:
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
--   :fontawesome-landmark:{ .lg .middle } [__Institutionalization of CEA__](institutionalization/index.md)
+-   [__Institutionalization of CEA__](institutionalization/index.md)
 
     ---
 
     Everything about development a strategy for CEA practises within your national society.
 
--   :fontawesome-tower-broadcast:{ .lg .middle } [__Information Dissemination__](information_dissemination/index.md)
+-   [__Information Dissemination__](information_dissemination/index.md)
 
     ---
 
     Everything about information dissemination
 
--   :fontawesome-chart-line:{ .lg .middle } [__Data Support__](data_support.md)
+-   [__Data Support__](data_support.md)
 
     ---
 
     Everything about data support 
 
--   :fontawesome-ear-listen:{ .lg .middle } [__Feedback Mechanisms__](feedback_mechanisms/index.md)
+-   [__Feedback Mechanisms__](feedback_mechanisms/index.md)
 
     ---
 
