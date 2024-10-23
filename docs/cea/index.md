@@ -7,6 +7,8 @@ Our goal is to work with National Societies on building trust, enhancing relevan
 See more about Community Engagement and Accountability on **[our website](https://510.global/community-engagement-and-accountability/)**, including the latest blog posts and case-studies. 
 
 ## Service Categories
+There are four different categories where we place the CEA services in. Scroll to the [bottom of this page](#full-list-of-CEA-services) to see an overview of the full list of services.
+
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
@@ -79,3 +81,23 @@ See the [full overview](https://rodekruis.github.io/data-service-catalogue/es/) 
 **Integration**: CEA can be integrated into emergency response by providing quick feedback loops that allow real-time adjustments to aid delivery. In addition, embedding CEA from the start ensures that communities understand what support is coming, and how they can access it, and have the means to express their needs or dissatisfaction. This helps avoid misunderstandings and misinformation thereby enhancing the effectiveness of the response by ensuring that aid is more closely aligned with the community’s most urgent needs. 
 
 See the [full overview](https://rodekruis.github.io/data-service-catalogue/es/) of Emergency Responses services we offer.
+
+## Full list of CEA services:
+
+### Institutionalization
+1. Strategy development
+2. Data protection
+3. Engaging with communities
+
+### Information dissemination
+1. Implement helpful information app
+2. Implement bulk messaging
+
+### CEA data support
+1. Full data and information management cycle of CEA
+
+### Feedback mechanisms
+1. Implement general digital feedback mechanism
+2. Implement digital engagement hub
+3. Implement social media listening
+
