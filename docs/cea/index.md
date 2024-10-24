@@ -85,19 +85,19 @@ See the [full overview](https://rodekruis.github.io/data-service-catalogue/es/) 
 ## Full list of CEA services:
 
 ### Institutionalization
-1. Strategy development
-2. Data protection
-3. Engaging with communities
+1. [Strategy development](institutionalization/strategy_development.md)
+2. [Data protection](institutionalization/data_protection.md)
+3. [Engaging with communities](institutionalization/engaging_with_communities.md)
 
 ### Information dissemination
-1. Implement helpful information app
-2. Implement bulk messaging
+1. [Implement helpful information app](information_dissemination/hia.md)
+2. [Implement bulk messaging](information_dissemination/bulk_messaging.md)
 
 ### CEA data support
-1. Full data and information management cycle of CEA
+1. [Full data and information management cycle of CEA](data_support.md)
 
 ### Feedback mechanisms
-1. Implement general digital feedback mechanism
-2. Implement digital engagement hub
-3. Implement social media listening
+1. [Implement general digital feedback mechanism](feedback_mechanisms/general_digital_feedback_mechanism.md)
+2. [Implement digital engagement hub](feedback_mechanisms/deh.md)
+3. [Implement social media listening](feedback_mechanisms/sml.md)
 
