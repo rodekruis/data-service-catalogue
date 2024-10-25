@@ -10,11 +10,11 @@ Organizations require a structured, actionable CEA strategy to guide their teams
 
 ## Solution 
 
-NLRC-510 offers a service to organize and assist with the development of CEA strategies. This includes multiple analysis, assessments and workshops to guide the process. We use the IFRC CEA Toolkit to ensure consistency and clarity in the strategy's development, empowering organizations to create inclusive, community-focused programs. 
+NLRC-510 offers a service to organize and assist with the development of CEA strategies. This includes multiple analysis, assessments and workshops to guide the process. We use the IFRC CEA Toolkit to ensure consistency and clarity in the strategy's development, empowering organizations to create inclusive, community-focused programs. NLRC-510 can offer support with developing the full CEA strategy, but we can also consult on components such as digital CEA.
 
 ## Application 
 
-This service is for National Societies and humanitarian organizations looking to embed community engagement in their core operations. Through consultations and workshops, the service helps leadership teams create guidelines and metrics of success, ensuring that CEA becomes an integral part of their organizational culture. 
+This service is for National Societies and humanitarian organizations looking to embed community engagement in their core operations. Through consultations and workshops, the service helps leadership teams create guidelines and metrics of success, ensuring that CEA becomes an integral part of their organizational culture.  
 
 ## Methodology 
 
