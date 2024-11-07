@@ -101,3 +101,4 @@ See the [full overview](https://rodekruis.github.io/data-service-catalogue/es/) 
 2. [Implement digital engagement hub](feedback_mechanisms/deh.md)
 3. [Implement social media listening](feedback_mechanisms/sml.md)
 
+<!-- Currently out of scope as service but could be in the future: Community-based surveillance with [NYSS](https://cbs.ifrc.org/what-nyss)  -->
