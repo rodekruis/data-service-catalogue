@@ -14,43 +14,43 @@ See more about Anticipatory Action on **[our website](https://510.global/anticip
 <!-- markdownlint-disable -->
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Data-Driven Risk Assessment__](risk_assessment.md)
+-   :fontawesome-solid-fire-flame-curved:{ .lg .middle } [__Data-Driven Risk Assessment__](risk_assessment.md)
 
     ---
 
     Everything about risk assessment to identify prioritized hazards for Early Action Protocol (EAP) development. 
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Forecast Skill Assessment__](forecast_skill_assessment.md)
+-   :fontawesome-solid-chart-line:{ .lg .middle } [__Forecast Skill Assessment__](forecast_skill_assessment.md)
 
     ---
 
     Everything about the forecast skill assessment services to assess the accuracy and reliability of available forecasts over different lead times.
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Trigger design__](trigger_design.md)
+-   :fontawesome-solid-bullseye:{ .lg .middle } [__Trigger design__](trigger_design.md)
 
     ---
 
     Everything about our support to design triggers for EAPs based on data analysis of available forecasts, informed by the forecast skill assessment.
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Hazard exposure and vulnerability assessment__](hazard_exposure_vulnerability.md)
+-   :fontawesome-solid-bolt:{ .lg .middle } [__Hazard exposure and vulnerability assessment__](hazard_exposure_vulnerability.md)
 
     ---
 
     Everything about our assistance to support Antcipatory action more accurately based on hazard, exposure and vulnerability data.
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Expert consultation during EAP activation__](eap_activation.md)
+-   :fontawesome-solid-user-tie:{ .lg .middle } [__Expert consultation during EAP activation__](eap_activation.md)
 
     ---
 
     Everything about our expert consultation to support effective EAP implementation for National Societies and other stakeholders
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Early Action Protocol (EAP) development__](eap_development.md)
+-   :fontawesome-solid-file-lines:{ .lg .middle } [__Early Action Protocol (EAP) development__](eap_development.md)
 
     ---
 
     Everything about the support in simulation of EAP to improve effective implmentation
     
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Scenario Planning and Simulation__](scenario_planning.md)
+-   :fontawesome-solid-route:{ .lg .middle } [__Scenario Planning and Simulation__](scenario_planning.md)
 
     ---
 
