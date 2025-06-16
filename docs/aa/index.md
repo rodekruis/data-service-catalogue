@@ -1,7 +1,5 @@
 # Anticipatory Action
 
-*Work in progress.*
-
 Anticipatory Action refers to the actions taken to reduce the humanitarian impacts of a forecasted hazard before it occurs or before its most acute impacts are felt. The decision to take action is informed by impact-based forecasts and corresponding thresholds tailored to determine when, where, and how the event will unfold. We aim to enhance Anticipatory Action development and implementation. We support National Societies and other humanitarian actors with data services, capacity building, and by creating digital tools.   
 
 By turning forecasts from descriptions of what the weather will be into assessments of what the weather will do, we enable National Societies and local humanitarian partners to leverage data and technology to make data-driven, life-saving decisions and act before disasters strike.  
@@ -72,7 +70,8 @@ See more about Anticipatory Action on **[our website](https://510.global/anticip
 ## Integration with other thematic areas
 
 ### CVA in Anticipatory Action
-*work in progress* 
+
+We offer comprehensive Information Management (IM) support tailored for cash-based anticipatory action. Our in-house 121 platform is specifically designed to streamline cash interventions, providing key features such as User Management, Platform Integration, Beneficiary Management, Program Management, Payment Handling, Audit and Documentation, and Data Visualization. 
 
 ### CEA in Anticipatory Action   
 
