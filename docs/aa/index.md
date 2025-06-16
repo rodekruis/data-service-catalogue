@@ -34,11 +34,11 @@ See more about Anticipatory Action on **[our website](https://510.global/anticip
 
     Everything about our support to design triggers for EAPs based on data analysis of available forecasts, informed by the forecast skill assessment.
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Hazard exposure and vulnerability assessment__](trigger_design.md)
+-   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Hazard exposure and vulnerability assessment__](hazard_exposure_vulnerability.md)
 
     ---
 
-    Everything about our assistance to predict potential impacts more accurately based on hazard, exposure and vulnerability data.
+    Everything about our assistance to support Antcipatory action more accurately based on hazard, exposure and vulnerability data.
 
 -   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Expert consultation during EAP activation__](eap_activation.md)
 
@@ -50,20 +50,13 @@ See more about Anticipatory Action on **[our website](https://510.global/anticip
 
     ---
 
-    Everything about the design and development of data-driven EAPs grounded in robust risk assessments
+    Everything about the support in simulation of EAP to improve effective implmentation
     
 -   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Scenario Planning and Simulation__](scenario_planning.md)
 
     ---
 
-    Everything about the development of simulation tools for stakeholders to model the EAP. 
-
-
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Predictive Analytics and Modeling__](predictive_analytics.md)
-
-    ---
-
-    Everything about our expert consultation to support effective EAP implementation for National Societies and other stakeholders
+    Everything about the development of tools for stakeholders to monitor triggers for EAPs. 
 
 -   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Trigger Monitoring and Early Warning Systems__](trigger_monitoring.md)
 
