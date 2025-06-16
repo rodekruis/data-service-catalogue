@@ -56,13 +56,13 @@ See more about Anticipatory Action on **[our website](https://510.global/anticip
 
     Everything about the development of tools for stakeholders to monitor triggers for EAPs. 
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Trigger Monitoring and Early Warning Systems__](trigger_monitoring.md)
+-   :fontawesome-solid-triangle-exclamation:{ .lg .middle } [__Trigger Monitoring and Early Warning Systems__](trigger_monitoring.md)
 
     ---
 
     Everything about our expert consultation to support effective EAP implementation for National Societies and other stakeholders Everything about the Development of simulation tools for stakeholders to model the EAP. 
 
--   :fontawesome-solid-sun-plant-wilt:{ .lg .middle } [__Regional/National Antcipatory action Databasend __](aa_regional_database.md)
+-   :fontawesome-solid-database:{ .lg .middle } [__Regional National Antcipatory action Databasend__](aa_regional_database.md)
 
     ---
 
