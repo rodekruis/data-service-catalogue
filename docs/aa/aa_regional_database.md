@@ -1,4 +1,5 @@
 ## Development of an Anticipatory Action Database and Information System
+
 This service is designed to support the mapping and harmonization of anticipatory action frameworks at national and regional levels. It offers end-to-end support for developing an Anticipatory Action database that documents, organizes, and provides access to essential information on frameworks, strategies, and interventions. The database acts as a central resource for humanitarian organizations, government agencies, and technical partners, facilitating the implementation and scaling of anticipatory action in diverse regional contexts. It enables the creation of a structured, interactive, and regularly updated platform that can be integrated with existing knowledge management systems. The database captures key elements such as early actions, triggers, financing mechanisms, and activation protocols.
 
 ### Key Features
@@ -25,7 +26,3 @@ The database captures a wide range of AA elements, including:
 - Financing mechanisms
 - Operational protocols
 - Actor mapping
-
----
-
-For more information or to get started, please contact the project team.
