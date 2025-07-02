@@ -62,7 +62,7 @@ See more about Anticipatory Action on **[our website](https://510.global/anticip
 
     Everything about our expert consultation to support effective EAP implementation for National Societies and other stakeholders Everything about the Development of simulation tools for stakeholders to model the EAP. 
 
--   :fontawesome-solid-database:{ .lg .middle } [__Regional National Antcipatory action Databasend__](aa_regional_database.md)
+-   :fontawesome-solid-database:{ .lg .middle } [__Regional National Antcipatory action Database__](regional_database.md)
 
     ---
 
